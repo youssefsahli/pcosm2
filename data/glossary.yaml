@@ -1,0 +1,543 @@
+ADN:
+  short: ADN
+  long: acide désoxyribonucléique
+
+AGE:
+  short: AGE
+  shortplural: AGEs
+  long: produit de glycation avancée
+  longplural: produits de glycation avancée
+
+CPA:
+  short: CPA
+  long: cellule présentatrice d'antigène
+  longplural: cellules présentatrices d'antigène
+
+EDC:
+  short: EDC
+  long: endocrine-disrupting chemicals
+  
+IL-1:
+  short: IL-1
+  long: interleukine-1
+
+IL-6:
+  short: IL-6
+  long: interleukine-6
+
+IFNγ:
+  short: IFN‑γ
+  long: interféron‑γ
+
+iNOS:
+  short: iNOS
+  long: NO‑synthase inductible
+
+LPS:
+  short: LPS
+  long: lipopolysaccharide
+  
+TNF-α:
+  short: TNF-α
+  long: facteur de nécrose tumorale alpha
+
+MDA:
+  short: MDA
+  long: malondialdehyde
+  
+MMP:
+  short: MMP
+  long: métalloprotéinase matricielle
+  longplural: métalloprotéinases matricielles
+
+DC:
+  short: DC
+  long: cellule dendritique
+  longplural: cellules dendritiques
+
+NK:
+  short: NK
+  long: lymphocyte Natural Killer
+  longplural: lymphocytes Natural Killer
+
+UV:
+  short: UV
+  long: ultraviolet
+  longplural: ultraviolets
+
+ROS:
+  short: ROS
+  plural: ROS
+  long: espèces réactives de l’oxygène
+
+ROL:
+  short: ROL
+  long: rétinol
+
+CREB:
+  short: CREB
+  long: cAMP-response element-binding protein
+  description: >
+    Facteur de transcription nucléaire dont la phosphorylation (PKA, MAPK, MSK1)
+    active la transcription de MITF et stimule la mélanogenèse.
+
+CRTC1:
+  short: CRTC1
+  long: CREB-regulated transcription coactivator 1
+  description: >
+    Co-activateur cytoplasmique; une fois déphosphorylé, il migre dans le noyau,
+    se lie à CREB et amplifie l’expression de MITF dans les mélanocytes.
+
+MITF:
+  short: MITF
+  long: microphthalmia-associated transcription factor
+  description: >
+    Facteur clé de la différenciation des mélanocytes; contrôle l’expression de la
+    tyrosinase, TRP-1/2 et d’autres gènes de biosynthèse de mélanine.
+
+RNS:
+  short: RNS
+  long: espèces réactives de l’azote
+  description: >
+    Molécules dérivées de l'oxyde nitrique (NO) et du superoxyde (O₂•⁻), telles que le peroxynitrite (ONOO⁻), le dioxyde d'azote (•NO₂) et le trioxide de diazote (N₂O₃). Produites par l'activité enzymatique de la NO-synthase inductible (iNOS) et de la NADPH oxydase, notamment dans les macrophages activés par l'IFN-γ ou le LPS. Elles participent aux défenses immunitaires, à la signalisation cellulaire et au stress nitrosatif, en modifiant lipides, protéines et ADN.
+  group: Définitions
+
+TEWL:
+  short: TEWL
+  long: perte en eau transépidermique
+
+SLS:
+  short: SLS
+  long: laurylsulfate de sodium
+
+SOD:
+  short: SOD
+  long: super oxyde dismutase
+
+CAT:
+  short: CAT
+  long: catalase
+
+UVB:
+  short: UVB
+  long: rayonnement ultraviolet B
+  longplural: rayonnements ultraviolets B
+
+p38:
+  short: p38
+  long: Protéine kinase p38
+
+ERK1_2:
+  short: ERK1/2
+
+JNK:
+  short: JNK
+  long: Kinase N-terminale de c-Jun
+
+IL-8:
+  short: IL-8
+  long: Interleukine-8
+  longplural: interleukines-8
+
+TSLP:
+  short: TSLP
+  long: Thymic Stromal Lymphopoietin
+
+MDC:
+  short: MDC
+  long: Macrophage-Derived Chemokine
+  longplural: macrophage-derived chemokines
+
+TARC:
+  short: TARC
+  long: Thymus and Activation-Regulated Chemokine
+
+RANTES:
+  short: RANTES
+  long: Regulated upon Activation, Normal T cell Expressed and Secreted
+
+EA:
+  short: EA
+  long: acide ellagique
+
+COX-2:
+  short: COX-2
+  long: Cyclooxygénase-2
+  description: Enzyme inductible produisant des prostaglandines pro-inflammatoires, cible majeure des extraits végétaux anti-inflammatoires.
+
+EGCG:
+  short: EGCG
+  long: Epigallocatechine gallate
+  description: Polyphénol extrait du thé vert aux propriétés antioxydantes reconnues.
+  group: Composés Bioactifs
+
+NaHA:
+  short: NaHA
+  long: Hyaluronate de sodium
+  description: Sel de l'acide hyaluronique, utilisé pour ses propriétés hydratantes et repulpantes.
+  group: Composés Bioactifs
+
+B3:
+  short: B3
+  long: Niacinamide (Vitamine B3)
+  description: Vitamine hydrosoluble aux effets apaisants, anti-inflammatoires et éclaircissants.
+  group: Composés Bioactifs
+
+B5:
+  short: B5
+  long: Panthénol (Pro-Vitamine B5)
+  description: Précurseur de la vitamine B5 aux propriétés réparatrices et hydratantes.
+  group: Composés Bioactifs
+
+NaSA:
+  short: NaSA
+  long: Salicylate de sodium
+  description: Dérivé de l'acide salicylique aux propriétés kératolytiques et anti-inflammatoires.
+  group: Composés Bioactifs
+
+NAG:
+  short: NAG
+  long: N-Acétyl Glucosamine
+  description: Dérivé de la glucosamine impliqué dans l'hydratation et la régulation de la pigmentation.
+  group: Composés Bioactifs
+
+GluL:
+  short: GluL
+  long: Gluconolactone
+  description: Polyhydroxyacide doux aux propriétés exfoliantes et antioxydantes.
+  group: Composés Bioactifs
+
+Beta-G:
+  short: Beta-G
+  long: Bêta-Glucane
+  description: Polysaccharide apaisant et réparateur d'origine fongique ou végétale.
+  group: Composés Bioactifs
+
+GOS:
+  short: GOS
+  long: Galacto-Oligosaccharides
+  description: Prébiotiques favorisant le microbiome cutané.
+  group: Composés Bioactifs
+
+BF:
+  short: BF
+  long: Ferment de Bacillus
+  description: Enzyme produite par fermentation, souvent utilisée pour ses propriétés enzymatiques douces.
+  group: Composés Bioactifs
+
+RR Ferment:
+  short: RR Ferment
+  long: Ferment de racine de radis (Leuconostoc)
+  description: Conservateur naturel aux propriétés antimicrobiennes, issu de la fermentation du radis.
+  group: Composés Bioactifs
+
+GGe:
+  short: GGe
+  long: Extrait de racine de réglisse (Glycyrrhiza glabra)
+  description: Actif éclaircissant et apaisant riche en glabridine.
+  group: Composés Bioactifs
+
+Concombre:
+  short: Concombre
+  long: Extrait de concombre (Cucumis sativus)
+  description: Extrait hydratant et rafraîchissant, riche en vitamines.
+  group: Composés Bioactifs
+
+Rose water:
+  short: Rose water
+  long: Eau de fleur de rose (Rosa damascena)
+  description: Eau florale aux propriétés adoucissantes et légèrement astringentes.
+  group: Composés Bioactifs
+
+PD:
+  short: PD
+  long: Propanédiol
+  description: Solvant et humectant issu de sources végétales.
+  group: Composés Bioactifs
+
+PG:
+  short: PG
+  long: Glycol de pentylène
+  description: Humectant et agent de texture.
+  group: Composés Bioactifs
+
+Camomille:
+  short: Camomille
+  long: Eau de fleur de camomille (Anthemis nobilis)
+  description: Eau florale apaisante et anti-inflammatoire.
+  group: Composés Bioactifs
+
+Sel marin:
+  short: Sel marin
+  long: Sel de mer (Maris Sal)
+  description: Agent reminéralisant et exfoliant doux.
+  group: Composés Bioactifs
+
+Chèvrefeuille C:
+  short: Chèvrefeuille C
+  long: Extrait de fleur de chèvrefeuille (Lonicera caprifolium)
+  description: Utilisé comme conservateur naturel.
+  group: Composés Bioactifs
+
+Chèvrefeuille J:
+  short: Chèvrefeuille J
+  long: Extrait de fleur de chèvrefeuille (Lonicera japonica)
+  description: Agent antimicrobien naturel, souvent combiné à d'autres extraits floraux.
+  group: Composés Bioactifs
+
+CA:
+  short: CA
+  long: Acide citrique
+  description: Acide alpha-hydroxylé utilisé pour ajuster le pH et exfolier.
+  group: Composés Bioactifs
+
+SB:
+  short: SB
+  long: Benzoate de sodium
+  description: Conservateur synthétique à faible toxicité.
+  group: Composés Bioactifs
+
+PS:
+  short: PS
+  long: Sorbate de potassium
+  description: Conservateur antifongique utilisé à faible dose.
+  group: Composés Bioactifs
+
+SiO2:
+  short: SiO2
+  long: Silice
+  description: Agent absorbant et matifiant.
+  group: Composés Bioactifs
+
+TGDA:
+  short: TGDA
+  long: Diacétate de glutamate de tétrasodium
+  description: Chélateur stabilisant les formules aqueuses.
+  group: Composés Bioactifs
+
+Linalol:
+  short: Linalol
+  description: Composé parfumant naturellement présent dans de nombreuses huiles essentielles.
+  group: Composés Bioactifs
+
+Citronellol:
+  short: Citronellol
+  description: Molécule odorante au parfum floral, parfois allergène.
+  group: Composés Bioactifs
+
+Geraniol:
+  short: Geraniol
+  long: Géraniol
+  description: Composé aromatique présent dans l'huile de géranium, à la fois parfumant et potentiellement sensibilisant.
+  group: Composés Bioactifs
+
+thermolyse:
+  short: thermolyse
+  description: Modalités d'élimination vers le milieu extérieur, de l'énergie thermique produite en excès par l'organisme
+  group: Définitions
+
+exposome:
+  short: exposome
+  description: Ensemble des expositions environnementales qui agissent sur un individu tout au long de sa vie, et influencent notamment le vieillissement cutané.
+  group: Définitions
+
+dysbiose:
+  short: dysbiose
+  description: Déséquilibre qualitatif ou quantitatif du microbiote, pouvant altérer les fonctions barrières ou immunitaires de la peau.
+  group: Définitions
+
+matreotype:
+  short: matréotype
+  description: Signature architecturale et biochimique de la matrice extracellulaire cutanée
+  group: Définitions
+
+senescence:
+  short: sénescence cellulaire
+  description: Arrêt irréversible du cycle cellulaire accompagné d’un phénotype sécrétoire inflammatoire (SASP), contribuant au vieillissement cutané.
+  group: Définitions
+
+photoproduit:
+  short: photoproduit
+  description: Lésion moléculaire induite par les UV (ex. dimères de pyrimidines) altérant la stabilité de l’ADN.
+  group: Définitions
+  
+nrf2keap1:
+  short: voie Nrf2/Keap1
+  description: Voie de signalisation où le facteur Nrf2, libéré de Keap1, déclenche l’expression de gènes antioxydants et de détoxification.
+
+matrikine:
+  short: matrikine
+  description: Peptide bioactif issu de la dégradation de la matrice extracellulaire, jouant un rôle paracrine dans la réparation cutanée.
+  group: Définitions
+
+tyrosinase:
+  short: tyrosinase
+  description: Oxydase cupro‑dépendante catalysant l’hydroxylation de la L‑tyrosine puis l’oxydation de la L‑DOPA ; étape limitante de la mélanogenèse.
+  group: Définitions
+
+corneodesmosome:
+  short: cornéodesmosome
+  description: Jonction spécifique du stratum corneum assurant la cohésion des cornéocytes et régulant la desquamation.
+  group: Définitions
+
+filaggrine:
+  short: filaggrine
+  description: Protéine filament‑agrégante qui compacte la kératine et se dégrade en NMF, essentielle à la barrière cutanée.
+  group: Définitions
+
+NMF:
+  short: NMF
+  long: facteur naturel d’hydratation
+  description: Mélange hygroscopique (acides aminés, lactates, urée) retenant l’eau dans le stratum corneum.
+
+SASP:
+  short: SASP
+  long: phénotype sécrétoire associé à la sénescence
+  description: Cocktail de cytokines, chimiokines et protéases libéré par les cellules sénescentes, entretenant l’inflammaging.
+
+lipofuscine:
+  short: lipofuscine
+  description: Pigment brun autofluorescent issu d’agrégats lipoprotéiques oxydés, marqueur de stress oxydatif cellulaire.
+  group: Définitions
+
+inflammaging:
+  short: inflammaging
+  description: Inflammation de bas grade, chronique et liée à l’âge, accélérant le vieillissement cutané et systémique.
+  group: Définitions
+
+autophagie:
+  short: autophagie
+  description: Processus lysosomal de recyclage des composants cellulaires endommagés ; son déclin favorise l’accumulation de dommages et le vieillissement.
+  group: Définitions
+
+RAR:
+  short: RAR
+  long: récepteur de l'acide rétinoïque
+  description: Récepteur nucléaire ligand‑dépendant activé par les rétinoïdes ; régule l’expression de gènes clés de la différenciation kératinocytaire et de la synthèse de collagène.
+  group: Récepteurs
+
+RXR:
+  short: RXR
+  long: récepteur rétinoïde X
+  description: Récepteur nucléaire pouvant former des hétérodimères (RAR, PPAR, etc.) ; module la signalisation rétinoïdienne, le métabolisme lipidique et l’inflammation.
+  group: Récepteurs
+
+ERβ:
+  short: ERβ
+  long: récepteur œstrogénique β
+  description: Récepteur nucléaire impliqué dans de nombreux processus physiologiques, notamment la fonction de reproduction
+  group: Récepteurs
+
+PPAR:
+  short: PPAR
+  long: récepteur activé par les proliférateurs de peroxysomes
+  description: Récepteur nucléaire modulant la synthèse lipidique, la différenciation kératinocytaire et l’inflammation.
+  group: Récepteurs
+
+AHR:
+  short: AhR
+  description: Récepteur cytosolique des hydrocarbures aromatiques polycycliques, impliqué dans la pigmentation, l’inflammation et la détoxification cutanée.
+  group: Récepteurs
+
+VDR:
+  short: VDR
+  long: récepteur de la vitamine D
+  description: Récepteur nucléaire activé par le calcitriol (1,25‑(OH)₂‑vitamine D₃) ; module la prolifération kératinocytaire, la différenciation et l’immunité cutanée.
+  group: Récepteurs
+
+AR:
+  short: AR
+  long: récepteur androgénique
+  description: Récepteur nucléaire sensible à la testostérone/dihydrotestostérone ; gouverne la production de sébum, la pilosité et certaines réponses inflammatoires.
+  group: Récepteurs
+
+TLR:
+  short: TLR
+  long: récepteur Toll‑like
+  longplural: récepteurs Toll‑like
+  description: Récepteurs de l’immunité innée détectant des motifs microbiens ou endogènes (DAMP) et déclenchant la signalisation NF‑κB.
+  group: Récepteurs
+
+FGFR:
+  short: FGFR
+  long: récepteur des facteurs de croissance fibroblastiques
+  longplural: récepteurs des FGF
+  description: Récepteurs à activité tyrosine kinase impliqués dans la régénération dermique, la cicatrisation et la prolifération cellulaire.
+  group: Récepteurs
+
+EGFR:
+  short: EGFR
+  long: récepteur du facteur de croissance épidermique
+  longplural: récepteurs du facteur de croissance épidermique
+  description: Récepteur transmembranaire régulant la prolifération kératinocytaire, la réparation cutanée et l’inflammation.
+  group: Récepteurs
+
+NRF2:
+  short: NRF2
+  long: facteur nucléaire erythroid 2‑related factor 2
+  description: Facteur de transcription cytosolique se liant à ARE pour activer les gènes antioxydants et cytoprotecteurs.
+  group: Récepteurs
+
+GR:
+  short: GR
+  long: récepteur des glucocorticoïdes
+  description: Récepteur nucléaire régulant les réponses anti-inflammatoires et le métabolisme épidermique.
+  group: Récepteurs
+
+
+Flavonoïde:
+  short: Flavonoïde
+  longplural: flavonoïdes
+  description: >
+    Polyphénols végétaux dérivés du phénylbenzopyrone, aux propriétés antioxydantes et anti-inflammatoires.
+  group: Définitions
+
+Terpène:
+  short: Terpène
+  longplural: terpènes
+  description: >
+    Composés aromatiques construits à partir d'isopentényl-pyrophosphate, et de formule (C₅H₈)n. ils donnent les propriétés odorifères aux plantes les possédants.
+  group: Définitions
+
+Synergie:
+  short: synergie
+  longplural: synergies
+  description: >
+    Interaction entre molécules menant à un effet unique et supérieur à leur somme.
+  group: Définitions
+
+Effetadditif:
+  short: effet additif
+  long: effet additif
+  longplural: effets additifs
+  description: >
+    Effet combiné équivalent à la somme des effets individuels, sans synergie.
+  group: Définitions
+
+Biodisponibilité:
+  short: biodisponibilité
+  longplural: biodisponibilités
+  description: >
+    Fraction d’un actif atteignant sa cible biologique sous forme active.
+  group: Définitions
+
+relipidant:
+  short: relipidant
+  longplural: relipidants
+  description: >
+    restaure les lipides cutanés afin de renforcer la barrière cutanée, et de maintenir un niveau d'hydratation adéquat.
+  group: Définitions
+
+Pharmacodynamie:
+  short: pharmacodynamie
+  longplural: pharmacodynamies
+  description: >
+    Étude des effets biologiques d’un actif et de leurs mécanismes au niveau cellulaire.
+  group: Définitions
+
+VoieNFkB:
+  short: NF‑κB
+  long: voie NF‑κB
+  longplural: voies NF‑κB
+  description: >
+    Voie intracellulaire activant l’inflammation via transcription de cytokines. Cible fréquente d’actifs anti-inflammatoires.

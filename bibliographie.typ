@@ -1,0 +1,1 @@
+#bibliography("zotero.bib", full: false, style: "springer-vancouver")
