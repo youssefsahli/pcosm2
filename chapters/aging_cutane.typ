@@ -153,8 +153,8 @@ La neutralisation des radicaux libres est une cible prioritaire, en particulier 
 
 La dégradation de la matrice extracellulaire par les métalloprotéinases (MMP) peut être modulée par des triterpènes ou rétinoïdes. 
 
-- *Centella asiatica* inhibe l’expression de MMP-1 et MMP-3 tout en stimulant la synthèse de collagène.
-- *Bakuchiol* réduit l’activité des MMP via la régulation de AP-1.
+- La *Centella asiatica* inhibe l’expression de MMP-1 et MMP-3 tout en stimulant la synthèse de collagène.
+- Le *Bakuchiol* réduit l’activité des MMP via la régulation de AP-1.
 
 === Stimulation fibroblastique et remodelage
 
@@ -179,8 +179,10 @@ L’*inflammaging* chronique justifie l’intégration d’actifs à visée anti
 
 == Conclusion
 
-#[- Récapitulatif des mécanismes
-- Intérêt des actifs végétaux étudiés dans ce contexte]<plan>
+#[
+  - Récapitulatif des mécanismes
+  - Intérêt des actifs végétaux étudiés dans ce contexte
+]<plan>
 
 Le vieillissement cutané résulte de l’interaction complexe entre des mécanismes endogènes — sénescence cellulaire, stress oxydatif mitochondrial, perte hormonale — et des facteurs exogènes, au premier rang desquels figurent les rayonnements UV, la pollution et l’inflammation chronique. Ces processus convergent vers une désorganisation de la matrice dermique, une altération de la fonction barrière, une réduction des capacités de régénération, et une sensibilité accrue aux agressions.
 
