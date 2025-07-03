@@ -1,6 +1,7 @@
 #let body = (
   size: 12pt,
-  font: "Liberation Sans"
+  font: "Liberation Sans",
+  tracking: .05em
 )
 
 #let title = (
@@ -26,7 +27,8 @@
 
 #let figure = (
   caption: (
-    size: 11pt,
+    size: 9pt,
+    fill: gray.darken(70%),
   )
 )
 

@@ -23,7 +23,7 @@
 
 === Peaux sèches, déshydratées
 
-Les peaux sèches présentent une réduction de la sécrétion sébacée et une altération de la fonction barrière, traduites par une perte en @TEWL:both accrue et une desquamation visible. Le conseil officinal s’oriente vers des actifs humectants, relipidants ou filmogènes.
+Les peaux sèches présentent une production sébacée insuffisante et une barrière cutanée altérée ; il en résulte une augmentation de la @TEWL et une desquamation accrue. Le conseil s’oriente vers des actifs humectants #footnote[Attirant l'eau], relipidants #footnote[Restaurent la barrière cutanée] ou filmogènes #footnote[Limitent l’évaporation].
 
 - *Aloe vera* : ses polysaccharides (notamment l’acémannane) exercent une action hygroscopique et filmogène, réduisant la @TEWL. Il convient de recommander des gels purs stabilisés (>95 %) ou des émulsions hydratantes enrichies.
 
@@ -31,9 +31,21 @@ Les peaux sèches présentent une réduction de la sécrétion sébacée et une 
 
 - *α-Bisabolol* : par son action apaisante et anti-inflammatoire, il limite l’irritabilité des peaux sèches réactives. On le retrouve dans des laits corporels ou crèmes émollientes adaptées aux peaux atopiques.
 
+==== Conseil pratique
+
+    - Nettoyage : syndet doux pH ≈ 5,5, rinçage à l’eau tiède ; tamponner sans friction.
+
+    - Hydratation : appliquer l’émulsion ou le gel dans les 3 min suivant la toilette.
+
+    - Protection : recommander un SPF 30 + enrichi en filtres lipophiles pour limiter l’exposome (UV, vent).
+
+    - Suivi : réévaluer au comptoir après 15 jours. Orienter vers le dermatologue si persistance de fissures ou prurit nocturne.
+
+Cette approche combine humectants (Aloe), boosters dermiques (Centella) et anti-inflammatoires (α-Bisabolol) afin de restaurer la fonction barrière et de réduire durablement la sécheresse cutanée.
+
 === Peaux grasses ou acnéiques
 
-Ces peaux sont marquées par une hyperséborrhée, une prolifération bactérienne (notamment *C. acnes*) et une inflammation chronique des follicules. Les conseils s’appuient sur des actifs régulateurs, antibactériens doux et non comédogènes.
+Ces peaux sont marquées par une hyperséborrhée, une prolifération bactérienne (notamment *Cutibacterium acnes*) et une inflammation chronique des follicules. Les conseils s’appuient sur des actifs régulateurs, antibactériens doux et non comédogènes.
 
 - *Bakuchiol* : actif « rétinol-like », il régule la différenciation kératinocytaire et réduit l’activité de *C. acnes* tout en inhibant @VoieNFkB. À recommander sous forme de sérums ou crèmes légères, à 0,5–1 %.
 

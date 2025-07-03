@@ -8,17 +8,17 @@
 
 == Méthodologie
 
-- *Sélection de marques* : Le corpus étudié intègre des marques issues de la dermo-cosmétique classique (Avène, La Roche-Posay, A-Derma, Bioderma, SVR), majoritairement distribuées en officine ou parapharmacie, ainsi que des marques revendiquant une naturalité plus affirmée ou affiliées au mouvement clean beauty (La Rosée, Erborian, Sanoflore, Melvita, So’Bio étic, Typology, La Provençale). Ce choix permet de couvrir un spectre étendu allant de la cosmétique à visée dermatologique à la cosmétique certifiée biologique, en passant par les formulations dites minimalistes.
+- *Sélection de marques* : Le corpus comprend des marques de dermocosmétique (Avène, La Roche-Posay, A-Derma, Bioderma, SVR) principalement distribuées en officine ou parapharmacie, ainsi que des marques à orientation naturelle ou clean beauty (La Rosée, Erborian, Sanoflore, Melvita, So’Bio étic, Typology, La Provençale). Cette sélection couvre un continuum allant de la cosmétique à visée dermatologique à la cosmétique certifiée biologique, en passant par les formulations minimalistes.
 
-- *Identification des produits* : Pour chaque actif végétal parmi les 5 ciblés, nous avons identifié au moins 2 à 3 produits commercialisés en France en 2023-2025 contenant cet ingrédient (selon les étiquetages ou communiqués). Nous avons privilégié des produits phares ou illustratifs du positionnement de la marque : par exemple, des baumes réparateurs en pharmacie pour la _centella_, ou des huiles ou sérums bio pour la _nigelle_.
+- *Identification des produits* : Pour chacun des cinq actifs végétaux étudiés, deux à trois produits commercialisés en France entre 2023 et 2025 ont été retenus sur la base des étiquetages et communiqués officiels. Les références choisies illustrent le positionnement des marques : baumes réparateurs en pharmacie pour la centella, huiles ou sérums bio pour la nigelle, etc.
 
-- *Analyse des formules et allégations* : Pour chaque produit, nous examinons la galénique (gel, crème, baume, sérum...), les indications mises en avant (actions revendiquées, usages recommandés) et le type de peau ou situation visée (peau sensible, acnéique, post-acte dermatologique, anti-âge...). Cela permettra une comparaison transversale de la place de ces actifs végétaux : sont-ils utilisés majoritairement pour des propriétés apaisantes, anti-âge, anti-imperfections ? Apparaissent-ils plutôt dans des soins riches (baumes/crèmes) ou des formules légères (gels/sérums) ? Et comment chaque marque valorise-t-elle ces ingrédients (discours naturel vs dermatologique) ?
+- *Analyse des formules et allégations* : Pour chaque produit, l’étude porte sur la galénique (gel, crème, baume, sérum), les bénéfices revendiqués, les usages recommandés et le public cible (peaux sensibles, acnéiques, post-procédure, anti-âge). L’analyse compare la fonction assignée aux actifs végétaux (apaisante, anti-âge, anti-imperfections), le type de texture (riche ou légère) et le registre de valorisation adopté par la marque (naturel ou dermatologique).
 
 == Revue par actif
 
 === Aloe vera
 
-Les polysaccharides mucilagineux du gel d’*Aloe vera* — dominés par l’acémannane — exercent un double rôle filmogène : rétention d’eau dans le stratum corneum et réduction de la perte insensible en eau. Des travaux in-vitro et ex-vivo lui attribuent également des effets anti-inflammatoires modérés (diminution de l’expression d’IL-1β et de TNF-α), une stimulation de la prolifération kératinocytaire et une accélération de la ré-épithélialisation. Sa bonne tolérance cutanée explique son intégration transversale dans des galéniques allant du soin dermatologique au produit d’hygiène.
+Les polysaccharides mucilagineux du gel d’*Aloe vera* — dominés par l’acémannane @sanchez_pharmacological_2020 — exercent un double rôle filmogène : rétention d’eau dans le stratum corneum et réduction de la perte insensible en eau. Des travaux in-vitro et ex-vivo lui attribuent également des effets anti-inflammatoires modérés (diminution de l’expression d’IL-1β et de TNF-α), une stimulation de la prolifération kératinocytaire et une accélération de la ré-épithélialisation @vogler_aloe_1999. Sa bonne tolérance cutanée explique son intégration transversale dans des galéniques allant du soin dermatologique au produit d’hygiène.
 
 Quatre contextes formulationnels illustrent cette plasticité :
 
@@ -28,7 +28,7 @@ Quatre contextes formulationnels illustrent cette plasticité :
 
 *Vichy – Masque apaisant à l’Aloe vera* adopte une texture gelifiée semi-occlusive (polyglycéryl-3 methylglucose distearate, sodium polyacrylate) dans laquelle l’aloe est placé en milieu de formule. La présence concomitante de dipotassium glycyrrhizate, d’esters de jojoba et d’alcool dénaturé confère à la galénique un pouvoir rafraîchissant immédiat, suivi d’un léger film émollient. L’aloe joue ici un rôle synergique avec la glycérine pour procurer un « flash hydratation », tandis que la sauge sclarée (salicylic acid) assure une micro-exfoliation douce.
 
-*Hiruscar – Anti-Acne Spot Gel+* illustre une approche ciblée : le jus d’aloe est associé à des extraits anti-inflammatoires (Allium cepa #footnote[Extrait de bulbe d'oignon, à l'activité anti-microbienne], fomes officinalis #footnote[Extrait du Polypore du mélèze, à l'effet dermoprotecteur], boswellia), à l’acide salicylique kératolytique et à la dipotassium glycyrrhizate. Dans ce gel polymérique (ammonium acryloyldimethyltaurate/VP), l’aloe n’est pas l’actif principal mais soutient la réduction de l’érythème et la restauration de l’hydratation périlésionnelle, réduisant ainsi le risque de desquamation induite par l’acide salicylique.
+*Hiruscar – Anti-Acne Spot Gel+* illustre une approche ciblée : le jus d’aloe est associé à des extraits anti-inflammatoires et anti-microbiens (Allium cepa #footnote[Extrait de bulbe d'oignon, à l'activité anti-microbienne], fomes officinalis #footnote[Extrait du Polypore du mélèze, à l'effet dermoprotecteur], boswellia), à l’acide salicylique kératolytique et à la dipotassium glycyrrhizate. Dans ce gel polymérique (ammonium acryloyldimethyltaurate/VP), l’aloe n’est pas l’actif principal mais soutient la réduction de l’érythème et la restauration de l’hydratation périlésionnelle, réduisant ainsi le risque de desquamation induite par l’acide salicylique. La gamme Hiruscar appartient à Medinova AG, laboratoire suisse acquis par le groupe DKSH en 2004. La marque est introduite en Malaisie et à Singapour dès 2007 comme solution non-prescription contre cicatrices et imperfections @noauthor_about_2022.
 
 Ces exemples montrent trois positions stratégiques pour l’*Aloe vera* :  
 - Ingrédient tampon apaisant dans une émulsion photoprotectrice,  
@@ -66,7 +66,7 @@ L’α‑bisabolol est présent dans diverses formulations dermo-cosmétiques, o
 
 *Aquaphor Advanced Therapy Healing Ointment*: Ce baume multi-usage contient du petrolatum #footnote[Aussi appelé vaseline] à 41 % en actif principal. Parmi les ingrédients inactifs figurent: lanoline, panthénol, glycérine et bisabolol. L’α‑bisabolol y est incorporé dans une matrice semi-occlusive pour augmenter la tolérance et favoriser la réparation des zones très sèches, abîmées ou irritées. Sa présence contribue à la stabilisation de la tolérance au niveau cutané, complémentant l’effet barrière du petrolatum par une action locale anti-irritante.
 
-*Vichy Dercos Anti‑Dandruff Shampoo* (cuir chevelu sensible): Ce shampooing exfoliant intègre l’α‑bisabolol (INCI : bisabolol) en synergie avec des agents régulateurs (farnesol, acide salicylique, piroctone olamine), visant un cuir chevelu sujet aux pellicules et aux démangeaisons. Le bisabolol y est utilisé pour calmer les irritations associées au grattage et améliorer la tolérance d’une formule traitante contenant des tensioactifs et des actifs actifs ciblés (exfoliation, antibactérien).
+*Vichy Dercos Shampoing anti-pelliculaire*: Ce shampooing exfoliant intègre l’α‑bisabolol en synergie avec des agents régulateurs (farnesol, acide salicylique, piroctone olamine), visant un cuir chevelu sujet aux pellicules et aux démangeaisons. Le bisabolol y est utilisé pour calmer les irritations associées au grattage et améliorer la tolérance d’une formule traitante contenant des tensioactifs et des actifs actifs ciblés (exfoliation, antibactérien).
 
 *The Ordinary “B” Oil*: Sérum huileux composé d’un mélange d’huiles végétales (jojoba, argan, baobab…), de squalane et de bisabolol. Ici, le bisabolol est utilisé pour ses propriétés anti-inflammatoires et pour favoriser la pénétration des autres huiles dans la peau. La galénique est huileuse, non aqueuse, conçue pour les peaux sèches, en quête d’éclat et de confort. Son inclusion dans un produit multi-huile montre le rôle de cet actif comme adjuvant de tolérance et de pénétration.
 
@@ -89,7 +89,7 @@ Le bakuchiol est un méroterpène phénolique extrait des graines de *Psoralea c
 
 Quatre produits représentatifs ont été sélectionnés dans cette étude :
 
-*Aroma-Zone Sérum Bakuchiol* adopte une approche minimaliste : le bakuchiol est ici intégré dans une base huileuse courte composée de squalane, d’huile d’hibiscus et de coenzyme Q10. Le choix d’une formulation anhydre souligne la stabilité du composé, tandis que la texture huileuse, fine et non comédogène, cible les peaux sèches, sensibles ou déshydratées. L’actif végétal est utilisé comme principe fonctionnel principal, avec une concentration estimée à environ 1 %. Le positionnement tarifaire très accessible (environ 6 € les 30 ml) en fait une entrée de gamme naturelle pertinente.
+*Aroma-Zone Sérum Bakuchiol* adopte une approche minimaliste : le bakuchiol est ici intégré dans une base huileuse courte composée de squalane, d’huile d’hibiscus et de coenzyme Q10. Le choix d’une formulation anhydre souligne la stabilité du composé, tandis que la texture huileuse, fine et non comédogène, cible les peaux sèches, sensibles ou déshydratées. L’actif végétal est utilisé comme principe fonctionnel principal, avec une concentration estimée à environ 1 %.
 
 *Avène Dermabsolu Sérum Restructurant* illustre une approche dermocosmétique intégrée. Le bakuchiol, ici sous forme brevetée (Sytenol® A), est présent à 1,5 % et combiné à des pro-céramides et des polyphénols de vanille. La galénique est celle d’un sérum-huile fluide, à base d’émollients estérifiés (coco-caprylate, jojoba), convenant aux peaux matures ou atones. L’actif végétal est ainsi valorisé dans une formule complexe, testée cliniquement, avec une revendication sur la redensification de la peau et le remodelage du contour du visage.
 
@@ -104,7 +104,9 @@ En résumé, le bakuchiol a trouvé sa place dans les routines anti-âge moderne
 
 == Analyse transversale
 
- Formes galéniques dominantes des produits cosmétiques à base d’actifs végétaux étudiés
+ #[
+   Formes galéniques dominantes des produits cosmétiques à base d’actifs végétaux étudiés
+ ] <intro>
 
 La comparaison des produits cosmétiques retenus, formulés autour de cinq actifs végétaux spécifiques, révèle que chaque ingrédient tend à être décliné dans certaines formes galéniques privilégiées. Ces orientations formulatoires reflètent le rôle fonctionnel de chaque actif et les attentes vis-à-vis du soin final.
 
@@ -187,5 +189,4 @@ En conclusion, l’analyse de ces gammes cosmétiques françaises met en lumièr
 
     - Le bakuchiol est la nouvelle star de l’anti-âge alternatif, plébiscitée pour offrir une solution aux consommateurs en quête de performance sans rétinol.
 
-Ces actifs montrent que la phytodermatologie est en plein essor : loin d’être de simples arguments folkloriques, ils sont validés par des études (par ex. efficacité comparable du bakuchiol au rétinol, usage traditionnel de la centella reconnu par l’OMS, etc.) et intégrés intelligemment dans des formules modernes. Chaque type de marque en tire parti selon son ADN, ce qui au final enrichit le choix du consommateur – qui peut trouver des “cica-creams” aussi bien en pharmacie scientifique qu’en version bio, ou un sérum anti-âge à base de rétinol chimique ou son jumeau botanique. Cette diversification autour d’actifs végétaux prouve qu’ils ne sont pas une mode passagère mais bien un pilier durable de l’innovation cosmétique contemporaine.
 

@@ -17,7 +17,40 @@
       else { left }
     )
   )
-  show figure.caption: set text(size: conf.figure.caption.size)
+
+  show figure: f => {
+    
+    let F = rect(
+      fill: gray.transparentize(60%).lighten(90%),
+      stroke: gray.lighten(50%),
+      radius: 5pt,
+      inset: 1em,
+      f.body
+    )
+
+    grid(
+      columns: (1fr),
+      row-gutter: .5em,
+      F, 
+      f.caption,
+      // spacing: .1em,
+    )
+    
+  }
+  
+  show figure.caption: c => {
+    set text(
+      size: conf.figure.caption.size,
+      fill: conf.figure.caption.fill,
+    )
+    rect(
+      fill: gray.transparentize(60%).lighten(90%),
+      stroke: gray.lighten(90%),
+      radius: 5pt,
+      inset: 1em,
+      c
+    )
+  }
   
   show <intro>: p => {
       rect(

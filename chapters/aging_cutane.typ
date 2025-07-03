@@ -1,4 +1,4 @@
-= Méchanismes du vieillissement cutané
+= Mécanismes du vieillissement cutané
 
 #[
   Mécanismes biologiques du vieillissement cutané : approche moléculaire, histologique et clinique. Distinction entre vieillissement intrinsèque et extrinsèque, et conséquences sur le choix des actifs cosmétiques.
@@ -177,17 +177,4 @@ L’*inflammaging* chronique justifie l’intégration d’actifs à visée anti
 - *α-Bisabolol* inhibe COX-2, IL-6, TNF-α et réduit l’infiltrat leucocytaire.
 - *Nigella sativa* limite les réponses inflammatoires via NF‑κB et PPAR-γ.
 
-== Conclusion
 
-#[
-  - Récapitulatif des mécanismes
-  - Intérêt des actifs végétaux étudiés dans ce contexte
-]<plan>
-
-Le vieillissement cutané résulte de l’interaction complexe entre des mécanismes endogènes — sénescence cellulaire, stress oxydatif mitochondrial, perte hormonale — et des facteurs exogènes, au premier rang desquels figurent les rayonnements UV, la pollution et l’inflammation chronique. Ces processus convergent vers une désorganisation de la matrice dermique, une altération de la fonction barrière, une réduction des capacités de régénération, et une sensibilité accrue aux agressions.
-
-L’analyse des voies de signalisation impliquées (MAPK, NF‑κB, TGF-β, SIRT1...) permet d’identifier des cibles pertinentes pour la prévention et l’accompagnement dermocosmétique du vieillissement. 
-
-Dans cette perspective, les composés végétaux étudiés dans ce travail apparaissent comme des modulateurs multifonctionnels : antioxydants, régulateurs de l’inflammation, inducteurs du collagène ou protecteurs barrières. Leur intégration dans des formulations adaptées constitue une piste crédible pour des stratégies dermocosmétiques personnalisées.
-
-Les chapitres suivants exploreront les stress environnementaux modulant ce vieillissement (@exposomes[Exposomes —  Chapitre]), avant de détailler les propriétés, galéniques et usages officinaux des actifs végétaux retenus.

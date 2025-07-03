@@ -14,6 +14,7 @@
     lang: "fr",
     font: conf.body.font,
     size: conf.body.size,
+    tracking: conf.body.tracking
   )
 
   set par(
@@ -23,6 +24,7 @@
   )
 
   set heading(numbering: conf.numbering.heading)
+  show heading.where(level: 4).or(heading.where(level: 5)): set heading(numbering: none)
 
   set pagebreak(weak: true)
 

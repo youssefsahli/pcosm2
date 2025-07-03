@@ -59,7 +59,7 @@
   Intérêt de certains principes actifs végétaux en dermo-cosmétologie:
   _focus sur le gel d'aloé vera, le bisabolol, le bakuchiol.._
   ]  
-  v(3em)
+  v(2em)
 }
 #set text(size: 11pt)
 #grid(

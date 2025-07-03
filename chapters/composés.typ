@@ -1,3 +1,5 @@
+#import "/img/mol/mol.typ": mol
+
 = Actifs phares de la recherche actuelle
 #[
   Liste de plantes d'intérêt en cosmétique encore méconnues. Discussion des bénéfices et des risques associés, ainsi que de l'état des connaissances sur leur pharmacodynamie.
@@ -10,6 +12,8 @@ _Cullen corylifolium, ou Babchi_], extrait par pulvérisation de la graine #foot
 Bien qu'absent des produits les plus vendus analysés, le bakuchiol à l'effet _rétinol-like_ -- anti-inflammatoire, anti-oxydant, anti-vieillissement a une place de plus en plus importante dans le marché des crèmes de nuit @noauthor_global_nodate.
 C'est l'un des nombreux composés retrouvé dans le fruit, qui est riche en phénols, flavonoïdes, coumarines, et terpénoïdes. Isolé en 1972, par extraction via solvant lipophile, on lui découvre des propriétés anti-staphylocoques, mais aussi cardioprotectrices, et anti-tumorales @alam_psoralea_2018. D'autres éléments comme le _psoralène_, dérivé coumarinique, a longtemps été utilisé en association avec l'UV-thérapie dans les dermatoses inflammatoires, avec comme chef de file le psoriasis @richard_science_2020.
 Le bakuchiol reste un élément provoquant des réactions divergentes quant à son efficacité par rapport aux trétinoïdes @sivamani_cosmetic_2022. Il a pourtant une meilleure tolérance cutanée, et son action immuno-modulatrice et anti-microbienne permettrait un soin moins contraignant de l'acné @greenzaid_use_2022.
+
+#mol("Bakuchiol", [Bakuchiol])
 
 Dans des modèles in vitro utilisant des macrophages murins activés par l’@IFNγ ou par le @LPS, le bakuchiol a entraîné une nette diminution de l’expression de la @iNOS. Cette baisse, observée dès le stade transcriptionnel, résulte d’une inhibition de la voie NF‑κB  — facteur de transcription central dans la synthèse de médiateurs pro‑inflammatoires comme @IL-6 ou @iNOS. À noter que les biopsies cutanées de lésions acnéiques présentent classiquement une surexpression de NF‑κB. Ainsi, la capacité du bakuchiol à freiner l’activation de NF‑κB pourrait contribuer à atténuer la cascade inflammatoire associée à cette maladie. @greenzaid_use_2022
 
@@ -131,6 +135,8 @@ En application topique, elle est utilisée dans la prise en charge des dermatite
 )
 
 L’utilisation cosmétique de l’huile de nigelle s’explique par ses effets bénéfiques sur les peaux sensibles ou inflammées. Plusieurs études *in vitro* et *in vivo* ont montré que la thymoquinone inhibe la production de cytokines pro-inflammatoires telles que TNF-α, IL-6 et IL-1β. %% De plus, son activité antioxydante permet de piéger les @ROS, réduisant ainsi le stress oxydatif cutané. @aljabre_dermatological_2015
+
+#mol("Thymoquinone", [Thymoquinone])
 
 Sur le plan cutané, des tests cliniques ont observé une amélioration de l’acné légère à modérée après l’application d’une crème à base d’huile de nigelle pendant deux mois, avec une réduction significative de l’érythème et des lésions inflammatoires.
 L’huile de nigelle est également indiquée pour ses propriétés antifongiques et antibactériennes, ce qui en fait un ingrédient intéressant dans les soins des peaux mixtes à grasses. Enfin, elle participe au maintien de l'hydratation cutanée grâce à sa richesse en acides gras essentiels et à sa capacité à limiter la @TEWL:both.
