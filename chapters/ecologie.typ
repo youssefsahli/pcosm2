@@ -5,4 +5,3 @@
   La recherche d'un composé efficace n'est donc pas la seule considération à avoir pour un fabriquant, mais aussi la capacité de renouvellement des resources utilisées. Nous allons voir quels éléments écologiques doivent entrer en jeu dans le développement d'un cosmétique à base de plantes. 
 ] <intro>
 
-Les différentes pratiques de culture 

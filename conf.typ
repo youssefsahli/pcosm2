@@ -67,6 +67,7 @@
 )
 
 #let annexes = (
+  "/annexes/comptoir",
   "/annexes/table_index",
   "bibliographie",
 )

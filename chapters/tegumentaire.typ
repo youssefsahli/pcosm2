@@ -1,4 +1,4 @@
-= Système tégumentaire
+= La peau
 
 Le système cutané (ou système tégumentaire) est l'appareil le plus large du corps humain avec une surface de 2m² en moyenne. @gallo_human_2017
 C'est aussi le plus lourd en participant à 15% du poids total du corps humain. %%
@@ -42,7 +42,7 @@ Simultanément, le mésoderme paraxial et latéral, via ses dérivés mésenchym
 
 À partir de la neuvième semaine, les annexes cutanées débutent leur morphogenèse : les bourgeons pileux apparaissent sous l'induction de signaux moléculaires  comme les voies Wnt, Shh et BMP, qui affectent la prolifération et l’invagination de l'épiderme dans le mésenchyme sous-jacent. De manière coordonnée, se développent également les ébauches des glandes sudoripares, sébacées et mammaires.
 
-En résumé, l’embryogenèse cutanée repose sur une séquence rigoureuse d'interactions cellulaires et moléculaires entre ectoderme et mésoderme, modulée par les signaux de la crête neurale et des voies de signalisation spécifiques, établissant ainsi la structure et les fonctions fondamentales de l’appareil tégumentaire.
+En résumé, l’embryogenèse cutanée repose sur une séquence rigoureuse d'interactions cellulaires et moléculaires entre ectoderme et mésoderme, modulée par les signaux de la crête neurale et des voies de signalisation spécifiques, établissant ainsi la structure et les fonctions fondamentales de la peau.
 
 == Histologie
 #[

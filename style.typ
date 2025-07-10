@@ -63,13 +63,13 @@
     }
   
   show regex("%%"): m => {
-      set text(size: 6pt)
-      box(
-        rect(
-        fill: orange,
-        "introduire citation"
-        )
-      )
+      // set text(size: 6pt)
+      // box(
+      //   rect(
+      //   fill: orange,
+      //   "introduire citation"
+      //   )
+      // )
     }
 
   show <plan>: p => {
@@ -78,13 +78,13 @@
       weight: "light",
       style: "normal"
     )
-    rect(
-      radius: 5pt,
-      inset: 1em,
-      fill: orange.transparentize(80%),
-      stroke: orange.transparentize(40%),
-      p
-    )
+    // rect(
+    //   radius: 5pt,
+    //   inset: 1em,
+    //   fill: orange.transparentize(80%),
+    //   stroke: orange.transparentize(40%),
+    //   p
+    // )
   }
   rest
 }

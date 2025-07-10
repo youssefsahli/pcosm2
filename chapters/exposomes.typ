@@ -4,6 +4,10 @@
 
 Un _exposome_ désigne l’ensemble des facteurs environnementaux non génétiques qui influencent -- en bien ou en mal -- la peau tout au long de la vie. Le modèle proposé par Krutmann identifie six grandes catégories d’expositions extrinsèques, toutes susceptibles d’altérer la structure, la fonction ou l’apparence de la peau @krutmann_skin_2017. Ces facteurs agissent seuls ou en synergie, et leur effet dépend de la fréquence, de la durée et de l’intensité de l’exposition.
 
+#figure(
+  image("/img/exposomes.png"),
+)
+
 Les *Rayonnements ultraviolets (@UV)* sont le facteur principal du vieillissement cutané extrinsèque @krutmann_skin_2017. L’exposition chronique aux @UV:pl entraîne une formation massive d’@ROS, des lésions de l’@ADN (photoproduits @cadet_solar_2015), une inflammation locale et l’activation des @MMP:pl @kim_uvb-mediated_2022, responsables de la dégradation de la matrice extracellulaire @watson_damage_2014.
 
 La *pollution atmosphérique* inclut les particules fines (PM2.5 et PM10), l’ozone troposphérique, les hydrocarbures aromatiques polycycliques (HAP) et les oxydes d’azote @roberts_air_2020. Ces composés pénètrent l’épiderme à travers les follicules pileux @roberts_air_2020 ou agissent par contact, perturbent la barrière lipidique, induisent un stress oxydatif, et peuvent exacerber certaines dermatoses inflammatoires comme l’acné ou la dermatite atopique @passeron_clinical_2020.
