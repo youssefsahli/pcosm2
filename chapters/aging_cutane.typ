@@ -22,7 +22,7 @@ On distingue deux formes majeures de vieillissement cutané :
 - le *vieillissement intrinsèque*, déterminé génétiquement, lent et uniforme, affectant l’ensemble du corps ;
 - le *vieillissement extrinsèque*, accéléré par les expositions environnementales — UV, pollution, tabac — et responsable du photo-vieillissement.
 
-Ces deux processus sont interdépendants : les expositions extérieures exacerbent les mécanismes endogènes via la production de ROS et l’activation de voies inflammatoires. Le concept de *“skin inflammaging”* (vieillissement inflammatoire chronique de bas grade) rend compte de cette interaction durable entre environnement et vieillissement physiologique.
+Ces deux processus sont interdépendants : les expositions extérieures exacerbent les mécanismes endogènes via la production de @ROS et l’activation de voies inflammatoires. Le concept de *“skin inflammaging”* (vieillissement inflammatoire chronique de bas grade) rend compte de cette interaction durable entre environnement et vieillissement physiologique.
 
 Les sections suivantes détaillent les mécanismes moléculaires et histologiques impliqués, et serviront de base à l’analyse des cibles thérapeutiques abordées dans les chapitres ultérieurs.
 

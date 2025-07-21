@@ -1,14 +1,15 @@
 == Rougeurs et irritation post-épilation
 
 === Situation
-Femme de 25 ans présentant rougeurs diffuses, picotements et petits boutons après épilation à la cire sur les jambes.
+Femme de 25 ans présentant rougeurs diffuses, picotements et petits boutons après épilation à la cire sur les jambes. Aspect rugueux a l'examen.
 
-On demande si elle a appliqué des produits après : alcool, huiles essentielles pures, gommages ? Température de la cire, hygiène du matériel ?
+On recherche les produits appliques: Alcool, huiles essentielles pures, ou gommages exfoliants. 
+D'autre elements a prendre en compte sont la température de la cire, et l'hygiène du matériel, qui peuvent aussi inflammer en profondeur l'epiderme. On demande enfin quels soints ont ete appliques afin de soulager les symptomes: cremes, etc 
 
 === Analyse
 Inflammation superficielle induite par la chaleur et la traction, aggravée par des produits inadaptés appliqués après l’épilation.
 
-Objectif : apaiser l’inflammation et protéger la barrière cutanée.
+Objectif : Apaiser l’inflammation et protéger la barrière cutanée.
 
 === Soins
 

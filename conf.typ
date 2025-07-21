@@ -61,13 +61,13 @@
   "phytocomposant",
   "composés",
   "conseil",
+  "comptoir",
   "specialites",
   "orgs",
   "ecologie",
 )
 
 #let annexes = (
-  "/annexes/comptoir",
   "/annexes/table_index",
   "bibliographie",
 )

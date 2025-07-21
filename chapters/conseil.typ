@@ -2,7 +2,7 @@
 = Conseil officinal
 
 #[
-  Synthèse transversale des indications, formulations et précautions associées à l’usage des actifs végétaux étudiés, dans une perspective de dispensation pharmaceutique et de conseil dermocosmétique. Il vise à guider la recommandation officinale selon les types de peau, les indications fréquentes et les populations particulières.
+  Synthèse des indications, formulations et précautions associées à l’usage des actifs végétaux étudiés, dans une perspective de dispensation pharmaceutique et de conseil dermocosmétique. Il vise à guider la recommandation officinale selon les types de peau, les indications fréquentes et les populations particulières.
 ] <intro>
 
 == Approche par types de peau
@@ -192,9 +192,10 @@ La peau masculine est en moyenne plus épaisse, plus grasse, avec une pilosité 
 
 - *Bakuchiol* : de plus en plus intégré dans les soins anti-âge masculins pour ses effets restructurants sans irritation.
 
-=== Récapitulatif
+=== Tableau Récapitulatif
 
 #csv_table(
   "/data/tables/Actifs_selon_les_populations.csv",
   [Actifs à conseiller selon le type de population.]
 )
+
