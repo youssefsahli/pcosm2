@@ -48,6 +48,7 @@
 #let start-pages = (
   "title",
   "sommaire",
+  "/annexes/table_index",
   "/data/glossaire",
 )
 
@@ -63,11 +64,10 @@
   "conseil",
   "comptoir",
   "specialites",
-  "orgs",
   "ecologie",
+  "orgs",
 )
 
 #let annexes = (
-  "/annexes/table_index",
   "bibliographie",
 )

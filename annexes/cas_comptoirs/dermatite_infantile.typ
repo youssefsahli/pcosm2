@@ -22,8 +22,11 @@ On vérifie si un traitement dermocorticoïde a déjà été prescrit et respect
 === Soins
 
 - Bain rapide tiède avec nettoyant syndet doux.
+Après la crise, soignée par corticoides:
+
 - Application quotidienne d’un émollient enrichi en α-Bisabolol : anti-inflammatoire bien toléré sur peaux sensibles.
 - Zones inflammatoires : Gel d’Aloe vera pour apaiser et hydrater.
+
 
 === Critères d’urgences
 Si surinfection suspectée (suintement, croûtes), aggravation importante ou prurit ingérable: orienter vers un dermatologue.

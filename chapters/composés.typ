@@ -5,7 +5,7 @@
   Liste de plantes d'intérêt en cosmétique encore méconnues. Discussion des bénéfices et des risques associés, ainsi que de l'état des connaissances sur leur pharmacodynamie.
 ] <intro>
 
-== Bakuchiol
+== Bakuchiol <bakuchiol>
 Psoralea corylifolia est utilisée dans la médecine chinoise pour traiter l'alopécie et le vitiligo @noauthor_psoralea_nodate. Elle appartient aux Fabaceae, et est originaire d'Asie tropicale (notamment Inde et Chine) 
 Le bakuchiol est un des nombreux composants de la _Psoralea corylifolia_ @alam_psoralea_2018 #footnote[Aussi appelée 
 _Cullen corylifolium, ou Babchi_], extrait par pulvérisation de la graine #footnote[La graine du _Psoralea_], puis par dissolution dans de l'éther de pétrole @_bakuchiol_2016.
@@ -39,7 +39,7 @@ Contrairement au rétinol, le bakuchiol ne présente pas de contre-indication co
 
 
 
-== Centella asiatica (Extraits des feuilles et tiges)
+== Centella asiatica (Extraits des feuilles et tiges) <centella>
 
 Centella asiatica (L.) Urb., appelée « gotu kola » ou « herbe du tigre », est une petite plante herbacée vivace de la famille des Apiaceae, native des zones marécageuses d’Asie du Sud‑Est et aujourd’hui cultivée dans la plupart des régions tropicales. Célébrée depuis plus de deux millénaires dans les pharmacopées ayurvédique, tantrique et chinoise pour traiter diverses dermatoses @torbati_ethnobotany_2021., elle fait désormais figure d’actif star en dermo‑cosmétologie sous l’appellation populaire « Cica ».
 L'extraction de ses principes actifs se fait par macération puis filtration: Les tiges et feuilles de Centella asiatica sont mises à tremper plusieurs jours dans un mélange propylène‑glycol/eau ; le marc est ensuite égoutté puis pressé, et le filtrat soumis à une micro‑filtration stérilisante @idris_comparative_2021.
@@ -74,7 +74,7 @@ La tolérance est excellente, mais de rares cas d’allergie de contact ont ét�
 La Centella asiatica peut être utilisée en toute sécurité chez l’enfant (à partir de 3 ans), la femme enceinte ou allaitante, ainsi que chez le sujet âgé. Son usage par voie orale doit cependant être encadré, en raison de cas rares d’hépatotoxicité rapportés avec les extraits totaux. En application topique, aucun effet indésirable systémique n’a été observé aux doses couramment utilisées.
 
 
-== α-Bisabolol
+== α-Bisabolol <bisabolol>
 
 Aussi appelé *levomenol*, l'α-Bisabolol fut isolé au XX#super[ème] siècle à partir de Matricaria chamomilla de la famille des Asteraceaes -- aussi appelée Matricaire ou Camomille allemande. Espèce largement distribuée à travers le monde (en Asie, Europe, Afrique du Nord), on la retrouve à l'état sauvage en France, mais aussi en culture en Europe de l'Est et en Inde @singh_chamomile_2011. Contrairement aux autres camomilles #footnote[[Chamaemelum nobile], la camomille romaine et [Tanacetum parthenium], la grande camomille], c'est une plante annuelle, utilisée depuis l'Antiquité pour son effet anti-inflammatoire, sédatif, et anti-bactérien. 
 
@@ -105,7 +105,7 @@ Bien que très bien toléré, de *rares cas d’hypersensibilité croisée* ont 
 
 L’α-Bisabolol est *autorisable dès la naissance* en usage externe, sous réserve d’une formule douce et exempte d’irritants. Il est également *sûr chez la femme enceinte* et peut être intégré dans les soins de dermatites légères chez les sujets immunodéprimés. Son excellent *profil de tolérance cutanée* en fait un actif clef dans les soins dermo-pédiatriques et post-actes esthétiques.
 
-== Nigella sativa (huile)
+== Nigella sativa (huile) <nigella>
 
 Nigella sativa, plus communément connue sous le nom de cumin noir, est une plante de la famille des Ranunculaceae dont les graines sont utilisées depuis l'Antiquité dans les médecines traditionnelles du Moyen-Orient et de l'Asie du Sud. L'huile extraite des graines — riche en acides gras insaturés (acide linoléique, oléique) — contient aussi un composé phare, la *thymoquinone*, reconnu pour ses effets antioxydants et anti-inflammatoires puissants. Elle est extraite à froid, afin de préserver l’intégrité des composés liposolubles et d’éviter leur oxydation thermique.
 
@@ -163,7 +163,7 @@ Du fait de sa teneur en composés volatils oxydables, l’huile de nigelle peut 
 
 L’usage *chez le nourrisson est déconseillé*, même en application locale. Chez la *femme enceinte*, la voie interne est formellement proscrite, mais une *application locale ciblée et modérée* reste envisageable avec prudence (formules diluées, usage localisé). Chez les patients atopiques, une *tolérance cutanée variable* impose une prudence initiale, avec préférence pour des formules testées sous contrôle dermatologique.
 
-== Aloe Vera
+== Aloe Vera <aloevera>
 
 *Aloe vera* (syn. *Aloe barbadensis Miller*) est une plante succulente de la famille des Asphodelaceae, largement cultivée dans les régions arides et semi-arides pour son gel mucilagineux à usage médicinal et cosmétique. Elle possède des feuilles épaisses, lancéolées, bordées d'épines molles, contenant un parenchyme central translucide — le « gel » — et une sève périphérique riche en anthraquinones, souvent appelée « latex ».
 

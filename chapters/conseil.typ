@@ -23,7 +23,7 @@
 
 === Peaux sèches, déshydratées
 
-Les peaux sèches présentent une production sébacée insuffisante et une barrière cutanée altérée ; il en résulte une augmentation de la @TEWL et une desquamation accrue. Le conseil s’oriente vers des actifs humectants #footnote[Attirant l'eau], relipidants #footnote[Restaurent la barrière cutanée] ou filmogènes #footnote[Limitent l’évaporation].
+Les peaux sèches présentent une production sébacée insuffisante et une barrière cutanée altérée @fluhr_global_2024; il en résulte une augmentation de la @TEWL et une desquamation accrue @yonezawa_relationship_2023. Le conseil s’oriente vers des actifs humectants #footnote[Attirant l'eau], relipidants #footnote[Restaurent la barrière cutanée] ou filmogènes #footnote[Limitent l’évaporation].
 
 - *Aloe vera* : ses polysaccharides (notamment l’acémannane) exercent une action hygroscopique et filmogène, réduisant la @TEWL. Il convient de recommander des gels purs stabilisés (>95 %) ou des émulsions hydratantes enrichies.
 
@@ -45,11 +45,13 @@ Cette approche combine humectants (Aloe), boosters dermiques (Centella) et anti-
 
 === Peaux grasses ou acnéiques
 
-Ces peaux sont marquées par une hyperséborrhée, une prolifération bactérienne (notamment *Cutibacterium acnes*) et une inflammation chronique des follicules. Les conseils s’appuient sur des actifs régulateurs, antibactériens doux et non comédogènes.
+Ces peaux sont marquées par une hyperséborrhée, une prolifération bactérienne (notamment *Cutibacterium acnes*) et une inflammation chronique des follicules @sutaria_acne_2025. Les conseils s’appuient sur des actifs régulateurs, antibactériens doux et non comédogènes @mukhopadhyay_cleansers_2011.
 
 - *Bakuchiol* : actif « rétinol-like », il régule la différenciation kératinocytaire et réduit l’activité de *C. acnes* tout en inhibant @VoieNFkB. À recommander sous forme de sérums ou crèmes légères, à 0,5–1 %.
 
 - *Nigella sativa* : l’huile contient de la thymoquinone, aux effets anti-inflammatoires et antibactériens. Appliquer en local ou dans des soins de nuit spécifiques au cuir chevelu ou à l'acné corporelle. Privilégier des formules non grasses ou combinées à des excipients séborégulateurs.
+
+
 
 === Peaux sensibles ou réactives
 
@@ -65,7 +67,7 @@ Caractérisées par une hyperexcitabilité neurosensorielle et une fragilité de
 
 Elles présentent une perte d’élasticité, des rides, une diminution de l’activité fibroblastique et un stress oxydatif chronique. Le conseil vise des actifs antioxydants, restructurants et bien tolérés.
 
-- *Bakuchiol* : en activant les récepteurs RAR et RXR sans les effets irritants des rétinoïdes, il améliore le grain de peau et la densité dermique. À intégrer dans les routines nocturnes.
+- *Bakuchiol* : en activant les récepteurs @RAR et @RXR sans les effets irritants des rétinoïdes, il améliore le grain de peau et la densité dermique. À intégrer dans les routines nocturnes.
 
 - *Centella asiatica* : la stimulation de la synthèse de collagène de type I et III, associée à son action anti-MMP, en fait un composant clé des soins anti-âge.
 
@@ -114,9 +116,9 @@ Les états inflammatoires mineurs (érythèmes, irritations, coups de soleil) n�
 
 === Eczéma ou dermatite atopique
 
-Les peaux à tendance atopique nécessitent des émollients apaisants, anti-inflammatoires et restaurateurs de barrière.
+Les peaux à tendance atopique nécessitent des émollients apaisants, anti-inflammatoires et restaurateurs de barrière. Ces derniers doivent obligatoirement être hautement tolérés:
 
-- *Nigella sativa* : son huile riche en thymoquinone exerce une activité anti-@TNF-α et anti-@ROS, utile en entretien ou en phase de rémission.
+- *Nigella sativa* : son huile riche en *thymoquinone* exerce une activité inhibitrice du @TNF-α --- cytokine pro-inflammatoire clé dans la pathogenèse de la dermatite atopique @amin_black_2016 --- et agit directement contre les @ROS --- dont la surproduction perpétue l'inflammation et altère la structure cutanée ---; utile en entretien ou en phase de rémission de part sa double action anti-inflammatoire et anti-oxydante.
 
 - *α-Bisabolol* : son profil de tolérance et sa capacité à diminuer les cytokines pro-inflammatoires en font un composant des crèmes calmantes atopiques.
 

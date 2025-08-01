@@ -45,7 +45,7 @@ Les kératinocytes, bien que renouvelés, montrent un ralentissement de leur cyc
 
 Le vieillissement intrinsèque est également marqué par une *sénescence cellulaire* accrue, caractérisée par l’arrêt du cycle cellulaire et la sécrétion de cytokines pro-inflammatoires (SASP). Ces cellules sénescentes, résistantes à l’apoptose, favorisent une inflammation de bas grade et entretiennent un environnement pro-oxydatif.
 
-Les espèces réactives de l’oxygène (ROS) produites en faible quantité par le métabolisme cellulaire normal s’accumulent avec l’âge, en raison d’une activité mitochondriale moins efficace et d’une baisse des systèmes enzymatiques antioxydants (SOD, catalase, glutathion peroxydase).
+Les espèces réactives de l’oxygène (ROS) produites en faible quantité par le métabolisme cellulaire normal s’accumulent avec l’âge, en raison d’une activité mitochondriale moins efficace et d’une baisse des systèmes enzymatiques antioxydants (@SOD, catalase, glutathion peroxydase).
 
 Enfin, la réduction des hormones sexuelles (œstrogènes, androgènes) altère la fonction barrière, la vascularisation dermique et la teneur en lipides épidermiques — aggravant la sécheresse et la perte d’élasticité de la peau.
 
@@ -61,17 +61,17 @@ Enfin, la réduction des hormones sexuelles (œstrogènes, androgènes) altère 
 ]<plan>
 
 
-Le vieillissement extrinsèque désigne l’ensemble des altérations cutanées induites ou accélérées par des facteurs environnementaux — en premier lieu l’exposition chronique aux rayonnements ultraviolets (UV), mais aussi la pollution atmosphérique, le tabagisme, les microtraumatismes répétés, et certaines carences nutritionnelles.
+Le vieillissement extrinsèque, conceptualisé au sein de la notion plus large d'exposome cutané, désigne l'ensemble des altérations phénotypiques de la peau induites ou accélérées par des facteurs environnementaux. Si l'exposition chronique aux rayonnements ultraviolets (UV) en constitue le principal vecteur — un phénomène désigné sous le terme de photovieillissement ou dermatoheliose —, d'autres agents tels que la pollution atmosphérique, le tabagisme, la nutrition ou le stress chronique y contribuent de manière synergique.
 
-Parmi ces facteurs, les UVB (280–320 nm) et UVA (320–400 nm) sont les plus impliqués : ils pénètrent profondément le derme et génèrent une cascade de réactions oxydatives, responsables de la formation de radicaux libres (ROS). Ces ROS activent des voies de signalisation intracellulaires telles que NF‑κB, AP‑1 et p38 MAPK, entraînant une augmentation de l’expression des métalloprotéinases matricielles (MMP-1, MMP-3, MMP-9), qui dégradent les fibres de collagène et altèrent la matrice extracellulaire.
+Les rayonnements UV, notamment les UVB (280–320 nm) et les UVA (320–400 nm), initient une cascade de dommages moléculaires. Les UVB, plus énergétiques, sont absorbés par l'épiderme où ils provoquent des lésions directes de l'ADN, telles que la formation de dimères de pyrimidine cyclobutaniques (CPD). Les UVA, qui pénètrent jusqu'au derme profond, agissent principalement de manière indirecte en générant des espèces réactives de l'oxygène (ROS). Cette production massive de radicaux libres submerge les défenses antioxydantes endogènes et active des voies de signalisation pro-inflammatoires et dégradatives. L'activation de facteurs de transcription comme AP-1 (Activator Protein-1) et NF-κB (Nuclear Factor-kappa B) via la cascade des kinases p38 MAPK (Mitogen-Activated Protein Kinase) conduit à une surexpression des métalloprotéinases matricielles (MMP), notamment la collagénase (MMP-1), les gélatinases (MMP-9) et la stromélysine (MMP-3). Ces enzymes sont responsables de la fragmentation du collagène de type I et III et de la dégradation de la matrice extracellulaire.
 
-Cette dégradation s'accompagne d'une stimulation paradoxale de la mélanogenèse (taches pigmentaires), d’une inflammation chronique, et d’un ralentissement des mécanismes de réparation de l’ADN. L’épiderme devient irrégulier, plus épais, et l’architecture du derme se fragmente. Le terme de *photo-vieillissement* (ou *dermatoheliose*) désigne ce tableau histologique et clinique spécifique.
+Histologiquement, ce processus se manifeste par une élastose solaire — une accumulation désorganisée de fibres d'élastine anormales dans le derme papillaire et réticulaire. Simultanément, la synthèse du pro-collagène est inhibée, les mécanismes de réparation de l'ADN sont altérés et une inflammation chronique de bas grade s'installe. Cliniquement, on observe des rides profondes (rhytides), des troubles pigmentaires (lentigos solaires, dyschromie), des télangiectasies et une perte d'élasticité.
 
-La pollution atmosphérique — notamment les particules fines (PM2.5), l’ozone (O₃) et les oxydes d’azote — exerce un effet synergique avec les UV en favorisant le stress oxydatif, l’oxydation des lipides membranaires et la peroxydation des protéines structurales. Ce phénomène participe à la perte de tonicité et à la rugosité cutanée observées en milieu urbain.
+La pollution atmosphérique aggrave ce tableau. Les particules fines (PM₂.₅) et les hydrocarbures aromatiques polycycliques (HAP) se lient au récepteur des hydrocarbures aryliques (AhR) à la surface des kératinocytes, induisant un stress oxydatif et une réponse inflammatoire. L'ozone (O₃) troposphérique, quant à lui, oxyde directement les lipides du stratum corneum, compromettant la fonction barrière de la peau.
 
-Le vieillissement extrinsèque est également renforcé par les habitudes de vie : le tabac réduit le flux vasculaire dermique, inhibe la prolifération fibroblastique et potentialise l’activité des MMP, tandis que le stress chronique agit via une dérégulation de l’axe hypothalamo-hypophyso-surrénalien (HHS), affectant la fonction barrière et la régénération tissulaire.
+Les habitudes de vie modulent également ce vieillissement. Le tabagisme exerce une ischémie chronique par la vasoconstriction induite par la nicotine, inhibe la prolifération des fibroblastes et augmente l'activité des MMP. Sur le plan nutritionnel, un régime riche en sucres favorise la glycation, une réaction non enzymatique entre les sucres et les protéines (collagène, élastine) formant des produits de glycation avancée (AGEs). Ces derniers créent des pontages irréversibles entre les fibres, augmentant leur rigidité et altérant leurs fonctions biomécaniques. Enfin, le stress chronique, via la dérégulation de l'axe hypothalamo-hypophyso-surrénalien (HHS) et la production de cortisol, affaiblit la barrière cutanée et ralentit la cicatrisation.
 
-La conjonction de ces facteurs entraîne un déséquilibre majeur de l’homéostasie cutanée, plus marqué que dans le vieillissement intrinsèque, avec des signes cliniques précoces et plus intenses : rides profondes, taches pigmentaires, teint terne, relâchement prématuré.
+La convergence de ces facteurs exogènes induit un déséquilibre profond de l'homéostasie cutanée et l'accumulation de cellules sénescentes, qui sécrètent un phénotype pro-inflammatoire (SASP). Les signes cliniques qui en résultent sont non seulement plus précoces mais aussi morphologiquement distincts et plus sévères que ceux du vieillissement intrinsèque, qui est, lui, principalement sous contrôle génétique et hormonal.
 
 
 == Voies de signalisation impliquées
@@ -122,7 +122,7 @@ Ces voies régulatrices du métabolisme et de la longévité sont altérées ave
 
 Le vieillissement cutané s’accompagne d’une altération progressive de la fonction barrière, affectant à la fois la structure de la couche cornée, la composition lipidique intercellulaire et l’équilibre du microbiote cutané.
 
-Sur le plan histologique, on observe une *amincissement de la couche cornée*, une *désorganisation du ciment lipidique* (céramides, cholestérol, acides gras libres), et une *baisse de la cohésion des cornéocytes*. Ces modifications entraînent une augmentation de la *perte en eau transépidermique* (TEWL) et une diminution de l’hydratation de surface.
+Sur le plan histologique, on observe une *amincissement de la couche cornée*, une *désorganisation du ciment lipidique* (céramides, cholestérol, acides gras libres), et une *baisse de la cohésion des cornéocytes*. Ces modifications entraînent une augmentation de la @TEWL et une diminution de l’hydratation de surface.
 
 La production de filaggrine et d’involucrine — protéines majeures de la différenciation kératinocytaire — est réduite, compromettant l'intégrité de la barrière mécanique. Par ailleurs, le pH cutané tend à s’élever, diminuant l’activité des enzymes lipidiques essentielles et favorisant la prolifération de pathogènes opportunistes.
 
@@ -135,7 +135,7 @@ Ces altérations expliquent la fréquence accrue, chez les sujets âgés, de *x�
 == Cibles thérapeutiques et cosmétiques
 #[
 - Antioxydants (vitamines, flavonoïdes)
-- Inhibiteurs de MMP (triterpènes, rétinoïdes)
+- Inhibiteurs de @MMP (triterpènes, rétinoïdes)
 - Stimulants fibroblastiques (bakuchiol, Centella)
 - Restauration lipidique et filmogène
 - Anti-glycation, modulation inflammatoire

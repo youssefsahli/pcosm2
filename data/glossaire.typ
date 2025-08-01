@@ -93,7 +93,7 @@
 )
 
 #glossary(
-  title: [*Glossaire*],
+  title: [*Table des abbréviations*],
   theme: T1,
   show-all: true
 )
