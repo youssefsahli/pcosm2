@@ -63,21 +63,21 @@
     }
   
   show regex("%%"): m => {
-      // set text(size: 6pt)
-      // box(
-      //   rect(
-      //   fill: orange,
-      //   "introduire citation"
-      //   )
-      // )
+      set text(size: 6pt)
+      box(
+        rect(
+        fill: orange,
+        "introduire citation"
+        )
+      )
     }
 
   show <plan>: p => {
-    set text(
-      size: 8pt,
-      weight: "light",
-      style: "normal"
-    )
+    // set text(
+    //   size: 8pt,
+    //   weight: "light",
+    //   style: "normal"
+    // )
     // rect(
     //   radius: 5pt,
     //   inset: 1em,
@@ -86,6 +86,23 @@
     //   p
     // )
   }
+
+  show <box>: b => {
+    rect(
+        radius: 5pt,
+        inset: 1em,
+        fill: gray.transparentize(94%),
+        stroke: gray.transparentize(90%),
+        b
+      )
+  }
+
+  show <remove>: r => none
+  
   rest
 }
+
+  
+
+  
 

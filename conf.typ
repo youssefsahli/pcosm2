@@ -15,7 +15,24 @@
 )
 
 #let numbering = (
-  heading: "A. 1. a.",
+  heading: (..nums) => {
+    let pos = nums.pos()
+    let s = pos.len()
+    let sep = "."
+    if s > 1 { sep = " " }
+    pos
+      .enumerate(start:1)
+      .map(
+        (i) => {
+          let (id, num) = i
+          if id < 4 {
+            return str(num)
+          }
+        }
+      )
+      .join(".") + sep
+      
+    },
   table: "I",
   figure: "A",
   page: "1",
@@ -70,4 +87,8 @@
 
 #let annexes = (
   "bibliographie",
+)
+
+#let bib = (
+  style: "vancouver"
 )

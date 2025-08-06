@@ -1,6 +1,6 @@
 #import "/img/mol/mol.typ": mol
 
-= Actifs phares de la recherche actuelle
+= Actifs clés identifiés à travers une recherche bibliographique
 #[
   Liste de plantes d'intérêt en cosmétique encore méconnues. Discussion des bénéfices et des risques associés, ainsi que de l'état des connaissances sur leur pharmacodynamie.
 ] <intro>

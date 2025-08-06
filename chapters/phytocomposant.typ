@@ -1,4 +1,4 @@
-= Phytocomposants
+= Intérêt des phytocomposants dans les formulations cosmétiques
 
 #[Définition, description d'un phytocosmétique et réglementation] <intro>
 

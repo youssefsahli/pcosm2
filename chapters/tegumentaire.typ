@@ -1,16 +1,26 @@
 = La peau
 
-Le système cutané (ou système tégumentaire) est l'appareil le plus large du corps humain avec une surface de 2m² en moyenne. @gallo_human_2017
-C'est aussi le plus lourd en participant à 15% du poids total du corps humain. %%
-Il sert d'interface entre le corps et l'environnement, et réagit aux stimulis extérieurs: humidité, uvs, élements toxiques #footnote[pollution de l'air, tabac], radiations %%
+Le système cutané (ou système tégumentaire) est l'appareil le plus large du corps humain avec une surface de 2m² en moyenne @gallo_human_2017.
+C'est aussi le plus lourd en participant à 15% du poids total du corps humain @richardson_understanding_2003.
+Il sert d'interface entre le corps et l'environnement, et réagit aux stimulis extérieurs: humidité, uvs, élements toxiques #footnote[pollution de l'air, tabac], radiations @proksch_skin_2008.
+
+#figure(
+  caption: [Coupe de peau humaine après fixation au formol et coloration HES #footnote[Coloration à l'hématoxyline et à l'éosine]. On observe en détail l'épiderme (en violet) avec ses différentes couches de cellules, et le derme papillaire (en rose) avec ses papilles dermiques bien définies qui ancrent solidement les deux couches l'une à l'autre.],
+  image("/img/epiderme1.JPG")
+)
 Ces nombreux paramètres #footnote[que l'on appelle exposomes @salsberg_review_2019] auront un effet sur différents aspects de la physiologie cutanée, notamment les processus de vieillissement.
-Les facteurs sociaux sont aussi un élément à prendre en compte dans l'évolution de sa qualité à travers le temps; on évaluera en particulier le temps d'exposition solaire %%, et les habitudes d'utilisation de soins cosmétiques @lee_different_2019 (crèmes hydratantes, anti-@UV:pl, maquillage), et enfin l'âge qui est en lien avec les modifications du profil hormonal et le ralentissement des processus régénératifs @oranges_skin_2015.
+Les facteurs sociaux sont aussi un élément à prendre en compte dans l'évolution de sa qualité à travers le temps; on évaluera en particulier le temps d'exposition solaire @krutmann_skin_2017, et les habitudes d'utilisation de soins cosmétiques @lee_different_2019 (crèmes hydratantes, anti-@UV:pl, maquillage), et enfin l'âge qui est en lien avec les modifications du profil hormonal et le ralentissement des processus régénératifs @oranges_skin_2015.
 La peau est aussi le plus grand appareil sensoriel du corps, et contribue à l'homéostasie en protégeant celui ci grâce à la composition lipidique de l'hypoderme mais aussi en mettant en jeu les systèmes de _feeback_ de thermorégulation par thermorécepteurs @romanovsky_skin_2014.
 Cette régulation thermique varie selon la présence ou non de poils, qui limitent la perte de chaleur par convection et augmentent localement la sensibilité tactile via l’innervation des follicules. Ils participent ainsi à la protection mécanique, et à une forme passive de thermorégulation.
 Les glandes sudoripares assurent l’évacuation de la chaleur -- @thermolyse -- par évaporation : les glandes sudorales eccrines@noauthor_dictionnaire_nodate, réparties sur l’ensemble du corps, sont activées en réponse à une élévation thermique centrale ou périphérique ; les glandes apocrines@noauthor_dictionnaire_nodate, localisées, sont plus impliquées dans la communication chimique. Les glandes sébacées sécrètent du sébum, qui se combine aux lipides épidermiques pour former le film hydrolipidique — interface lipidique de surface, faiblement acide, limitant la *perte insensible en eau* -- aussi appelée #emph[@TEWL] et participant à la défense antimicrobienne.
 
-Le *microbiote cutané*, qui correspond aux organismes peuplant la surface de l'épiderme varie avec l'environnement et les facteurs comportementaux. Sa composition en bactéries change selon les sites -- les zones grasses, humides ou sèches n’abritent pas les mêmes espèces %%.
-Ce dernier joue un rôle important dans la protection de la peau en empêchant les micro-organismes pathogènes de se développer. Il peut aussi aider à réguler certaines réponses immunitaires %%.
+#figure(
+  caption: [On peut apercevoir sur la gauche une partie de l'hypoderme, la couche la plus profonde, reconnaissable à la présence de tissu adipeux],
+  image("/img/epiderme2.JPG")
+)
+
+Le *microbiote cutané*, qui correspond aux organismes peuplant la surface de l'épiderme varie avec l'environnement et les facteurs comportementaux. Sa composition en bactéries change selon les sites -- les zones grasses, humides ou sèches n’abritent pas les mêmes espèces @grice_topographical_2009.
+Ce dernier joue un rôle important dans la protection de la peau en empêchant les micro-organismes pathogènes de se développer. Il peut aussi aider à réguler certaines réponses immunitaires @byrd_human_2018.
 
 La perturbation de l’équilibre du microbiote -- la _dysbiose_ -- par des soins inadaptés, des médicaments, ou des changements environnementaux, contribue à des pathologies comme l’acné @lee_potential_2019, la rosacée @sanchez-pellicer_rosacea_2024 ou la dermatite atopique @koh_skin_2022.
 

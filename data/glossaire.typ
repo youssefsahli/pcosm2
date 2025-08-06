@@ -28,7 +28,10 @@
       set text(size: 12pt)
       align(center, 
         text(size: 12pt, weight: "bold", fill: gray.darken(80%))[
-         #upper(name)
+          #upper[*Table des abbréviations*]
+          #v(1em)
+          #set text(style: "normal", weight: "light", size: 10pt)
+          #upper(name)
         ]
       )
       // align(center, line(length: 40%, stroke: sepia.transparentize(80%)))
