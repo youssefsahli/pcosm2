@@ -71,7 +71,7 @@ La tolérance est excellente, mais de rares cas d’allergie de contact ont ét�
 
 === Populations spécifiques
 
-La Centella asiatica peut être utilisée en toute sécurité chez l’enfant (à partir de 3 ans), la femme enceinte ou allaitante, ainsi que chez le sujet âgé. Son usage par voie orale doit cependant être encadré, en raison de cas rares d’hépatotoxicité rapportés avec les extraits totaux. En application topique, aucun effet indésirable systémique n’a été observé aux doses couramment utilisées.
+Centella asiatica peut être utilisée en toute sécurité chez l’enfant (à partir de 3 ans), la femme enceinte ou allaitante, ainsi que chez le sujet âgé. Son usage par voie orale doit cependant être encadré, en raison de cas rares d’hépatotoxicité rapportés avec les extraits totaux. En application topique, aucun effet indésirable systémique n’a été observé aux doses couramment utilisées.
 
 
 == α-Bisabolol <bisabolol>
