@@ -37,8 +37,6 @@ Bien que généralement bien toléré, des réactions érythémateuses peuvent s
 
 Contrairement au rétinol, le bakuchiol ne présente pas de contre-indication connue chez la femme enceinte ou allaitante, ce qui justifie son intégration dans des gammes cosmétiques maternité. Il est particulièrement indiqué dès 25–30 ans pour une stratégie préventive du vieillissement cutané. L’usage chez l’enfant n’est pas justifié et doit être évité en l’absence de données cliniques suffisantes.
 
-
-
 == Centella asiatica (Extraits des feuilles et tiges) <centella>
 
 Centella asiatica (L.) Urb., appelée « gotu kola » ou « herbe du tigre », est une petite plante herbacée vivace de la famille des Apiaceae, native des zones marécageuses d’Asie du Sud‑Est et aujourd’hui cultivée dans la plupart des régions tropicales. Célébrée depuis plus de deux millénaires dans les pharmacopées ayurvédique, tantrique et chinoise pour traiter diverses dermatoses @torbati_ethnobotany_2021., elle fait désormais figure d’actif star en dermo‑cosmétologie sous l’appellation populaire « Cica ».
