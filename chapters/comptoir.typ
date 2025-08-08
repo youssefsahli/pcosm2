@@ -12,7 +12,7 @@ On commencera par l'*Accueil* (A), qui consiste à bien recevoir le patient, et 
 La démarche se poursuit ensuite pour *Préconiser* (P) une solution, après analyse des informations, qui détermine si la conduite à tenir est une prise en charge à l'officine ou une orientation extérieure. Il s'agit alors d'*Optimiser* (O) la décision prise en expliquant ses raisons pour favoriser l'adhésion au traitement et en y associant des conseils hygiéno-diététiques. Puis de *Libeller* (L) un plan de prise, en précisant -- par écrit si le temps le permet -- les modalités d'administration, comme la posologie et les mises en garde, et les recommandations apportées. Enfin, on doit *Entériner* (E) la démarche en s'assurant de la bonne compréhension du patient, en l'invitant à poser d'autres questions et en prenant congé de manière à laisser la possibilité d'un suivi.
 
 #{
-  let prefix = "/annexes/cas_comptoirs/"
+  let prefix = "/chapters/cas_comptoirs/"
   let cas = (
     "anti_age",
     "dermatite_infantile",

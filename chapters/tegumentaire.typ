@@ -31,6 +31,11 @@ Elles interagissent avec les kératinocytes  et les lymphocytes T -- les trois r
 pour assurer une _veille immunitaire_ permanente. Certains éléments -- ptyriasis, lésions, infections, hormones -- entraînent la libération de molécules pro-inflammatoire (@IL-1, @IL-6, @TNF-α) par les kératinocytes , monocytes, mastocytes et macrophages.
 Ces molécules, si elles sont libérées de manière excessive peuvent être impliquées dans des dermatoses inflammatoires chroniques. Ces dernières entraînent une altération plus ou moins grave de l'apparence corporelle, qui est un vecteur majeur de l’image individuelle et sociale. L'apparition de dermatoses comme le psoriasis ou l’eczéma altèrent ce rapport au corps@guehi_image_2018, avec des répercussions possibles sur l’anxiété et l’estime de soi, et donc la qualité de vie.
 
+#figure(
+  caption: [Lupus],
+  image("/img/Lupus.JPG"),
+)
+
 Ces nombreux facteurs intrinsèques et extrinsèques  [ _cf_ @exposomes ] influencent l'évolution du derme et de l'épiderme au cours de leur vie, évolution appelée _chronological aging_ @shin_skin_2023. Il résulte d'un stress oxydatif causé par des @ROS en majorité, dont le principal acteur est l'irradiation aux @UV:pl @rinnerthaler_oxidative_2015. Cette accumulation de @ROS entraîne une dégradation des composants cellulaires lipidiques et protéiques %%, et activent une sénescence des cellules @shin_skin_2023, ainsi qu'une altération de la macrostructure cutanée -- le _matreotype_ %%. La peau devient plus fine %%, moins élastique %%, plus propice aux infections %%.
 
 == Embryologie
