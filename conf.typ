@@ -86,6 +86,8 @@
 )
 
 #let annexes = (
+  "/annexes/fiche",
+  "/annexes/acropole",
   "bibliographie",
 )
 

@@ -31,16 +31,6 @@ Les peaux sèches présentent une production sébacée insuffisante et une barri
 
 - *α-Bisabolol* : par son action apaisante et anti-inflammatoire, il limite l’irritabilité des peaux sèches réactives. On le retrouve dans des laits corporels ou crèmes émollientes adaptées aux peaux atopiques.
 
-==== Conseil pratique
-
-    - Nettoyage : syndet doux pH ≈ 5,5, rinçage à l’eau tiède ; tamponner sans friction.
-
-    - Hydratation : appliquer l’émulsion ou le gel dans les 3 min suivant la toilette.
-
-    - Protection : recommander un SPF 30 + enrichi en filtres lipophiles pour limiter l’exposome (UV, vent).
-
-    - Suivi : réévaluer au comptoir après 15 jours. Orienter vers le dermatologue si persistance de fissures ou prurit nocturne.
-
 Cette approche combine humectants (Aloe), boosters dermiques (Centella) et anti-inflammatoires (α-Bisabolol) afin de restaurer la fonction barrière et de réduire durablement la sécheresse cutanée.
 
 === Peaux grasses ou acnéiques
@@ -74,15 +64,7 @@ Elles présentent une perte d’élasticité, des rides, une diminution de l’a
 === Peaux déhydratées
 La peau déshydratée est une condition transitoire caractérisée par un manque d'eau, et non de lipides, pouvant affecter tous les types de peau, y compris les peaux grasses. Elle résulte d'une altération de la fonction barrière du film hydrolipidique, ce qui entraîne une perte insensible en eau (@TEWL) excessive @voegeli_moisturizing_2023. Cet état se manifeste par des tiraillements, un manque de souplesse et l'apparition de ridules de déshydratation. Le conseil se concentre sur des actifs humectants #footnote[Captent et retiennent l'eau dans l'épiderme], filmogènes #footnote[Créent un film protecteur limitant l'évaporation de l'eau] et réparateurs de la barrière cutanée.
 
-=== Conseil pratique
 
-Nettoyage : utiliser un lait ou une huile démaquillante suivi d'un nettoyant doux sans sulfates (syndet) pour ne pas décaper le film hydrolipidique. Vaporiser une brume d'eau thermale après le rinçage pour neutraliser le calcaire.
-
-Hydratation : appliquer un sérum à l'acide hyaluronique sur peau humide, puis sceller l'hydratation avec une crème contenant des agents filmogènes (céramides, squalane) ou humectants (glycérine).
-
-Environnement : limiter l'exposition aux facteurs aggravants (climatisation, chauffage excessif, vent). L'utilisation d'un humidificateur d'air peut être bénéfique.
-
-Suivi : si les tiraillements et les ridules persistent après 4 semaines de soins adaptés, conseiller une consultation pour écarter une problématique sous-jacente.
 
 === Récapitulatif
 
