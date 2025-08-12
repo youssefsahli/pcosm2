@@ -1,7 +1,7 @@
 #import "@preview/glossy:0.8.0": *
 #import "/conf.typ"
 
-#set heading(numbering: none, outlined: false)
+#set heading(numbering: none)
 
 #show: rest => {
   set text(

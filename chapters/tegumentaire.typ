@@ -5,7 +5,7 @@ C'est aussi le plus lourd en participant à 15% du poids total du corps humain @
 Il sert d'interface entre le corps et l'environnement, et réagit aux stimulis extérieurs: humidité, uvs, élements toxiques #footnote[pollution de l'air, tabac], radiations @proksch_skin_2008.
 
 #figure(
-  caption: [Coupe de peau humaine après fixation au formol et coloration HES #footnote[Coloration à l'hématoxyline et à l'éosine]. On observe en détail l'épiderme (en violet) avec ses différentes couches de cellules, et le derme papillaire (en rose) avec ses papilles dermiques bien définies qui ancrent solidement les deux couches l'une à l'autre.],
+  caption: [Coupe de peau humaine après fixation au formol et coloration @HES.],
   image("/img/epiderme1.JPG")
 )
 Ces nombreux paramètres #footnote[que l'on appelle exposomes @salsberg_review_2019] auront un effet sur différents aspects de la physiologie cutanée, notamment les processus de vieillissement.
@@ -15,7 +15,7 @@ Cette régulation thermique varie selon la présence ou non de poils, qui limite
 Les glandes sudoripares assurent l’évacuation de la chaleur -- @thermolyse -- par évaporation : les glandes sudorales eccrines@noauthor_dictionnaire_nodate, réparties sur l’ensemble du corps, sont activées en réponse à une élévation thermique centrale ou périphérique ; les glandes apocrines@noauthor_dictionnaire_nodate, localisées, sont plus impliquées dans la communication chimique. Les glandes sébacées sécrètent du sébum, qui se combine aux lipides épidermiques pour former le film hydrolipidique — interface lipidique de surface, faiblement acide, limitant la *perte insensible en eau* -- aussi appelée #emph[@TEWL] et participant à la défense antimicrobienne.
 
 #figure(
-  caption: [On peut apercevoir sur la gauche une partie de l'hypoderme, la couche la plus profonde, reconnaissable à la présence de tissu adipeux],
+  caption: [Coupe de peau humaine après fixation au formol et coloration HES],
   image("/img/epiderme2.JPG")
 )
 
@@ -32,7 +32,7 @@ pour assurer une _veille immunitaire_ permanente. Certains éléments -- ptyrias
 Ces molécules, si elles sont libérées de manière excessive peuvent être impliquées dans des dermatoses inflammatoires chroniques. Ces dernières entraînent une altération plus ou moins grave de l'apparence corporelle, qui est un vecteur majeur de l’image individuelle et sociale. L'apparition de dermatoses comme le psoriasis ou l’eczéma altèrent ce rapport au corps@guehi_image_2018, avec des répercussions possibles sur l’anxiété et l’estime de soi, et donc la qualité de vie.
 
 #figure(
-  caption: [Lupus],
+  caption: [Lupus érythémateux cutané (coloration HES) : On observe un infiltrat inflammatoire lymphocytaire dense],
   image("/img/Lupus.JPG"),
 )
 

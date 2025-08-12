@@ -21,7 +21,7 @@
   → Bakuchiol, Centella asiatica
 ] <plan>
 
-=== Peaux sèches, déshydratées
+=== Peaux sèches
 
 Les peaux sèches présentent une production sébacée insuffisante et une barrière cutanée altérée @fluhr_global_2024; il en résulte une augmentation de la @TEWL et une desquamation accrue @yonezawa_relationship_2023. Le conseil s’oriente vers des actifs humectants #footnote[Attirant l'eau], relipidants #footnote[Restaurent la barrière cutanée] ou filmogènes #footnote[Limitent l’évaporation].
 
@@ -70,6 +70,19 @@ Elles présentent une perte d’élasticité, des rides, une diminution de l’a
 - *Bakuchiol* : en activant les récepteurs @RAR et @RXR sans les effets irritants des rétinoïdes, il améliore le grain de peau et la densité dermique. À intégrer dans les routines nocturnes.
 
 - *Centella asiatica* : la stimulation de la synthèse de collagène de type I et III, associée à son action anti-MMP, en fait un composant clé des soins anti-âge.
+
+=== Peaux déhydratées
+La peau déshydratée est une condition transitoire caractérisée par un manque d'eau, et non de lipides, pouvant affecter tous les types de peau, y compris les peaux grasses. Elle résulte d'une altération de la fonction barrière du film hydrolipidique, ce qui entraîne une perte insensible en eau (@TEWL) excessive @voegeli_moisturizing_2023. Cet état se manifeste par des tiraillements, un manque de souplesse et l'apparition de ridules de déshydratation. Le conseil se concentre sur des actifs humectants #footnote[Captent et retiennent l'eau dans l'épiderme], filmogènes #footnote[Créent un film protecteur limitant l'évaporation de l'eau] et réparateurs de la barrière cutanée.
+
+=== Conseil pratique
+
+Nettoyage : utiliser un lait ou une huile démaquillante suivi d'un nettoyant doux sans sulfates (syndet) pour ne pas décaper le film hydrolipidique. Vaporiser une brume d'eau thermale après le rinçage pour neutraliser le calcaire.
+
+Hydratation : appliquer un sérum à l'acide hyaluronique sur peau humide, puis sceller l'hydratation avec une crème contenant des agents filmogènes (céramides, squalane) ou humectants (glycérine).
+
+Environnement : limiter l'exposition aux facteurs aggravants (climatisation, chauffage excessif, vent). L'utilisation d'un humidificateur d'air peut être bénéfique.
+
+Suivi : si les tiraillements et les ridules persistent après 4 semaines de soins adaptés, conseiller une consultation pour écarter une problématique sous-jacente.
 
 === Récapitulatif
 

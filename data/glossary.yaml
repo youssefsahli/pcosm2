@@ -74,6 +74,10 @@ ROL:
   short: ROL
   long: rétinol
 
+HES:
+  short: HES
+  long: Coloration à l'hématoxyline et à l'éosine
+
 CREB:
   short: CREB
   long: cAMP-response element-binding protein

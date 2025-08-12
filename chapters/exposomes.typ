@@ -9,6 +9,7 @@ Un _exposome_ désigne l’ensemble des facteurs environnementaux non génétiqu
     "/img/exposomes.png", 
     width: 60%,
   ),
+  caption: [Exposomes agissant sur la peau]
 )
 
 Les *Rayonnements ultraviolets (@UV)* sont le facteur principal du vieillissement cutané extrinsèque @krutmann_skin_2017. L’exposition chronique aux @UV:pl entraîne une formation massive d’@ROS, des lésions de l’@ADN (photoproduits @cadet_solar_2015), une inflammation locale et l’activation des @MMP:pl @kim_uvb-mediated_2022, responsables de la dégradation de la matrice extracellulaire @watson_damage_2014.

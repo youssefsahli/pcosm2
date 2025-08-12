@@ -15,7 +15,7 @@ En Égypte se trouvent les premiers signes d'un usage systématique de cosmétiq
 Avec le développement de l'écriture et des systèmes médicaux structurés, les usages cutanés des plantes s'inscrivent progressivement dans des corpus techniques. Dans le monde gréco-romain, des auteurs comme Théophraste (Historia Plantarum), Hippocrate puis Dioscoride recensent de nombreuses substances végétales utilisées pour soigner la peau, atténuer les signes de l'âge, calmer les inflammations ou parfumer le corps. Le _De Materia Medica_ de Dioscoride décrit par exemple l'utilisation de myrrhe, de cyprès, de rose ou encore de fenugrec dans diverses préparations topiques.
 
 #figure(
-  caption: [Évolution chronologique des pratiques cosmétiques, des usages rituels préhistoriques à la redécouverte moderne des actifs végétaux.],
+  caption: [Évolution chronologique des pratiques cosmétiques.],
   image(
     height: 30%,
     "/img/cosmetichistory.drawio.png"
