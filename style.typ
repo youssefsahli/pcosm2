@@ -6,8 +6,10 @@
     v(1em)
   }
   
-  show table: set text(size: conf.table.size)
-  show table.cell.where(y: 0): strong
+  show table: set text(
+      size: conf.table.size,
+      weight: "regular"
+    )
   set table(
     stroke: (x, y) => if y == 0 {
       (bottom: 0.7pt + black)
@@ -16,6 +18,10 @@
       if x > 0 { center }
       else { left }
     )
+  )
+
+  set figure.caption(
+    separator: ": "
   )
 
   show figure: f => {
@@ -44,8 +50,8 @@
       fill: conf.figure.caption.fill,
     )
     rect(
-      fill: gray.transparentize(60%).lighten(90%),
-      stroke: gray.lighten(90%),
+      fill: gray.transparentize(90%).lighten(90%),
+      stroke: gray.lighten(98%),
       radius: 5pt,
       inset: 1em,
       c
@@ -91,8 +97,8 @@
     rect(
         radius: 5pt,
         inset: 1em,
-        fill: gray.transparentize(94%),
-        stroke: gray.transparentize(90%),
+        fill: gray.transparentize(94%).lighten(50%),
+        stroke: gray.transparentize(90%).lighten(60%),
         b
       )
   }

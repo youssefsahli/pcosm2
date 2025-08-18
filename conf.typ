@@ -39,7 +39,7 @@
 )
 
 #let table = (
-  size: 9pt,
+  size: 7pt,
 )
 
 #let figure = (
@@ -88,9 +88,10 @@
 )
 
 #let annexes = (
+  "conclusion",
+  "bibliographie",
   "/annexes/fiche",
   "/annexes/acropole",
-  "bibliographie",
 )
 
 #let bib = (

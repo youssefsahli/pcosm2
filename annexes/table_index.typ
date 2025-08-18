@@ -1,10 +1,12 @@
 #{
 
   let table_sources = (
-    (
-      cite(<amin_black_2016>),
-      cite(<cheikh-rouhou_nigella_2007>)
-    )
+    [@amin_black_2016 @cheikh-rouhou_nigella_2007],
+    [
+      @west_evaluation_2003 
+      @razia_effects_2021
+      @park_pharmacological_2021
+    ]
   )
 
   show outline.entry: e => context {
@@ -13,8 +15,13 @@
     h(1em)
     
     if e.element.kind == table {
-      let n = e.element.counter.at(here())
-      [Source:] 
+      let n = e.element.counter.at(e.element.location()).first()
+      let source_array = table_sources.at(n, default: "")
+      if n > 0 and n <= table_sources.len() {
+        let source = table_sources.at(n - 1)
+        h(1em)
+        [Sources: #source]
+      }
     }
     
     v(1.5em)
@@ -28,7 +35,7 @@
   
     set heading(numbering: none)
   
-    [= Liste des tableaux et figures]
+    [= Liste des Tableaux et Figures]
   }
   show heading: set align(center)
   outline(
