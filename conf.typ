@@ -64,6 +64,8 @@
 
 #let start-pages = (
   "title",
+  "blank",
+  "title",
   "sommaire",
   "/annexes/table_index",
   "/data/glossaire",

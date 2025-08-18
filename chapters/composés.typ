@@ -1,4 +1,5 @@
 #import "/img/mol/mol.typ": mol
+#import "/data/tables/table.typ": *
 
 = Actifs clés identifiés à travers une recherche bibliographique
 #[
@@ -113,9 +114,8 @@ La composition de l’huile vierge de Nigella sativa inclut également des compo
 
 En application topique, elle est utilisée dans la prise en charge des dermatites, des peaux atopiques, du prurit chronique, ainsi qu’en soin capillaire pour les cuirs chevelus sensibles ou sujets à la chute. Sa couleur foncée, sa texture grasse et son odeur marquée limitent cependant son usage direct dans certaines formulations, nécessitant des ajustements galéniques pour une bonne acceptabilité sensorielle.
 
-#figure(
-  numbering: "I",
-  caption: [Molécules notables retrouvées dans Nigella sativa],
+#add_table(
+  [Molécules notables retrouvées dans Nigella sativa],
   table(
     columns: 1,
     align: left,

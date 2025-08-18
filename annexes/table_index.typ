@@ -1,10 +1,21 @@
 #{
 
-  show outline.entry: e => {
+  let table_sources = (
+    (
+      cite(<amin_black_2016>),
+      cite(<cheikh-rouhou_nigella_2007>)
+    )
+  )
+
+  show outline.entry: e => context {
     [#e <box>]
     // v(.1em)
     h(1em)
     
+    if e.element.kind == table {
+      let n = e.element.counter.at(here())
+      [Source:] 
+    }
     
     v(1.5em)
   }

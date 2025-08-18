@@ -1,4 +1,5 @@
 #import "@preview/glossy:0.8.0": *
+#import "@preview/titleize:0.1.1": titlecase
 #import "/conf.typ"
 
 #set heading(numbering: none)
@@ -37,8 +38,9 @@
       // align(center, line(length: 40%, stroke: sepia.transparentize(80%)))
     }
     v(2em)
+    set text(size: 1.1em)
     if name == "" {
-      columns(2, body)
+      columns(1, body)
       pagebreak(weak: true)
     } else {
       body
@@ -48,13 +50,14 @@
 
   entry: (entry, index, total) => {
     let capitalize(word) = {
-      return upper(word.first() + word.slice(1))
+      return upper(word.first()) + word.slice(1)
     }
-    let short-display = text(weight: "regular", capitalize(entry.short))
+    
+    let short-display = text(weight: "extrabold", (entry.short))
     let long-display = if entry.long == none {
       []
     } else {
-      [ · #entry.long]  // Using em-dash for Chicago style
+      [: #capitalize(entry.long)]  // Using em-dash for Chicago style
     }
 
     let description = if entry.description == none {
@@ -65,11 +68,11 @@
 
     let refs = box(
       text(
-        size: 0.8em,
+        size: 0.9em,
         fill: gray.darken(20%),
          {
            show regex("󰖂\\s*"): t => []
-           show ",": none
+           // show ",": none
            entry.pages
         }
       )
@@ -83,9 +86,10 @@
           size: 0.9em,
           {
             grid(
-              columns: (100%),
+              columns: (auto, auto),
               gutter: 1em,
-              [#short-display#entry.label#long-display#description#entry.label],
+              [#short-display#entry.label#long-display#entry.label],
+              // repeat("."),
               [#refs]
             )
           }
@@ -98,5 +102,6 @@
 #glossary(
   title: [*Table des abbréviations*],
   theme: T1,
-  show-all: true
+  show-all: false,
+  groups: ("")
 )

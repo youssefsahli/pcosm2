@@ -11,3 +11,21 @@
     )
   )
 }
+
+#let add_table(
+  caption,
+  T,
+  sources: "",
+  align:auto,
+  columns: auto,
+) = context {
+  figure(
+    numbering: "I",
+    caption: caption,
+    table(
+      align: align,
+      columns: columns,
+      T
+    )
+  )
+}

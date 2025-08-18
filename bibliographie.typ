@@ -41,4 +41,4 @@
         it
       } 
 
-#bibliography("zotero.bib", full: false, style: conf.bib.style)
+#bibliography("zotero.bib", full: true, style: conf.bib.style)
