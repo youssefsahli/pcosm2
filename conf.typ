@@ -82,9 +82,9 @@
   "exposomes",
   "phytocomposant",
   "composés",
+  "specialites",
   "conseil",
   "comptoir",
-  "specialites",
   "ecologie",
   "orgs",
 )
