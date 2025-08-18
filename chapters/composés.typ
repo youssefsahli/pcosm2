@@ -3,8 +3,12 @@
 
 = Actifs clés identifiés à travers une recherche bibliographique
 #[
-  Liste de plantes d'intérêt en cosmétique encore méconnues. Discussion des bénéfices et des risques associés, ainsi que de l'état des connaissances sur leur pharmacodynamie.
+  Analyse pharmacologique d'actifs végétaux retrouvés de manière récurrente dans les études de dermo-cosmétique, et que l'on retrouve de plus en plus au comptoir.
 ] <intro>
+
+== Recherche
+
+La recherche de ces plantes s'est effectuée par une revue des différentes publications récentes.
 
 == Bakuchiol <bakuchiol>
 Psoralea corylifolia est utilisée dans la médecine chinoise pour traiter l'alopécie et le vitiligo @noauthor_psoralea_nodate. Elle appartient aux Fabaceae, et est originaire d'Asie tropicale (notamment Inde et Chine) 

@@ -66,6 +66,8 @@
   "title",
   "blank",
   "title",
+  "personnel_uca",
+  "remerciements",
   "sommaire",
   "/annexes/table_index",
   "/data/glossaire",

@@ -18,3 +18,5 @@ L’organisme allemand, BDIH, créé en 2001, fait partie des premiers à établ
 
 == NATRUE <NATRUE>
 Créé en 2007, le label international NATRUE se distingue par une classification en trois catégories : « cosmétiques naturels », « cosmétiques naturels avec une part bio » et « cosmétiques bio » @noauthor_natrue_nodate-1. Ce label impose des critères de formulation particulièrement stricts et exige un étiquetage clair, sans ambiguïté. La certification n’est pas réalisée par NATRUE lui-même mais confiée à des organismes indépendants. À la différence de la norme ISO16128, NATRUE rejette l’utilisation d’ingrédients issus de procédés synthétiques, même s’ils proviennent à l’origine de sources naturelles (@noauthor_natrue_nodate).
+
+== International Aloe Science Council <IASC>

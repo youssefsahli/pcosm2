@@ -2,7 +2,7 @@
 = Conseil officinal
 
 #[
-  Synthèse des indications, formulations et précautions associées à l’usage des actifs végétaux étudiés, dans une perspective de dispensation pharmaceutique et de conseil dermocosmétique. Il vise à guider la recommandation officinale selon les types de peau, les indications fréquentes et les populations particulières.
+  Face à une demande croissante pour des soins dermo-cosmétiques d'origine végétale, le pharmacien d'officine est en première ligne pour guider le patient vers des solutions à la fois sûres et adaptées. En supplément des crèmes plus classiques, noux allons examiner l'intérêt des plantes étudiées selon les cas cliniques retrouvés au comptoir, et personnaliser le conseil donné selon trois paramètres particuliers: le type de peau, l'indication clinique, et enfin certaines spécificités à prendre en compte, notamment les enfants et femmes enceintes.
 ] <intro>
 
 == Approche par types de peau
