@@ -3,6 +3,7 @@
 #set list(marker: "")
 #set page(columns: 1)
 #{
+  set heading(numbering: none)
   show heading: none
   [= Liste du personnel enseignant]
 }

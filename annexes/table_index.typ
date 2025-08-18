@@ -35,7 +35,7 @@
   
     set heading(numbering: none)
   
-    [= Liste des Tableaux et Figures]
+    [= Liste des tableaux et figures]
   }
   show heading: set align(center)
   outline(
