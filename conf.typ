@@ -94,6 +94,7 @@
   "bibliographie",
   "/annexes/fiche",
   "/annexes/acropole",
+  "/annexes/pubmed"
 )
 
 #let bib = (

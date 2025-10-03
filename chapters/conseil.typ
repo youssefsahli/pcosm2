@@ -1,5 +1,5 @@
 #import "/data/tables/table.typ": csv_table
-= Conseil officinal
+= Conseil officinal/Mise en pratique à l'officine
 
 #[
   Face à une demande croissante pour des soins dermo-cosmétiques d'origine végétale, le pharmacien d'officine est en première ligne pour guider le patient vers des solutions à la fois sûres et adaptées. En supplément des crèmes plus classiques, noux allons examiner l'intérêt des plantes étudiées selon les cas cliniques retrouvés au comptoir, et personnaliser le conseil donné selon trois paramètres particuliers: le type de peau, l'indication clinique, et enfin certaines spécificités à prendre en compte, notamment les enfants et femmes enceintes.
@@ -163,11 +163,11 @@ La peau infantile est plus fine, plus perméable et plus vulnérable aux agents 
 
 - *Aloe vera* : bien toléré en usage externe dès le plus jeune âge, sous réserve d’extraits purifiés (sans latex) et stabilisés. Idéal en cas de coup de soleil, petite brûlure ou sécheresse localisée.
 
-- *Centella asiatica* : à recommander sous forme de crèmes "CICA" validées pédiatriquement. Les extraits titrés (TECA) ont montré une bonne tolérance en application cutanée, notamment post-grattage ou post-varicelle.
+- *Centella asiatica* : à recommander sous forme de crèmes "CICA" validées pédiatriquement. Les extraits titrés (TECA) ont montré une bonne tolérance en application cutanée, notamment dans les lésions dues au prurit, et dans les cas de varicelle.
 
 === Femmes enceintes
 
-Les recommandations visent à limiter l’exposition à certains extraits mal caractérisés ou potentiellement mutagènes. Les huiles essentielles sont généralement contre-indiquées, de même que les agents photosensibilisants ou hormonaux-like.
+Les recommandations visent à limiter l’exposition à certains extraits mal caractérisés ou potentiellement mutagènes. Les huiles essentielles sont généralement contre-indiquées, de même que les agents photosensibilisants ou à action hormonale.
 
 - *Bakuchiol* : bien qu’il ne soit pas un rétinoïde, son action sur les récepteurs nucléaires invite à la prudence en début de grossesse. Cependant, plusieurs marques l’autorisent en cosmétique maternité à faible dose (< 1 %).
 

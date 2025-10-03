@@ -6,10 +6,10 @@
   Ce chapitre propose une analyse pharmacologique et galénique de cinq actifs végétaux — Bakuchiol, Centella asiatica, α-Bisabolol, huile de Nigella sativa et Aloe vera. Leur sélection repose sur une méthodologie visant à identifier les composés qui allient un volume croissant de publications scientifiques à une présence notable sur le marché dermocosmétique et un intérêt avéré pour le conseil officinal. L'objectif est de fournir une synthèse structurée de leurs mécanismes d'action, de leurs indications validées, de leur profil de sécurité et des considérations galéniques pertinentes pour la pratique du pharmacien.
 ] <intro>
 
-== Recherche
+== Travail de recherche
 
-La recherche de ces plantes s'est effectuée par une revue systématique de la littérature scientifique sur 3 mois: Les mots-clés utilisés, en anglais et en français, incluaient les noms des plantes et des actifs (Bakuchiol, Centella asiatica, Madecassoside, Bisabolol, Nigella sativa, Thymoquinone, Aloe vera, Acemannan) combinés à des termes relatifs à la dermatologie et la cosmétologie (dermatology, skin, acne, aging, wound healing, atopic dermatitis, cosmetics).
-Les publications retenues répondaient aux critères suivants : articles publiés au cours des 10 dernières années (2015-2025) pour garantir la pertinence des données, études in vitro, in vivo et essais cliniques, ainsi que des méta-analyses et des revues systématiques. La priorité a été donnée aux articles publiés dans des journaux à comité de lecture.
+La recherche de ces plantes s'est effectuée par une exploration de la littérature scientifique sur 3 mois: Les mots-clés utilisés, en anglais et en français, incluaient les noms des plantes et des actifs (Bakuchiol, Centella asiatica, Madecassoside, Bisabolol, Nigella sativa, Thymoquinone, Aloe vera, Acemannan) combinés à des termes relatifs à la dermatologie et la cosmétologie (dermatology, skin, acne, aging, wound healing, atopic dermatitis, cosmetics).
+J'ai retenu les publications qui répondaient aux critères suivants : articles publiés au cours des 10 dernières années (2015-2025) pour garantir la pertinence des données, études in vitro, in vivo et essais cliniques, ainsi que des méta-analyses et des revues systématiques. La priorité a été donnée aux articles publiés dans des journaux à comité de lecture.
 
 Les cinq actifs présentés ont été sélectionnés sur la base de trois critères cumulatifs :
 
