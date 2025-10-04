@@ -1,5 +1,5 @@
 #set page(
-  header: [*Annexe III: Publications par année, pour chaque composants étudié*],
+  header: [*Annexe IV: Publications par année, pour chaque composants étudié*],
   margin: (
     y: 2.5cm
   )

@@ -3,50 +3,18 @@
 = Actifs végétaux dans les gammes cosmétiques
 
 #[
-  Dans un second temps, j'ai souhaité faire une synthèse des marques cosmétiques vendues en officine...
-  Pour cela, j'ai sélectionné les marques ...
+  Après étude de ces différents actifs végétaux -- Bakuchiol, madécassoside, thymoquinone, extrait d'aloé, bisabolol -- il est pertinent de répertorier différentes spécialités retrouvées en officine ou en parapharmacie, afin d'améliorer le conseil pharmaceutique, et de mettre en évidence la qualité des produits dermatologiques en vente libre. 
 ] <intro>
 
 == Méthodologie
 
-INCIDECODER
+Une recherche a été menée sur les différent produits des marques retrouvées en officine. Chaque produit a eu sa composition analysée, et les produits répondant aux critères fut retenu dans une annexe, regroupés selon l'actif étudié.
+Certains sites furent d'une grande utilité, notamment #link("https://incidecoder.com/"), qui permet de retrouver la nature et l'utilité de chaque ingrédient de la liste INCI.
 
-Une page/plante/annexe
-
-// - *Sélection de marques* : Le corpus comprend des marques de dermocosmétique (Avène, La Roche-Posay, A-Derma, Bioderma, SVR) principalement distribuées en officine ou parapharmacie, ainsi que des marques à orientation naturelle ou clean beauty (La Rosée, Erborian, Sanoflore, Melvita, So’Bio étic, Typology, La Provençale). Cette sélection couvre un continuum allant de la cosmétique à visée dermatologique à la cosmétique certifiée biologique, en passant par les formulations minimalistes.
-
-// - *Identification des produits* : Pour chacun des cinq actifs végétaux étudiés, deux à trois produits commercialisés en France entre 2023 et 2025 ont été retenus sur la base des étiquetages et communiqués officiels. Les références choisies illustrent le positionnement des marques : baumes réparateurs en pharmacie pour la centella, huiles ou sérums bio pour la nigelle, etc.
-
-// - *Analyse des formules et allégations* : Pour chaque produit, l’étude porte sur la galénique (gel, crème, baume, sérum), les bénéfices revendiqués, les usages recommandés et le public cible (peaux sensibles, acnéiques, post-procédure, anti-âge). L’analyse compare la fonction assignée aux actifs végétaux (apaisante, anti-âge, anti-imperfections), le type de texture (riche ou légère) et le registre de valorisation adopté par la marque (naturel ou dermatologique).
-
-[Plus personnel]
-
-On en ressort cf Annexe 1 une liste de produits cosmetologiques de différentes marques contenant les principes actifs étudiés...
-
-== Aloe vera
-
-Les polysaccharides mucilagineux du gel d’*Aloe vera* — dominés par l’acémannane @sanchez_pharmacological_2020 — exercent un double rôle filmogène : rétention d’eau dans le stratum corneum et réduction de la perte insensible en eau. Des travaux in-vitro et ex-vivo lui attribuent également des effets anti-inflammatoires modérés (diminution de l’expression d’IL-1β et de TNF-α), une stimulation de la prolifération kératinocytaire et une accélération de la ré-épithélialisation @vogler_aloe_1999. Sa bonne tolérance cutanée explique son intégration transversale dans des galéniques allant du soin dermatologique au produit d’hygiène.
-
-[Mettre la liste en annexe]
-
-*Avene Sunsitive – Écran solaire haute protection* intègre un extrait d’*Aloe vera* au sein d’une phase émulsionnée contenant des filtres organiques à large spectre (bemotrizinol, butyl methoxydibenzoyl­methane, ethylhexyl triazone, homosalate). L’aloe, associé au tocophérol et à l’acide hyaluronique, vise à contrebalancer le potentiel irritant des filtres UV et à limiter la déshydratation induite par l’exposition solaire. Sa concentration, située en milieu de liste INCI, suggère une fonction humectante et apaisante d’appoint plutôt qu’un rôle principal.
-
-*La Rosée – Contour des yeux défatiguant* place le jus de feuille d’*Aloe barbadensis* parmi les premiers ingrédients, aux côtés d’eaux florales de rose de Damas et d’hélichryse. La matrice polyolique (glycérine, propylène glycol) favorise la libération rapide de l’eau libre, tandis que l’extrait d’avoine et le citrate tamponnent le pH périorbitaire. Ici, l’aloe structure la phase aqueuse d’un gel-fluide destiné à hydrater, décongestionner et apaiser une zone à peau fine, tout en maintenant une liste d’ingrédients courte et à dominante botanique.
-
-*Vichy – Masque apaisant à l’Aloe vera* adopte une texture gelifiée semi-occlusive (polyglycéryl-3 methylglucose distearate, sodium polyacrylate) dans laquelle l’aloe est placé en milieu de formule. La présence concomitante de dipotassium glycyrrhizate, d’esters de jojoba et d’alcool dénaturé confère à la galénique un pouvoir rafraîchissant immédiat, suivi d’un léger film émollient. L’aloe joue ici un rôle synergique avec la glycérine pour procurer un « flash hydratation », tandis que la sauge sclarée (salicylic acid) assure une micro-exfoliation douce.
-
-*Hiruscar – Anti-Acne Spot Gel+* illustre une approche ciblée : le jus d’aloe est associé à des extraits anti-inflammatoires et anti-microbiens (Allium cepa #footnote[Extrait de bulbe d'oignon, à l'activité anti-microbienne], fomes officinalis #footnote[Extrait du Polypore du mélèze, à l'effet dermoprotecteur], boswellia), à l’acide salicylique kératolytique et à la dipotassium glycyrrhizate. Dans ce gel polymérique (ammonium acryloyldimethyltaurate/VP), l’aloe n’est pas l’actif principal mais soutient la réduction de l’érythème et la restauration de l’hydratation périlésionnelle, réduisant ainsi le risque de desquamation induite par l’acide salicylique. La gamme Hiruscar appartient à Medinova AG, laboratoire suisse acquis par le groupe DKSH en 2004. La marque est introduite en Malaisie et à Singapour dès 2007 comme solution non-prescription contre cicatrices et imperfections @noauthor_about_2022.
-
-Ces exemples montrent trois positions stratégiques pour l’*Aloe vera* :  
-- Ingrédient tampon apaisant dans une émulsion photoprotectrice,  
-- Vecteur hydratant majeur dans un gel contour de l’œil à dominante botanique,  
-- Co-actif synergique dans un masque hydratant et dans un gel anti-acné à action combinée.
-
-La flexibilité galénique de l’aloe — gel aqueux, crème fluide, masque gélifié ou gel polymérique — lui permet d’occuper des niches fonctionnelles variées, de la prévention de la déshydratation induite par les filtres UV à la modulation de l’inflammation dans les lésions d’acné. Sa combinaison fréquente avec des humectants (glycérine), des anti-inflammatoires végétaux (glycyrrhizate, boswellia) ou des polysaccharides filmogènes (acide hyaluronique) confirme son rôle pivot dans les stratégies contemporaines d’hydratation et de réparation cutanées.
 
 === Centella asiatica
 
-La *Centella asiatica* renferme des triterpènes pentacycliques – asiaticoside, madecassoside, acide asiatique – capables d’activer la synthèse de collagène (types I et III) et de moduler la libération de cytokines pro-inflammatoires. Ses extraits sont ainsi fréquemment employés pour favoriser la réparation cutanée, renforcer la matrice dermique ou atténuer les manifestations inflammatoires de surface.
+
 
 Trois galéniques contemporaines illustrent la pluralité de cet usage :
 

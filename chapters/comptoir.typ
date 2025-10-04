@@ -1,22 +1,27 @@
 = Cas Comptoirs
 
 #[
-  // Présentation de différents cas d'officine, où le conseil pharmaceutique va jouer un rôle dans la caractérisation de la pathologie, et les soins conseillés. On explorera différents tableaux symptomatologiques de la peau, ainsi que des moyens disponibles afin d'améliorer leur prise en charge, ainsi que des signes alertant le pharmacien d'une nécessaire orientation vers un spécialiste.
+Différents cas de comptoir en pharmacie ont été rédigés afin de mettre en valeur la création d'une fiche conseil, où les pathologies dermo-cosmétiques joue un rôle central. On y verra différents tableaux symptomatologiques de la peau, les moyens disponibles pour améliorer leur prise en charge, ainsi que les signes devant alerter le pharmacien et motiver une orientation vers un spécialiste.
 ] <intro>
 
-== La Démarche ACROPOLE
+== Une Adaptation de la Démarche ACROPOLE au Conseil Dermo-Cosmétique
 
-La démarche ACROPOLE fait partie des bonnes pratiques de dispensation en officine. Elle permet une amélioration du conseil au comptoir, en systématisant et en guidant la prise en charge du patient, de l'accueil à la délivrance.
+La démarche ACROPOLE, un outil validé des bonnes pratiques de dispensation, a été initialement conçue pour systématiser la prise en charge pharmaceutique. Bien que son origine soit liée à la gestion de symptômes divers face à la pénurie de médecins, ses principes peuvent être transposés et adaptés pour structurer le conseil en dermo-cosmétique.
 
-Créée dans un contexte de raréfaction des médecins en France, la démarche ACROPOLE est une aide à l'accueil du patient se présentant sans ordonnance, avec des symptômes nécessitant un avis voire une assistance médicale selon la gravité apparente des signes décris ou observés. L'objectif de celle-ci étant de soigner les maux légers sans obstruer le parcours de soin si la nécessité d'un diagnostic plus poussé ne se fait pas sentir. Ce plan qui s'étend de l'accueil à la sortie du patient, accompagne le pharmacien dans chaque étape de son dialogue avec ce dernier, dans le but de systématiser la prise en charge, afin d'assurer une qualité constante dans le soin apporté.
+L'objectif de cette transposition n'est pas d'effectuer un diagnostic, mais de formaliser une anamnèse cosmétique rigoureuse. Il s'agit d'établir un cadre d'échange qui permet de qualifier la demande, d'évaluer l'état cutané, d'identifier les facteurs d'influence et de déterminer si la situation relève d'une routine de soin ou d'une consultation médicale.
 
-[ J'aimerais l'adapter à la cosmétique ]
-Pour un conseils securisé, j'ai adapté un diagramme...
-#image("../img/acropole2.png")
-Une fiche patient à été créée que l'on pourrait scanner dans le logiciel métier...
-[ Mettre cespharm schema]
-// On commencera par l'*Accueil* (A), qui consiste à bien recevoir le patient, et préparer le futur entretien sur un ton professionnel et bienveillant. On recherchera à poser les bases d'un dialogue sain et respectueux, ainsi qu'à situer grossièrement l'état psychologique et physiologique du patient, ce qui aidera par la suite à adapter la communication aux différentes personnalités. La *Collecte* (C) d'information s'ensuit, où l'on prioritisera les questions ouvertes et le temps de parole du patient ; l'écoute doit être attentive et sans jugement, tout en faisant preuve d'empathie. On *Recherche* (R) ensuite les informations complémentaires, afin de compléter l'anamnèse, et orienter son attention sur les éléments importants, avant d'*Ordonner* (O) les informations afin de s'assurer que les déclarations sont complètes, que rien n'a été omis et que la demande est bien comprise, ce qui est validé par une reformulation concise soumise à l'approbation de l'interlocuteur.
-// La démarche se poursuit ensuite pour *Préconiser* (P) une solution, après analyse des informations, qui détermine si la conduite à tenir est une prise en charge à l'officine ou une orientation extérieure. Il s'agit alors d'*Optimiser* (O) la décision prise en expliquant ses raisons pour favoriser l'adhésion au traitement et en y associant des conseils hygiéno-diététiques. Puis de *Libeller* (L) un plan de prise, en précisant -- par écrit si le temps le permet -- les modalités d'administration, comme la posologie et les mises en garde, et les recommandations apportées. Enfin, on doit *Entériner* (E) la démarche en s'assurant de la bonne compréhension du patient, en l'invitant à poser d'autres questions et en prenant congé de manière à laisser la possibilité d'un suivi.
+Pour sécuriser et standardiser ce conseil, la démarche a été schématisée.
+
+#figure(
+image("../img/acropole2.png"),
+caption: [Diagramme de la démarche ACROPOLE adaptée au conseil dermo-cosmétique.]
+)
+
+En complément, une fiche de suivi a été développée. Cet outil, potentiellement intégrable aux logiciels métier, permet de formaliser les recommandations et d'assurer une traçabilité du conseil prodigué.
+#figure(
+  caption: [Proposition de fiche de conseil dermo-cosmétique pour le suivi],
+  image("../img/FICHE.drawio.png")
+)
 
 #{
   let prefix = "/chapters/cas_comptoirs/"
@@ -25,6 +30,7 @@ Une fiche patient à été créée que l'on pourrait scanner dans le logiciel m�
     "epilation",
     "peau_seche",
     "rasage",
+    "acné"
   )
 
   for c in cas {
