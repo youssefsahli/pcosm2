@@ -22,7 +22,6 @@ Une fiche patient à été créée que l'on pourrait scanner dans le logiciel m�
   let prefix = "/chapters/cas_comptoirs/"
   let cas = (
     "anti_age",
-    "dermatite_infantile",
     "epilation",
     "peau_seche",
     "rasage",

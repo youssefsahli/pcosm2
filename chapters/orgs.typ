@@ -1,22 +1,53 @@
 = Organismes & Certifications <orgs>
 
 #[
-  La prolifération des produits dits « naturels » ou « d'origine végétale » dans le secteur cosmétique a suscité une demande croissante de régulation. Différents organismes ont développé des référentiels encadrant la composition, la traçabilité et les procédés de transformation. Cette section propose une analyse des principales certifications en vigueur (Ecocert, ISO 16128, COSMOS, BDIH, NATRUE, UEBT, RSPO), en interrogeant leurs critères, la rigueur de leurs audits, et leur réception au sein de l'industrie.
+La prolifération des produits dits « naturels » ou « d'origine végétale » dans le secteur cosmétique a engendré une demande croissante de régulation et de transparence. En réponse, différents organismes ont développé des référentiels encadrant la composition, la traçabilité et les procédés de transformation autorisés. Cette section propose une analyse critique des principales certifications en vigueur, en interrogeant leurs critères respectifs, la rigueur de leurs audits, et leur réception au sein de l'industrie.
 ] <intro>
 
 == Ecocert <Ecocert>
-Créé en 1991, Ecocert est le premier organisme certificateur privé. L’organisme audite et certifie en effet plus de 70 000 opérateurs implantés dans 27 pays où il est présent et localisé dans plus de 130 pays. Il réalise plus de 300 000 audits par an portant sur des secteurs très variés, dont les cosmétiques, les détergents ou l’agroalimentaire. @noauthor_ecocert_nodate. En ce qui concerne la cosmétique, Ecocert est membre de l’entité de contrôle du référentiel COSMOS, cadre qui regroupe différentes exigences des parties prenantes européennes, dans le but de définir des exigences communes pour les produits biologiques et naturels. À ce jour, plus de 38 000 produits sont certifiés au titre de cette marque. @noauthor_cosmos_nodate
+Créé en France en 1991, Ecocert fut l'un des premiers organismes à structurer un référentiel pour les "cosmétiques écologiques et biologiques". Son rôle a cependant évolué; face à la multiplication des standards nationaux en Europe, Ecocert est devenu l'un des cinq membres fondateurs du standard COSMOS, une initiative visant à harmoniser les exigences à l'échelle continentale @noauthor_ecocert_nodate. Il opère aujourd'hui principalement comme organisme certificateur qui audite selon ce référentiel unifié.
 
 == ISO 16128 <ISO16128>
-Créée et développée en 2016-2017 par l’ISO, la norme ISO 16128 définit des lignes directrices sur les définitions de "produit naturel", d’origine biologique et de dérivation naturelle qui servent à estimer le pourcentage d’ingrédients dits naturels dans un produit cosmétique. Elle est en effet régulièrement critiquée pour sa faiblesse puisque la norme permet de qualifier de « naturel » des ingrédients chimiquement transformés si leur origine végétale ou minérale est prouvée. @noauthor_iso_nodate
+Publiée entre 2016 et 2017, la norme ISO 16128 ne constitue pas un label de certification mais une ligne directrice technique. Elle fournit des définitions et une méthode de calcul des indices "naturel" et "biologique" pour les ingrédients et produits finis. Sa publication a suscité de vives critiques au sein de l'écosystème de la cosmétique naturelle; sa définition d'un ingrédient "d'origine naturelle" est jugée particulièrement permissive, car elle inclut des substances ayant subi des transformations chimiques lourdes et n'exclut aucun ingrédient pétrochimique controversé @noauthor_iso_nodate.
 
 == COSMOS <COSMOS>
-Le label COSMOS (COSMetic Organic Standard), conçu à partir de la fusion de plusieurs normes européennes (Ecocert, BDIH, Cosmebio, ICEA et Soil Association), est de portée internationale et divisé en deux niveaux, COSMOS Organic et COSMOS Natural, et indique la présence d’un pourcentage minimum d’ingrédients biologiques (sans OGM, ni nanoparticules, ni agents de synthèse agressifs), de formules biodégradables, d’emballages éco-conçus (audit tous les ans) ; à ce jour, environ 40 000 produits sont certifiés. @cosmos_cosmos_2024
+Le standard COSMOS (COSMetic Organic Standard) résulte de la convergence de cinq référentiels européens historiques (Ecocert, BDIH, Cosmebio, ICEA, Soil Association). De portée internationale, il se décline en deux niveaux de certification @noauthor_cosmos_nodate:
+
+    COSMOS Natural : pour les produits conformes aux principes généraux du standard (procédés propres, emballages durables) mais sans exiger de part minimale d'ingrédients biologiques.
+
+    COSMOS Organic : impose des pourcentages stricts d'ingrédients biologiques, l'interdiction des OGM, des nanomatériaux et de la pétrochimie (hors conservateurs autorisés).
+    Avec près de 40 000 produits certifiés, il représente aujourd'hui le cahier des charges privé le plus influent @cosmos_cosmos_2024.
 
 == BDIH <BDIH>
-L’organisme allemand, BDIH, créé en 2001, fait partie des premiers à établir des standards pour la cosmétique naturelle contrôlée (*kontrollierte Naturkosmetik*), en interdisant dérivés pétrochimiques, colorants et parfums synthétiques, mais également tests sur animaux. Il favorise les extraits de plantes issus de l’agriculture biologique mais son exigence est néanmoins jugée parfois en deçà de celle affichée par COSMOS. @noauthor_bdih_nodate
+L’organisme allemand BDIH a été un pionnier en lançant, dès 2001, son label pour la "cosmétique naturelle contrôlée" (kontrollierte Naturkosmetik). Le standard initial interdisait les dérivés pétrochimiques, les colorants et parfums de synthèse, ainsi que l'expérimentation animale @noauthor_bdih_nodate. Son intégration en tant que membre fondateur du standard COSMOS illustre la volonté d'harmonisation du secteur.
 
 == NATRUE <NATRUE>
-Créé en 2007, le label international NATRUE se distingue par une classification en trois catégories : « cosmétiques naturels », « cosmétiques naturels avec une part bio » et « cosmétiques bio » @noauthor_natrue_nodate-1. Ce label impose des critères de formulation particulièrement stricts et exige un étiquetage clair, sans ambiguïté. La certification n’est pas réalisée par NATRUE lui-même mais confiée à des organismes indépendants. À la différence de la norme ISO16128, NATRUE rejette l’utilisation d’ingrédients issus de procédés synthétiques, même s’ils proviennent à l’origine de sources naturelles (@noauthor_natrue_nodate).
+Créé en 2007, le label international NATRUE se positionne comme une alternative stricte. Il se distingue par une classification en trois niveaux ("cosmétiques naturels", "cosmétiques naturels en partie biologiques", "cosmétiques biologiques") et par son approche rigoureuse des procédés de transformation. À la différence de la norme ISO 16128, NATRUE rejette explicitement les ingrédients d'origine naturelle ayant subi des transformations chimiques non autorisées par son cahier des charges @noauthor_natrue_nodate.
 
-== International Aloe Science Council <IASC>
+== Certifications Spécifiques
+#[En parallèle des labels holistiques, des certifications axées sur des enjeux ciblés ont émergé.] <intro>
+
+=== International Aloe Science Council <IASC>
+L'IASC délivre une certification de mono-ingrédient. Son label ne garantit pas le caractère biologique du produit fini mais certifie l'authenticité, la pureté et la concentration de l'Aloe vera utilisé. Son objectif est d'assurer la qualité de cet actif spécifique et de lutter contre la fraude. @noauthor_iasc_nodate
+
+=== Union for Ethical BioTrade <UEBT>
+L'UEBT se concentre sur les dimensions éthique et sociale de l'approvisionnement. Son label "Sourcing with Respect" atteste que les filières d'ingrédients naturels respectent la biodiversité locale et les principes du commerce équitable, incluant des conditions de travail justes et un partage des bénéfices avec les communautés productrices. @uebt_board_uebt_2020
+
+=== Roundtable on Sustainable Palm Oil <RSPO>
+La RSPO a été établie en réponse aux impacts environnementaux de la culture du palmier à huile. Cette certification de filière garantit que l'huile de palme et ses dérivés proviennent de plantations gérées durablement, selon des critères visant à prévenir la déforestation et à protéger la biodiversité. @noauthor_rspo_nodate
+
+== Synthèse des Référentiels
+
+#table(
+columns: (auto, auto, auto),
+align: (left, left, left),
+table.header(
+[Organisme/Standard], [Portée de la Certification], [Positionnement et Critères Clés]
+),
+[COSMOS], [Produit fini (Holistique)], [Standard européen harmonisé; naturalité et biologique; deux niveaux.],
+[NATRUE], [Produit fini (Holistique)], [Approche stricte des procédés de transformation; trois niveaux.],
+[ISO 16128], [Calcul (Norme technique)], [Non un label; méthode de calcul jugée permissive par les acteurs historiques.],
+[IASC], [Mono-ingrédient (Qualité)], [Authenticité et pureté de l'Aloe vera; lutte contre la fraude.],
+[UEBT], [Filière d'ingrédient (Éthique)], [Commerce équitable et respect de la biodiversité.],
+[RSPO], [Filière d'ingrédient (Environnemental)], [Gestion durable de l'huile de palme; lutte contre la déforestation.]
+)

@@ -17,7 +17,7 @@ Les cinq actifs présentés ont été sélectionnés sur la base de trois critè
 
     - Pertinence pour le marché : Présence croissante et significative dans les formulations dermocosmétiques disponibles en pharmacie, témoignant d'une demande des consommateurs et d'un intérêt industriel.
 
-    - Intérêt pour le conseil officinal : Actifs répondant à des motifs de consultation fréquents au comptoir (acné, vieillissement cutané, cicatrisation, peaux sensibles), pour lesquels le pharmacien peut apporter une plus-value par son conseil.
+    - Intérêt pour le conseil officinal : Actifs répondant à des motifs de consultation fréquents au comptoir (acné, vieillissement cutané, cicatrisation, peaux sensibles), pour lesquels le pharmacien peut apporter une plus-value de par son conseil.
 
 == Bakuchiol <bakuchiol>
 Psoralea corylifolia est utilisée dans la médecine chinoise pour traiter l'alopécie et le vitiligo @noauthor_psoralea_nodate. Elle appartient aux Fabaceae, et est originaire d'Asie tropicale (notamment Inde et Chine) 
