@@ -66,9 +66,6 @@ caption: [Exposomes agissant sur la peau]
 ==== Rayonnements ultraviolets
 Les rayonnements UV, notamment les UVB (280–320 nm) et les UVA (320–400 nm), initient une cascade de dommages moléculaires. Les UVB, plus énergétiques, sont absorbés par l'épiderme où ils provoquent des lésions directes de l'ADN, telles que la formation de dimères de pyrimidine cyclobutaniques (CPD). Les UVA, qui pénètrent jusqu'au derme profond, agissent principalement de manière indirecte en générant des @ROS. Cette production massive de radicaux libres submerge les défenses antioxydantes endogènes et active des voies de signalisation pro-inflammatoires et dégradatives. L'activation de facteurs de transcription comme AP-1 (Activator Protein-1) et NF-κB (Nuclear Factor-kappa B) via la cascade des kinases p38 MAPK (Mitogen-Activated Protein Kinase) conduit à une surexpression des @MMP:pl, notamment la collagénase (MMP-1), les gélatinases (MMP-9) et la stromélysine (MMP-3). Ces enzymes sont responsables de la fragmentation du collagène de type I et III et de la dégradation de la matrice extracellulaire @cadet_solar_2015 @kim_uvb-mediated_2022 @watson_damage_2014.
 
-==== Pollution atmosphérique
-La pollution atmosphérique aggrave ce tableau. Les particules fines (PM₂.₅) et les hydrocarbures aromatiques polycycliques (HAP) se lient au récepteur des hydrocarbures aryliques (AhR) à la surface des kératinocytes, induisant un stress oxydatif et une réponse inflammatoire. L'ozone (O₃) troposphérique, quant à lui, oxyde directement les lipides du stratum corneum, compromettant la fonction barrière de la peau @drakaki_air_2014 @burke_environmental_2020. Ces composés pénètrent l’épiderme à travers les follicules pileux @roberts_air_2020 ou agissent par contact, perturbent la barrière lipidique, et peuvent exacerber certaines dermatoses inflammatoires comme l’acné ou la dermatite atopique @passeron_clinical_2020.
-
 ==== Habitudes de vie et autres facteurs
 Les habitudes de vie modulent également ce vieillissement. Le tabagisme exerce une ischémie chronique par la vasoconstriction induite par la nicotine, inhibe la prolifération des fibroblastes et augmente l'activité des MMP @helfrich_effect_2007. Il est aussi associé à une réduction de la vascularisation cutanée, à une altération de la réparation tissulaire, et à une dégradation accélérée du collagène @puri_effects_2017.
 
@@ -79,6 +76,11 @@ Enfin, le stress chronique, via la dérégulation de l'axe hypothalamo-hypophyso
 Les perturbateurs hormonaux modifient l'action des hormones, dont les variations au cours de la vie sont un acteur majeur sur l'aspect de la peau et sur différentes pathologies dermatologiques @passeron_clinical_2020. Les cellules cutanées expriment de nombreux récepteurs hormonaux (thyroïdiens, stéroïdes, RAR, RXR, VDR), les rendant sensibles à ces composés ainsi qu'à certaines vitamines comme les rétinoïdes ou la vitamine D @bikle_vitamin_2012.
 
 Cosmétiques et soins topiques : l’utilisation excessive ou inadaptée de produits peut entraîner une irritation chronique, une sensibilisation ou une désorganisation du microbiote, affaiblissant la résistance cutanée.
+
+==== Pollution atmosphérique
+La pollution atmosphérique aggrave ce tableau. Les particules fines (PM₂.₅) et les hydrocarbures aromatiques polycycliques (HAP) se lient au récepteur des hydrocarbures aryliques (AhR) à la surface des kératinocytes, induisant un stress oxydatif et une réponse inflammatoire. L'ozone (O₃) troposphérique, quant à lui, oxyde directement les lipides du stratum corneum, compromettant la fonction barrière de la peau @drakaki_air_2014 @burke_environmental_2020. Ces composés pénètrent l’épiderme à travers les follicules pileux @roberts_air_2020 ou agissent par contact, perturbent la barrière lipidique, et peuvent exacerber certaines dermatoses inflammatoires comme l’acné ou la dermatite atopique @passeron_clinical_2020.
+
+
 
 === Mécanismes moléculaires et conséquences cliniques
 
