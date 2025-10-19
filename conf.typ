@@ -79,7 +79,6 @@
   "histoire",
   "tegumentaire",
   "aging_cutane",
-  "exposomes",
   "phytocomposant",
   "composés",
   "specialites",
