@@ -2,11 +2,11 @@
 #import "/data/tables/table.typ": *
 
 = Actifs clés identifiés à travers une recherche bibliographique
-#[
-  Ce chapitre propose une analyse pharmacologique et galénique de cinq actifs végétaux — Bakuchiol, Centella asiatica, α-Bisabolol, huile de Nigella sativa et Aloe vera. Leur sélection repose sur une méthodologie visant à identifier les composés qui allient un volume croissant de publications scientifiques à une présence notable sur le marché dermocosmétique et un intérêt avéré pour le conseil officinal. L'objectif est de fournir une synthèse structurée de leurs mécanismes d'action, de leurs indications validées, de leur profil de sécurité et des considérations galéniques pertinentes pour la pratique du pharmacien.
-] <intro>
+// #[
+//   Ce chapitre propose une analyse pharmacologique et galénique de cinq actifs végétaux — Bakuchiol, Centella asiatica, α-Bisabolol, huile de Nigella sativa et Aloe vera. Leur sélection repose sur une méthodologie visant à identifier les composés qui allient un volume croissant de publications scientifiques à une présence notable sur le marché dermocosmétique et un intérêt avéré pour le conseil officinal. L'objectif est de fournir une synthèse structurée de leurs mécanismes d'action, de leurs indications validées, de leur profil de sécurité et des considérations galéniques pertinentes pour la pratique du pharmacien.
+// ] <intro>
 
-== Travail de recherche
+== Méthodes choisies
 
 La recherche de ces plantes s'est effectuée par une exploration de la littérature scientifique sur 3 mois: Les mots-clés utilisés, en anglais et en français, incluaient les noms des plantes et des actifs (Bakuchiol, Centella asiatica, Madecassoside, Bisabolol, Nigella sativa, Thymoquinone, Aloe vera, Acemannan) combinés à des termes relatifs à la dermatologie et la cosmétologie (dermatology, skin, acne, aging, wound healing, atopic dermatitis, cosmetics).
 J'ai retenu les publications qui répondaient aux critères suivants : articles publiés au cours des 10 dernières années (2015-2025) pour garantir la pertinence des données, études in vitro, in vivo et essais cliniques, ainsi que des méta-analyses et des revues systématiques. La priorité a été donnée aux articles publiés dans des journaux à comité de lecture.
@@ -20,11 +20,11 @@ Les cinq actifs présentés ont été sélectionnés sur la base de trois critè
     - Intérêt pour le conseil officinal : Actifs répondant à des motifs de consultation fréquents au comptoir (acné, vieillissement cutané, cicatrisation, peaux sensibles), pour lesquels le pharmacien peut apporter une plus-value de par son conseil.
 
 == Bakuchiol <bakuchiol>
-Psoralea corylifolia est utilisée dans la médecine chinoise pour traiter l'alopécie et le vitiligo @noauthor_psoralea_nodate. Elle appartient aux Fabaceae, et est originaire d'Asie tropicale (notamment Inde et Chine) 
+*Psoralea corylifolia* est utilisée dans la médecine chinoise pour traiter l'alopécie et le vitiligo @noauthor_psoralea_nodate. Elle appartient aux Fabaceae, et est originaire d'Asie tropicale (notamment Inde et Chine) 
 Le bakuchiol est un des nombreux composants de la _Psoralea corylifolia_ @alam_psoralea_2018 #footnote[Aussi appelée 
 _Cullen corylifolium, ou Babchi_], extrait par pulvérisation de la graine #footnote[La graine du _Psoralea_], puis par dissolution dans de l'éther de pétrole @_bakuchiol_2016.
-Bien qu'absent des produits les plus vendus analysés, le bakuchiol à l'effet _rétinol-like_ -- anti-inflammatoire, anti-oxydant, anti-vieillissement a une place de plus en plus importante dans le marché des crèmes de nuit @noauthor_global_nodate.
-C'est l'un des nombreux composés retrouvé dans le fruit, qui est riche en phénols, flavonoïdes, coumarines, et terpénoïdes. Isolé en 1972, par extraction via solvant lipophile, on lui découvre des propriétés anti-staphylocoques, mais aussi cardioprotectrices, et anti-tumorales @alam_psoralea_2018. D'autres éléments comme le _psoralène_, dérivé coumarinique, a longtemps été utilisé en association avec l'UV-thérapie dans les dermatoses inflammatoires, avec comme chef de file le psoriasis @richard_science_2020.
+Le bakuchiol à l'effet _rétinol-like_ -- anti-inflammatoire, anti-oxydant, anti-vieillissement a une place de plus en plus importante dans le marché des crèmes de nuit @noauthor_global_nodate.
+C'est l'un des nombreux composés retrouvé dans le fruit, qui est riche en phénols, flavonoïdes, coumarines, et terpénoïdes. Isolé en 1972, par extraction via solvant lipophile, on lui découvre des propriétés anti-staphylocoques @alam_psoralea_2018. D'autres éléments comme le _psoralène_, dérivé coumarinique, a longtemps été utilisé en association avec l'UV-thérapie dans les dermatoses inflammatoires, avec comme chef de file le psoriasis @richard_science_2020.
 Le bakuchiol reste un élément provoquant des réactions divergentes quant à son efficacité par rapport aux trétinoïdes @sivamani_cosmetic_2022. Il a pourtant une meilleure tolérance cutanée, et son action immuno-modulatrice et anti-microbienne permettrait un soin moins contraignant de l'acné @greenzaid_use_2022.
 
 #mol("Bakuchiol", [Bakuchiol])

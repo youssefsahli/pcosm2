@@ -1,6 +1,6 @@
-== Exposomes <exposomes>
+== Vieillissement extrinsèque: Notion d'exposomes <exposomes>
 
-#[Caractérisation des facteurs environnementaux influençant la physiologie et le vieillissement cutané, et de leurs mécanismes d'action moléculaires.] <intro>
+// #[Caractérisation des facteurs environnementaux influençant la physiologie et le vieillissement cutané, et de leurs mécanismes d'action moléculaires.] <intro>
 
 Un _exposome_ désigne l’ensemble des facteurs environnementaux non génétiques qui influencent -- en bien ou en mal -- la peau tout au long de la vie. Le modèle proposé par Krutmann identifie six grandes catégories d’expositions extrinsèques, toutes susceptibles d’altérer la structure, la fonction ou l’apparence de la peau @krutmann_skin_2017. Ces facteurs agissent seuls ou en synergie, et leur effet dépend de la fréquence, de la durée et de l’intensité de l’exposition.
 
@@ -61,5 +61,6 @@ Ces variations interindividuelles justifient une approche différenciée de la p
 L’ensemble de ces facteurs environnementaux — et les réponses biologiques qu’ils déclenchent — contribuent de manière significative aux altérations progressives de la peau au fil du temps. Contrairement au vieillissement intrinsèque, lent et relativement homogène, les effets de l’exposome sont plus hétérogènes, souvent localisés, et potentiellement réversibles à certains stades. Comprendre ces mécanismes permet d’orienter les stratégies de prévention et d’intervention cosmétologique, en ciblant non seulement les signes visibles du vieillissement, mais aussi leurs causes moléculaires et environnementales.
 
 Le vieillissement cutané résulte de l’interaction complexe entre des mécanismes endogènes — sénescence cellulaire, stress oxydatif mitochondrial, perte hormonale — et des facteurs exogènes, au premier rang desquels figurent les rayonnements UV, la pollution et l’inflammation chronique. Ces processus convergent vers une désorganisation de la matrice dermique, une altération de la fonction barrière, une réduction des capacités de régénération, et une sensibilité accrue aux agressions.
-L’analyse des voies de signalisation impliquées (MAPK, NF‑κB, TGF-β, SIRT1...) permet d’identifier des cibles pertinentes pour la prévention et l’accompagnement dermocosmétique du vieillissement. 
-Dans cette perspective, les composés végétaux étudiés dans ce travail apparaissent comme des modulateurs multifonctionnels : antioxydants, régulateurs de l’inflammation, inducteurs du collagène ou protecteurs barrières. Leur intégration dans des formulations adaptées constitue une piste crédible pour des stratégies dermocosmétiques personnalisées.
+La connaissance des voies de signalisation impliquées (MAPK, NF‑κB, TGF-β, SIRT1...) permet d’identifier des cibles pertinentes pour la prévention et l’accompagnement dermocosmétique du vieillissement. 
+// Dans cette perspective, les composés végétaux étudiés dans ce travail apparaissent comme des modulateurs multifonctionnels : antioxydants, régulateurs de l’inflammation, inducteurs du collagène ou protecteurs barrières. Leur intégration dans des formulations adaptées constitue une piste crédible pour des stratégies dermocosmétiques personnalisées.
+

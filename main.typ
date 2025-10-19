@@ -46,41 +46,7 @@
       }
     },
 
-    header: context {
-      let last-heading = query(
-        selector(heading.where(outlined: true))
-        .before(here())
-      )
-      if last-heading.len() > 0 { 
-        last-heading = last-heading.last() 
-      } else {
-        return 
-      }
-      let current-level = last-heading.level
-      let heading-on-page = query(
-        selector(heading)
-        .after(here()))
-        .filter(h => here().page() == h.location().page())
-
-        let display = last-heading.body
-
-      if heading-on-page.len() > 0 {
-        let next-h = heading-on-page.first()
-        let L = next-h.level
-        if L < current-level or current-level == 1 and L == 1 { 
-          display = ""
-        }
-      }
-        
-      align(
-        if calc.odd(here().page()) { right } else { left }, 
-        text(
-          size: conf.header.size, 
-          style: conf.header.style,
-          weight: conf.header.weight
-        )[_ #display _]
-      )
-    }
+    header: auto
   )
 
   for chapter in conf.chapters {

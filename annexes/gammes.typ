@@ -18,5 +18,5 @@
 
 #csv_table(
   "/data/tables/GammesCosmétiques.csv",
-  []
+  [Exemple de spécialités cosmétiques contenant des actifs végétaux]
 )
