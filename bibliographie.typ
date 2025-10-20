@@ -4,7 +4,7 @@
 #show bibliography: it => {
         set page(
           header: [],
-          columns: 2,
+          columns: 1,
         )
 
         show regex(".+"): t => {
