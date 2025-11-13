@@ -58,15 +58,15 @@
     )
   }
   
-  show <intro>: p => {
-      rect(
-        radius: 5pt,
-        inset: 1em,
-        fill: gray.transparentize(94%),
-        stroke: gray.transparentize(90%),
-        p
-      )
-    }
+  // show <intro>: p => {
+  //     rect(
+  //       radius: 5pt,
+  //       inset: 1em,
+  //       fill: white,
+  //       stroke: gray.transparentize(90%),
+  //       p
+  //     )
+  //   }
   
   // show regex("%%"): m => {
   //     set text(size: 6pt)

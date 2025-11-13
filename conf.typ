@@ -60,7 +60,7 @@
   weight: "light"
 )
 
-#let date_de_passage = "..."
+#let date_de_passage = "9 décembre 2025"
 
 #let start-pages = (
   "title",
