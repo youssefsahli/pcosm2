@@ -68,15 +68,15 @@
       )
     }
   
-  show regex("%%"): m => {
-      set text(size: 6pt)
-      box(
-        rect(
-        fill: orange,
-        "introduire citation"
-        )
-      )
-    }
+  // show regex("%%"): m => {
+  //     set text(size: 6pt)
+  //     box(
+  //       rect(
+  //       fill: orange,
+  //       "introduire citation"
+  //       )
+  //     )
+  //   }
 
   show <plan>: p => {
     // set text(
@@ -104,6 +104,16 @@
   }
 
   show <remove>: r => none
+  
+  // we hide footnotes
+  
+  set footnote.entry(
+    separator: none
+  )
+
+  show footnote.entry: f => {
+    
+  }
   
   rest
 }
