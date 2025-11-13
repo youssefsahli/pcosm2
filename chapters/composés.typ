@@ -234,7 +234,7 @@ L’Aloe vera est principalement utilisé dans le traitement local des *érythè
 
 === Types de peau concernés
 
-L’Aloe vera convient à *tous les types de peau*, y compris les plus sensibles, réactives ou sujettes à l’eczéma de contact. Il est particulièrement bien toléré chez les peaux délipidées ou soumises à des traitements desséchants (acide rétinoïque, UV thérapeutiques, kératolytiques).
+L’Aloe vera convient à *tous les types de peau*, y compris les plus sensibles, réactives ou sujettes à l’eczéma de contact. Il est particulièrement bien toléré chez les peaux délipidées ou soumises à des traitements desséchants (acide rétinoïque, UV thérapeutiques, kératolytiques) @nalimu_review_2021.
 
 === Galéniques recommandées
 
