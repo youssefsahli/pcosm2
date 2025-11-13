@@ -121,9 +121,9 @@ L’α-Bisabolol est *autorisable dès la naissance* en usage externe, sous rés
 
 Nigella sativa, plus communément connue sous le nom de cumin noir, est une plante de la famille des Ranunculaceae dont les graines sont utilisées depuis l'Antiquité dans les médecines traditionnelles du Moyen-Orient et de l'Asie du Sud. L'huile extraite des graines — riche en acides gras insaturés (acide linoléique, oléique) — contient aussi un composé phare, la *thymoquinone*, reconnu pour ses effets antioxydants et anti-inflammatoires puissants. Elle est extraite à froid, afin de préserver l’intégrité des composés liposolubles et d’éviter leur oxydation thermique.
 
-La macération au n‑hexane est une méthode classique et efficace pour extraire la thymoquinone contenue dans les graines de Nigella sativa. Elle consiste à laisser macérer la poudre de graines (généralement passées à un tamis ≥ 60 mesh) dans un excès de n‑hexane à température ambiante pendant 12–24 h, sans chauffage. Cette étape permet de solubiliser les composés lipophiles, dont la TQ, tout en limitant leur dégradation thermique. Après filtration, l’évaporation du solvant en rotavapor à environ 40–50 °C délivre un extrait huileux enrichi en thymoquinone : son contenu peut atteindre 18,5 % après 24 h de macération.
+La macération au n‑hexane est une méthode classique et efficace pour extraire la thymoquinone contenue dans les graines de Nigella sativa. Elle consiste à laisser macérer la poudre de graines (généralement passées à un tamis ≥ 60 mesh) dans un excès de n‑hexane à température ambiante pendant 12–24 h, sans chauffage. Cette étape permet de solubiliser les composés lipophiles, dont la TQ, tout en limitant leur dégradation thermique. Après filtration, l’évaporation du solvant en rotavapor à environ 40–50 °C délivre un extrait huileux enrichi en thymoquinone : son contenu peut atteindre 18,5 % après 24 h de macération @kadam_extraction_2017.
 
-La composition de l’huile vierge de Nigella sativa inclut également des composés terpéniques (carvacrol, thymol), des alcaloïdes spécifiques (nigellimine, nigellicine), ainsi que des saponines amphiphiles telles que l’α-hédrine. Cette richesse biochimique confère à l’huile des propriétés pléiotropes : modulation de l’activité des cytokines (TNF-α, IL-1β), inhibition de la voie NF‑κB, activité antifongique et bactéricide, mais aussi amélioration de la régénération cutanée.
+La composition de l’huile vierge de Nigella sativa inclut également des composés terpéniques (carvacrol, thymol), des alcaloïdes spécifiques (nigellimine, nigellicine), ainsi que des saponines amphiphiles telles que l’α-hédrine. Cette richesse biochimique confère à l’huile des propriétés pléiotropes : modulation de l’activité des cytokines (TNF-α, IL-1β), inhibition de la voie NF‑κB, activité antifongique et bactéricide, mais aussi amélioration de la régénération cutanée @mondejar-lopez_thymoquinone-loaded_2022.
 
 En application topique, elle est utilisée dans la prise en charge des dermatites, des peaux atopiques, du prurit chronique, ainsi qu’en soin capillaire pour les cuirs chevelus sensibles ou sujets à la chute. Sa couleur foncée, sa texture grasse et son odeur marquée limitent cependant son usage direct dans certaines formulations, nécessitant des ajustements galéniques pour une bonne acceptabilité sensorielle.
 
@@ -145,67 +145,67 @@ En application topique, elle est utilisée dans la prise en charge des dermatite
   ),
 )
 
-L’utilisation cosmétique de l’huile de nigelle s’explique par ses effets bénéfiques sur les peaux sensibles ou inflammées. Plusieurs études *in vitro* et *in vivo* ont montré que la thymoquinone inhibe la production de cytokines pro-inflammatoires telles que TNF-α, IL-6 et IL-1β. %% De plus, son activité antioxydante permet de piéger les @ROS, réduisant ainsi le stress oxydatif cutané. @aljabre_dermatological_2015
+L’utilisation cosmétique de l’huile de nigelle s’explique par ses effets bénéfiques sur les peaux sensibles ou inflammées. Plusieurs études *in vitro* et *in vivo* ont montré que la thymoquinone inhibe la production de cytokines pro-inflammatoires telles que TNF-α, IL-6 et IL-1β @umar_thymoquinone_2015. De plus, son activité antioxydante permet de piéger les @ROS, réduisant ainsi le stress oxydatif cutané. @aljabre_dermatological_2015
 
 #mol("Thymoquinone", [Thymoquinone])
 
 Sur le plan cutané, des tests cliniques ont observé une amélioration de l’acné légère à modérée après l’application d’une crème à base d’huile de nigelle pendant deux mois, avec une réduction significative de l’érythème et des lésions inflammatoires.
 L’huile de nigelle est également indiquée pour ses propriétés antifongiques et antibactériennes, ce qui en fait un ingrédient intéressant dans les soins des peaux mixtes à grasses. Enfin, elle participe au maintien de l'hydratation cutanée grâce à sa richesse en acides gras essentiels et à sa capacité à limiter la @TEWL:both.
-Néanmoins, il convient de noter que l’huile de nigelle peut être sensibilisante chez certains sujets atopiques ou allergiques aux composés terpéniques. Les formulations cosmétiques doivent donc respecter des concentrations bien définies, généralement inférieures à 10% %%.
+Néanmoins, il convient de noter que l’huile de nigelle peut être sensibilisante chez certains sujets atopiques ou allergiques aux composés terpéniques. Les formulations cosmétiques doivent donc respecter des concentrations bien définies, généralement inférieures à 10% @ali_pharmacological_2003.
 
 
 === Indications
 
-L’huile de Nigella sativa est traditionnellement utilisée dans les affections cutanées inflammatoires chroniques telles que les *dermatites, l’eczéma atopique, le prurit*, ainsi que dans les troubles du cuir chevelu associés à une inflammation ou une alopécie non cicatricielle. Sa richesse en thymoquinone lui confère une activité anti-TNF-α et antioxydante notable. Elle est également utilisée dans les soins nourrissants des peaux squameuses et en complément des traitements émollients classiques.
+L’huile de Nigella sativa est traditionnellement utilisée dans les affections cutanées inflammatoires chroniques telles que les *dermatites, l’eczéma atopique, le prurit*, ainsi que dans les troubles du cuir chevelu associés à une inflammation ou une alopécie non cicatricielle. Sa richesse en thymoquinone lui confère une activité anti-TNF-α et antioxydante notable @department_of_physiopathology_faculty_of_medicine_medical_university_of_gdansk_thymoquinone_2025. Elle est également utilisée dans les soins nourrissants des peaux squameuses et en complément des traitements émollients classiques @tiwari_therapeutic_2024.
 
 === Types de peau concernés
 
-Indiquée principalement pour les *peaux sèches, rugueuses ou atopiques*, elle est particulièrement adaptée aux peaux sensibles sujettes aux dartres, aux croûtes de lait ou aux états desquamants. Elle trouve aussi sa place dans les soins du *cuir chevelu sensible ou prurigineux*, notamment en cas de pellicules inflammatoires ou de chute réactionnelle.
+Indiquée principalement pour les *peaux sèches, rugueuses ou atopiques*, elle est particulièrement adaptée aux peaux sensibles sujettes aux dartres, aux croûtes de lait ou aux états desquamants. Elle trouve aussi sa place dans les soins du *cuir chevelu sensible ou prurigineux*, notamment en cas de pellicules inflammatoires ou de chute réactionnelle @javed_dermatological_2022.
 
 === Galéniques recommandées
 
-Les formes galéniques courantes incluent des *huiles vierges* de première pression à froid, utilisées pures ou en mélange avec d’autres huiles adoucissantes (jojoba, amande douce), des *sérums capillaires* enrichis, ainsi que des *laits corporels émollients* contenant de faibles pourcentages d’huile de nigelle (1–3 %). L’utilisation en *masques capillaires* pré-shampooing est également fréquente.
+Les formes galéniques courantes incluent des *huiles vierges* de première pression à froid, utilisées pures ou en mélange avec d’autres huiles adoucissantes (jojoba, amande douce), des *sérums capillaires* enrichis, ainsi que des *laits corporels émollients* contenant de faibles pourcentages d’huile de nigelle (1–3 %). L’utilisation en *masques capillaires* pré-shampooing est également fréquente @eid_review_2017.
 
 === Points de vigilance
 
-Du fait de sa teneur en composés volatils oxydables, l’huile de nigelle peut s’altérer rapidement à l’air, générant des peroxydes cutanés irritants. Il est donc essentiel de *conserver le produit à l’abri de l’air et de la lumière*, et de ne pas l’utiliser si l’odeur est devenue rance. L’application sur les *muqueuses et zones périorbitaires* est déconseillée. Un test préalable est recommandé en cas de terrain atopique, notamment chez l’enfant ou l’adulte à peau hyperréactive.
+Du fait de sa teneur en composés volatils oxydables, l’huile de nigelle peut s’altérer rapidement à l’air, générant des peroxydes cutanés irritants. Il est donc essentiel de *conserver le produit à l’abri de l’air et de la lumière*, et de ne pas l’utiliser si l’odeur est devenue rance. L’application sur les *muqueuses et zones périorbitaires* est déconseillée. Un test préalable est recommandé en cas de terrain atopique, notamment chez l’enfant ou l’adulte à peau hyperréactive @mashayekhi-sardoo_overview_2020.
 
 === Populations spécifiques
 
-L’usage *chez le nourrisson est déconseillé*, même en application locale. Chez la *femme enceinte*, la voie interne est formellement proscrite, mais une *application locale ciblée et modérée* reste envisageable avec prudence (formules diluées, usage localisé). Chez les patients atopiques, une *tolérance cutanée variable* impose une prudence initiale, avec préférence pour des formules testées sous contrôle dermatologique.
+L’usage *chez le nourrisson est déconseillé*, même en application locale. Chez la *femme enceinte*, son usage per os est formellement proscrite, mais une *application locale ciblée et modérée* reste envisageable avec prudence (formules diluées, usage localisé) @laadraoui_effect_2025. Chez les patients atopiques, une *tolérance cutanée variable* impose une prudence initiale, avec préférence pour des formules testées sous contrôle dermatologique.
 
 == Aloe Vera <aloevera>
 
-*Aloe vera* (syn. *Aloe barbadensis Miller*) est une plante succulente de la famille des Asphodelaceae, largement cultivée dans les régions arides et semi-arides pour son gel mucilagineux à usage médicinal et cosmétique. Elle possède des feuilles épaisses, lancéolées, bordées d'épines molles, contenant un parenchyme central translucide — le « gel » — et une sève périphérique riche en anthraquinones, souvent appelée « latex ».
+*Aloe vera* (syn. *Aloe barbadensis Miller*) est une plante succulente de la famille des Asphodelaceae, largement cultivée dans les régions arides et semi-arides pour son gel mucilagineux à usage médicinal et cosmétique. Elle possède des feuilles épaisses, lancéolées, bordées d'épines molles, contenant un parenchyme central translucide — le "gel" — et une sève périphérique riche en anthraquinones appelée "latex" @grindlay_aloe_1986.
 
-Le gel d’*Aloe vera* est composé majoritairement d’eau (> 98 %) et d’un ensemble de polysaccharides hydrophiles, notamment l’acémannane, un polymère d’acétate de mannosyle β-(1→4), considéré comme le principal composant bioactif. Ce mucopolysaccharide est responsable des propriétés hydratantes et immunomodulatrices de la plante.
+Le gel d’*Aloe vera* est composé majoritairement d’eau (> 98 %) et d’un ensemble de polysaccharides hydrophiles, notamment l’_acémannane_, un polymère d’acétate de mannosyle β-(1→4), considéré comme le principal composant bioactif. Ce mucopolysaccharide est responsable des propriétés hydratantes et immunomodulatrices de la plante @vogler_aloe_1999.
 
-Outre l’acémannane, le gel brut contient diverses molécules bioactives :
+Ce dernier pose des défis galéniques spécifiques liés à sa *forte instabilité oxydative*, à sa *sensibilité aux contaminants microbiens* et à sa *dégradation enzymatique rapide*.
+
+En dehors de l’acémannane, le gel brut contient diverses molécules bioactives :
 
 - des sucres simples (glucose, fructose) ;
 - des acides aminés ;
 - des enzymes (bradykininase, catalase, amylase) ;
 - des minéraux (calcium, zinc, magnésium, chrome) ;
 - des vitamines (notamment B1, B2, B6, C, E, acide folique) ;
-- des stérols (campestérol, β-sitostérol, lupéol).
+- des stérols (campestérol, β-sitostérol, lupéol) @chandegara_aloe_nodate.
 
 Ces composés participent aux effets apaisants, cicatrisants et légèrement antiseptiques qui motivent son incorporation dans les produits topiques : gels hydratants, après-soleils, soins post-épilation ou anti-acnéiques.
 
 Les polysaccharides mucilagineux du gel d’*Aloe vera* — dominés par l’acémannane @sanchez_pharmacological_2020 — exercent un double rôle filmogène : rétention d’eau dans le stratum corneum et réduction de la perte insensible en eau. Des travaux in-vitro et ex-vivo lui attribuent également des effets anti-inflammatoires modérés (diminution de l’expression d’IL-1β et de TNF-α), une stimulation de la prolifération kératinocytaire et une accélération de la ré-épithélialisation @vogler_aloe_1999. Sa bonne tolérance cutanée explique son intégration transversale dans des galéniques allant du soin dermatologique au produit d’hygiène.
 
-Il convient de distinguer strictement le gel (parenchyme interne) du latex (sève subcorticale), ce dernier étant riche en aloïne — anthracénoside purgatif — et généralement exclu des préparations cosmétiques par des procédés de purification spécifiques.
+Il convient de distinguer strictement le gel (parenchyme interne) du latex (sève subcorticale), ce dernier étant riche en aloïne — anthracénoside purgatif — et généralement exclu des préparations cosmétiques par des procédés de purification spécifiques .
 
-Le gel d’*Aloe vera* est utilisé en cosmétique pour ses effets hydratants, anti-inflammatoires, cicatrisants et antioxydants. Ces activités sont principalement attribuées à sa richesse en polysaccharides (notamment l’acémannane), en vitamines hydrosolubles (B, C) et en composés phénoliques secondaires.
+Le gel d’*Aloe vera* est utilisé en cosmétique pour ses effets hydratants, anti-inflammatoires, cicatrisants et antioxydants. Ces activités sont principalement attribuées à sa richesse en polysaccharides (notamment l’acémannane), en vitamines hydrosolubles (B, C) et en composés phénoliques secondaires @salehi_aloe_2018.
 
-Grâce à sa forte teneur en mucopolysaccharides, le gel d’*Aloe vera* forme un film hydrophile à la surface de la peau, limitant la perte insensible en eau (TEWL) et améliorant la souplesse cutanée . Des études ont montré une augmentation de l’hydratation de la couche cornée après application biquotidienne de gel d’aloé pendant deux semaines.
+Grâce à sa forte teneur en mucopolysaccharides, le gel d’*Aloe vera* forme un film hydrophile à la surface de la peau, limitant la perte insensible en eau (TEWL) et améliorant la souplesse cutanée . Des études ont montré une augmentation de l’hydratation de la couche cornée après application biquotidienne de gel d’aloé pendant deux semaines @vogler_aloe_1999.
 
-L’acémannane stimule la prolifération des fibroblastes et l’augmentation du collagène de type I via activation de TGF-β1 . Il favorise également la réépithélialisation et la contraction des plaies. Ces effets sont exploités dans les gels post-laser, après-soleil, ou pour la prise en charge d’irritations superficielles (rasage, épilation, brûlures légères).
+L’acémannane stimule la prolifération des fibroblastes et l’augmentation du collagène de type I via activation de TGF-β1 . Il favorise également la réépithélialisation et la contraction des plaies. Ces effets sont exploités dans les gels post-laser, après-soleil, ou pour la prise en charge d’irritations superficielles (rasage, épilation, brûlures légères) @sierra-garcia_acemannan_2014.
 
-Le gel d’*Aloe vera* inhibe la production de cytokines pro-inflammatoires (@TNF-α, @IL-6, @IL-1) et la voie @VoieNFkB dans les modèles de kératinocytes stimulés par des agents oxydants ou irritants . Cette propriété explique son usage dans les soins pour peaux sensibles ou sujettes à l’eczéma.
+Le gel d’*Aloe vera* inhibe la production de cytokines pro-inflammatoires (@TNF-α, @IL-6, @IL-1) et la voie @VoieNFkB dans les modèles de kératinocytes stimulés par des agents oxydants ou irritants . Cette propriété explique son usage dans les soins pour peaux sensibles ou sujettes à l’eczéma @li_aloe_2017.
 
-Des extraits aqueux standardisés d’*Aloe vera* réduisent la production de @ROS induite par les @UVB in vitro . Cette action protectrice est associée à la présence de vitamines C et E, mais aussi de flavonoïdes et stérols végétaux.
-
-Le gel d’*Aloe vera*, principalement composé d’eau et de polysaccharides, pose des défis galéniques spécifiques liés à sa *forte instabilité oxydative*, à sa *sensibilité aux contaminants microbiens* et à sa *dégradation enzymatique rapide*.
+Des extraits aqueux standardisés d’*Aloe vera* réduisent la production de @ROS induite par les @UVB in vitro . Cette action protectrice est associée à la présence de vitamines C et E, mais aussi de flavonoïdes et stérols végétaux @y_aloin_2018.
 
 À l’état brut, le gel se dégrade en quelques jours à température ambiante. Les procédés d’extraction modernes visent à éliminer les fractions riches en anthraquinones irritantes (notamment l’aloïne), puis à *stabiliser les polysaccharides* (acémannane) via l’addition de conservateurs doux (benzoate de sodium, sorbate de potassium) ou de complexes antioxydants (vitamine C/E).
 
@@ -215,22 +215,22 @@ Des procédés de *lyophilisation* ou de *filtration stérile à froid* permette
 
 Les formes galéniques les plus utilisées sont :
 
-- *Gels purs ou reconstitués à plus de 95 %*, destinés à une application directe sur la peau irritée ou inflammée ;
-- *Émulsions hydratantes* (H/E) contenant de 1 à 10 % d’extrait d’aloé stabilisé ;
-- *Masques hydrogels* et *patchs* intégrant de l’aloé en association à d’autres actifs apaisants (allantoïne, panthénol) ;
-- *Sprays après-soleil*, souvent enrichis en glycérol, urée ou menthol pour renforcer l’effet rafraîchissant.
+- *Gels purs ou reconstitués à plus de 95 %*, destinés à une application directe sur la peau irritée ou inflammée  @akhtar_formulation_2011;
+- *Émulsions hydratantes* (H/E) contenant de 1 à 10 % d’extrait d’aloé stabilisé @vardy_double-blind_1999;
+- *Masques hydrogels* et *patchs* intégrant de l’aloé en association à d’autres actifs apaisants (allantoïne, panthénol) @puttarak_preparation_2015;
+- *Sprays après-soleil*, souvent enrichis en glycérol, urée ou menthol pour renforcer l’effet rafraîchissant @retnowati_stability_2021.
 
 === Compatibilités et limites
 
 Le gel d’aloé est globalement compatible avec les excipients hydrophiles, mais son incorporation dans des phases huileuses nécessite l’usage d’émulsionnants doux. Il peut également interagir avec certains tensioactifs anioniques ou des ingrédients instables à pH acide.
 
-Sa viscosité faible impose l’usage d’agents rhéologiques (gomme xanthane, carraghénanes) dans les formulations commerciales, ce qui peut modifier la biodisponibilité des actifs co-formulés.
+Sa viscosité faible impose l’usage d’agents rhéologiques (gomme xanthane, carraghénanes) dans les formulations commerciales, ce qui peut modifier la biodisponibilité des actifs.
 
-Enfin, la standardisation de la concentration en acémannane reste un point critique pour garantir l’efficacité cosmétique — certaines préparations affichent de forts pourcentages d’aloe vera sans qu’aucune vérification analytique ne soit disponible.
+Enfin, la standardisation de la concentration en acémannane reste un point critique pour garantir l’efficacité cosmétique — certaines préparations affichent de forts pourcentages d’aloe vera sans qu’aucune vérification analytique ne soit disponible (cf @IASC).
 
 === Indications
 
-L’Aloe vera est principalement utilisé dans le traitement local des *érythèmes solaires*, des *irritations post-épilation*, ainsi que pour l’*hydratation des peaux sèches, sensibles ou atopiques*. Grâce à ses polysaccharides filmogènes et hydratants, il apaise rapidement les échauffements cutanés et favorise la régénération de l’épiderme superficiel.
+L’Aloe vera est principalement utilisé dans le traitement local des *érythèmes solaires*, des *irritations post-épilation*, ainsi que pour l’*hydratation des peaux sèches, sensibles ou atopiques*. Grâce à ses polysaccharides filmogènes et hydratants, il apaise rapidement les échauffements cutanés et favorise la régénération de l’épiderme superficiel @catalano_aloe_2024.
 
 === Types de peau concernés
 
@@ -238,7 +238,7 @@ L’Aloe vera convient à *tous les types de peau*, y compris les plus sensibles
 
 === Galéniques recommandées
 
-Les formulations à privilégier sont les *gels d’Aloe vera stabilisés*, avec un taux de matière végétale compris entre 95 % et 99 %, sans ajout d’alcool ni parfum. On le retrouve également dans des *lotions hydratantes légères*, des *masques apaisants* ou des *crèmes après-soleil*. Il est essentiel que l’extrait utilisé soit *filtré et stabilisé à froid* afin de préserver ses propriétés biologiques.
+Les formulations à privilégier sont les *gels d’Aloe vera stabilisés*, avec un taux de matière végétale compris entre 95 % et 99 %, sans ajout d’alcool ni parfum. On le retrouve également dans des *lotions hydratantes légères*, des *masques apaisants* ou des *crèmes après-soleil*. Il est essentiel que l’extrait utilisé soit *filtré et stabilisé à froid* afin de préserver ses propriétés biologiques @dalbelo_moisturizing_2006.
 
 === Points de vigilance
 
