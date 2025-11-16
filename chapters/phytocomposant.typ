@@ -37,3 +37,10 @@ On retrouvera dans cette thèse:
 Les alcaloïdes sont des molécules hétérocycliques azotées, souvent dotées d'une forte activité biologique. L'huile de nigelle contient de la nigellicine, à l'activité anti-microbienne @yimer_nigella_2019
 
 === Les Glucides Complexes (Polysaccharides)
+Les polysaccharides sont des macromolécules composées de longues chaînes d'unités glucidiques. Elles sont utilisées pour leur propriétés hygroscopiques et filmogènes. Les polysaccharides de haut poids moléculaire restent en surface de la couche cornée et forment un maillage captant les molécules d'eau et constituent un barrière hydrique, qui limite la @TEWL @gruber_retinol_2020.
+
+On distingue notamment :
+
+Les mucilages : Présents par exemple dans l'Aloe vera (acémannane), ils possèdent des vertus apaisantes et hydratantes @grindlay_aloe_1986 @cha_efficacy_2022.
+
+Les gommes et amidons : Utilisés comme agents de texture ou gélifiants naturels, ils ont pour but de modifier la rhéologie de la formulation. Ils ont donc un rôle organoleptique.

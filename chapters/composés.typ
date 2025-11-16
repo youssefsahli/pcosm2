@@ -33,19 +33,19 @@ Dans des modèles in vitro utilisant des macrophages murins activés par l’@IF
 
 === Indications
 
-Le bakuchiol est recommandé dans le cadre de soins anti-âge visant à améliorer la densité dermique, la tonicité et la texture cutanée. Son activité régulatrice sur la différenciation kératinocytaire et la production de collagène en fait également un allié dans les états acnéiques inflammatoires, en particulier chez l’adulte. Il contribue à uniformiser le teint et à prévenir les effets du photovieillissement.
+Le bakuchiol est recommandé dans le cadre de soins anti-âge visant à améliorer la densité dermique, la tonicité et la texture cutanée. Son activité régulatrice sur la différenciation kératinocytaire et la production de collagène en fait également un allié dans les états acnéiques inflammatoires, en particulier chez l’adulte. Il contribue à uniformiser le teint et à prévenir les effets du photovieillissement @kim_bakuchiol_2016.
 
 === Types de peau concernés
 
-Actif polyvalent, il est indiqué chez les peaux matures et chez les peaux mixtes à grasses présentant des signes de relâchement, d'irrégularités pigmentaires ou de cicatrices post-acnéiques. Il constitue une alternative de choix pour les peaux sensibles ne tolérant pas les rétinoïdes classiques (érythèmes, desquamation, sécheresse induite).
+Actif polyvalent, il est indiqué chez les peaux matures et chez les peaux mixtes à grasses présentant des signes de relâchement, d'irrégularités pigmentaires ou de cicatrices post-acnéiques. Il constitue une alternative de choix pour les peaux sensibles ne tolérant pas les rétinoïdes classiques (érythèmes, desquamation, sécheresse induite) @chaudhuri_bakuchiol_2014.
 
 === Galéniques recommandées
 
-Les formes galéniques privilégiées sont les *sérums de nuit* à pénétration rapide (à base d'huiles sèches ou d’esters légers), les *crèmes restructurantes* enrichies en agents hydratants et antioxydants, et les *soins resurfaçants progressifs* contenant du bakuchiol à une concentration optimale de 0,5 à 1 %. Il peut également être formulé dans des soins biphasés ou des capsules mono-dose pour stabiliser l’actif.
+Les formes galéniques privilégiées sont les *sérums de nuit* à pénétration rapide (à base d'huiles sèches ou d’esters légers), les *crèmes restructurantes* enrichies en agents hydratants et antioxydants, et les *soins resurfaçants progressifs* contenant du bakuchiol à une concentration optimale de 0,5 à 1 %. Il peut également être formulé dans des soins biphasés ou des capsules mono-dose pour stabiliser l’actif @chaudhuri_bakuchiol_2015.
 
 === Points de vigilance
 
-Bien que généralement bien toléré, des réactions érythémateuses peuvent survenir en cas de surdosage ou d’association à d'autres actifs kératolytiques (acides de fruits, rétinoïdes). Il convient d’éviter une exposition solaire directe immédiatement après application si la formule contient des sensibilisants ou des extraits photosensibilisants. La tolérance doit être vérifiée en cas de traitement concomitant par rétinoïdes topiques afin d’éviter une irritation cumulative.
+Bien que généralement bien toléré, des réactions érythémateuses peuvent survenir en cas de surdosage ou d’association à d'autres actifs kératolytiques (acides de fruits, rétinoïdes). Il convient d’éviter une exposition solaire directe immédiatement après application si la formule contient des sensibilisants ou des extraits photosensibilisants. La tolérance doit être vérifiée en cas de traitement concomitant par rétinoïdes topiques afin d’éviter une irritation cumulative @puyana_applications_2022.
 
 === Populations spécifiques
 
@@ -67,39 +67,39 @@ L’innocuité cutanée de C. asiatica est globalement élevée ; cependant, que
 
 === Indications
 
-La Centella asiatica est indiquée pour favoriser la réparation tissulaire, notamment dans les suites de dermabrasions, de cicatrices superficielles ou de dermatites irritatives. Elle est utilisée dans les soins de l’eczéma léger, des peaux sèches et des états inflammatoires modérés. Son efficacité repose sur la stimulation fibroblastique, l’inhibition des métalloprotéinases et la modulation de l’inflammation locale.
+La Centella asiatica est indiquée pour favoriser la réparation tissulaire, notamment dans les suites de dermabrasions, de cicatrices superficielles ou de dermatites irritatives. Elle est utilisée dans les soins de l’eczéma léger, des peaux sèches et des états inflammatoires modérés. Son efficacité repose sur la stimulation fibroblastique, l’inhibition des métalloprotéinases et la modulation de l’inflammation locale @hein_centella_2025.
 
 === Types de peau concernés
 
-Elle convient particulièrement aux peaux sensibles, réactives, sujettes aux rougeurs diffuses ou à tendance atopique. Les peaux souffrant d’altération chronique de la barrière (xérose, prurit) bénéficient également de son effet restructurant et calmant.
+Elle convient particulièrement aux peaux sensibles, réactives, sujettes aux rougeurs diffuses ou à tendance atopique. Les peaux souffrant d’altération chronique de la barrière (xérose, prurit) bénéficient également de son effet restructurant et calmant @diniz_centella_2023.
 
 === Galéniques recommandées
 
-Les formes les plus utilisées sont les *crèmes réparatrices “CICA”* contenant des extraits titrés (TECA) ou du madecassoside à concentration ≥ 0,1 %, les *baumes protecteurs* enrichis en agents occlusifs légers (panthénol, zinc), et les *patchs hydrocolloïdes cicatrisants* pour les lésions localisées. Des sprays et lotions aqueuses sans alcool sont aussi disponibles pour les zones étendues ou les peaux intolérantes.
+Les formes les plus utilisées sont les *crèmes réparatrices “CICA”* contenant des extraits titrés (TECA) ou du madecassoside à concentration ≥ 0,1 %, les *baumes protecteurs* enrichis en agents occlusifs légers (panthénol, zinc), et les *patchs hydrocolloïdes cicatrisants* pour les lésions localisées. Des sprays et lotions aqueuses sans alcool sont aussi disponibles pour les zones étendues ou les peaux intolérantes @bylka_centella_2013.
 
 === Points de vigilance
 
-La tolérance est excellente, mais de rares cas d’allergie de contact ont été rapportés, notamment avec des extraits bruts contenant des résidus protéiques ou avec des formulations contenant alcool ou parfum. Il convient d’éviter l’application sur plaies infectées ou suintantes, en raison d’un manque de données de sécurité dans ce contexte. Préférer les produits dermo-cosmétiques validés par des tests cliniques.
+La tolérance est excellente, mais de rares cas d’allergie de contact ont été rapportés, notamment avec des extraits bruts contenant des résidus protéiques ou avec des formulations contenant alcool ou parfum. Il convient d’éviter l’application sur plaies infectées ou suintantes, en raison d’un manque de données de sécurité dans ce contexte. Préférer les produits dermo-cosmétiques validés par des tests cliniques @johnson_safety_2023.
 
 === Populations spécifiques
 
-Centella asiatica peut être utilisée en toute sécurité chez l’enfant (à partir de 3 ans), la femme enceinte ou allaitante, ainsi que chez le sujet âgé. Son usage par voie orale doit cependant être encadré, en raison de cas rares d’hépatotoxicité rapportés avec les extraits totaux. En application topique, aucun effet indésirable systémique n’a été observé aux doses couramment utilisées.
+Centella asiatica peut être utilisée en toute sécurité chez l’enfant (à partir de 3 ans), la femme enceinte ou allaitante, ainsi que chez le sujet âgé. Son usage par voie orale doit cependant être encadré, en raison de cas rares d’hépatotoxicité rapportés avec les extraits totaux. En application topique, aucun effet indésirable systémique n’a été observé aux doses couramment utilisées @student_scientific_club_department_of_pharmaceutical_botany_and_herbal_medicine_faculty_of_pharmaceutical_sciences_in_sosnowiec_medical_university_of_silesia_centella_2023.
 
 
 == α-Bisabolol <bisabolol>
 
 Aussi appelé *levomenol*, l'α-Bisabolol fut isolé au XX#super[ème] siècle à partir de Matricaria chamomilla de la famille des Asteraceaes -- aussi appelée Matricaire ou Camomille allemande. Espèce largement distribuée à travers le monde (en Asie, Europe, Afrique du Nord), on la retrouve à l'état sauvage en France, mais aussi en culture en Europe de l'Est et en Inde @singh_chamomile_2011. Contrairement aux autres camomilles #footnote[[Chamaemelum nobile], la camomille romaine et [Tanacetum parthenium], la grande camomille], c'est une plante annuelle, utilisée depuis l'Antiquité pour son effet anti-inflammatoire, sédatif, et anti-bactérien. 
 
-Différents isomères existent. L'α-Bisabolol est le plus abondant dans l'huile essentielle de [Matricaria chamomilla]#footnote[L'huile essentielle peut contenir plus de 40% de cette molécule]. Le β-Bisabolol -- qui diffère dans la position des insaturations -- est beaucoup plus rare. Le mélange racémique [(+)- and (−)-α-bisabolol] est le plus souvent retrouvé dans les formulations commerciales. 
+Différents isomères existent. L'α-Bisabolol est le plus abondant dans l'huile essentielle de [Matricaria chamomilla]#footnote[L'huile essentielle peut contenir plus de 40% de cette molécule]. Le β-Bisabolol -- qui diffère dans la position des insaturations -- est beaucoup plus rare. Le mélange racémique [(+)- and (−)-α-bisabolol] est le plus souvent retrouvé dans les formulations commerciales @noauthor_bisabolol_nodate. 
 
 Plante médicinale à l’usage millénaire, Matricaria chamomilla est riche en sesquiterpènes et flavonoïdes, dont l’α-bisabolol constitue un constituant majeur de son huile essentielle. Ce composé lipophile est un alcool monocyclique de type sesquiterpénique, de formule brute C₁₅H₂₆O, possédant une activité anti-inflammatoire, antibactérienne et apaisante documentée in vitro comme in vivo @tai_biosynthesis_2023. Il inhibe notamment la synthèse de prostaglandines en réduisant l’activité de la @COX-2, et bloque l’expression de médiateurs inflammatoires via une inhibition de la voie @VoieNFkB @kim_inhibitory_2011. Son profil toxicologique est favorable, avec une faible incidence d’irritation cutanée, ce qui explique sa large utilisation dans les soins pour peaux sensibles, atopiques ou érythémateuses. Des cas d'allergies de contact existent malgré tout. Le bisabolol peut aussi être obtenu par voie semi-synthétique ou via la distillation de bois de [Vanillosmopsis erythropappa] au Brésil, arbre appartenant à la famille des Asteraceae, bien que cette origine soulève des problématiques écologiques liées à la surexploitation forestière @sandasi_untargeted_2012.
 Bien qu'utilisé depuis de nombreuses années par les industriels cosmétiques, de nouvelles propriétés pharmacodynamiques sont répertoriées avec le temps @ramazani_pharmacological_2022. L'activité *antioxydante* fut déterminée par réduction des @ROS et de @RNS. Le @MDA, marqueur de la peroxydation lipidique est diminué. Enfin, le bisabolol diminue la libération de cytokines pro-inflammatoires -- @IL-1, @IL-6, @TNF-α --, de médiateurs associés -- @COX-2, @iNOS et augmente l'expression d'enzymes protectrices -- @SOD, @CAT -- @eddin_health_2022.  L'effet anti-apoptotique #footnote[Effet déclenché par UV, mais aussi par vieillissement] est dû à une régulation d'expression positive de bcl-2 (stabilisateur de membrane), et en diminuant l'expression de bax, P53, de la caspase-3, et de l'apoptosome [APAF-1 - caspase-9].
 
-De nombreuses autres plantes contiennent du bisabolol, bien que souvent en quantités moindres que la camomille allemande (*Matricaria chamomilla*) ou le bois de candeia (*Vanillosmopsis erythropappa*). On le retrouve ainsi dans les huiles essentielles de *Salvia runcinata*, *Eremanthus erythropappus*, *Myoporum crassifolium* (Faux Santal), ou encore dans certaines variétés de *Tanacetum annuum* (La camomille bleue). La qualité et la stéréochimie du bisabolol extrait (notamment la pureté en α-bisabolol) dépendent fortement de l’espèce végétale, du terroir, du mode d’extraction et du stockage, ce qui influence son efficacité pharmacologique et sa tolérance cutanée.
+De nombreuses autres plantes contiennent du bisabolol, bien que souvent en quantités moindres que la camomille allemande (*Matricaria chamomilla*) ou le bois de candeia (*Vanillosmopsis erythropappa*). On le retrouve ainsi dans les huiles essentielles de *Salvia runcinata*, *Eremanthus erythropappus*, *Myoporum crassifolium* (Faux Santal), ou encore dans certaines variétés de *Tanacetum annuum* (La camomille bleue). La qualité et la stéréochimie du bisabolol extrait (notamment la pureté en α-bisabolol) dépendent fortement de l’espèce végétale, du terroir, du mode d’extraction et du stockage, ce qui influence son efficacité pharmacologique et sa tolérance cutanée @tai_biosynthesis_2023.
 
 === Indications
 
-L’α-Bisabolol est indiqué dans la prise en charge des érythèmes, des rougeurs post-acte (épilation, laser), des peaux sensibilisées ou sujettes à dermatite atopique. Son activité anti-inflammatoire, antiprurigineuse et calmante en fait un composant central des soins de confort cutané. Il est particulièrement utile dans les états d’irritabilité transitoire de l’épiderme et les situations de stress oxydatif aigu.
+L’α-Bisabolol est indiqué dans la prise en charge des érythèmes, des rougeurs post-acte (épilation, laser), des peaux sensibilisées ou sujettes à dermatite atopique. Son activité anti-inflammatoire, antiprurigineuse et calmante en fait un composant central des soins de confort cutané. Il est particulièrement utile dans les états d’irritabilité transitoire de l’épiderme et les situations de stress oxydatif aigu @noauthor_bisabolol_nodate-1.
 
 === Types de peau concernés
 
@@ -107,7 +107,7 @@ Actif de référence pour les *peaux sensibles, réactives ou intolérantes*, le
 
 === Galéniques recommandées
 
-Les formes les plus appropriées sont les *crèmes apaisantes* (visage et corps), les *laits après-soleil* ou *gels post-épilation* associant agents hydratants et anti-inflammatoires, ainsi que les *soins dermatologiques pédiatriques* (émollients, pommades protectrices). Il est parfois utilisé dans des formules anhydres ou huileuses à faible dose (0,5–1 %) pour maximiser la tolérance.
+Les formes les plus appropriées sont les *crèmes apaisantes* (visage et corps), les *laits après-soleil* ou *gels post-épilation* associant agents hydratants et anti-inflammatoires, ainsi que les *soins dermatologiques pédiatriques* (émollients, pommades protectrices). Il est parfois utilisé dans des formules anhydres ou huileuses à faible dose (0,5–1 %) pour maximiser la tolérance @andersen_final_1999.
 
 === Points de vigilance
 
@@ -115,17 +115,17 @@ Bien que très bien toléré, de *rares cas d’hypersensibilité croisée* ont 
 
 === Populations spécifiques
 
-L’α-Bisabolol est *autorisable dès la naissance* en usage externe, sous réserve d’une formule douce et exempte d’irritants. Il est également *sûr chez la femme enceinte* et peut être intégré dans les soins de dermatites légères chez les sujets immunodéprimés. Son excellent *profil de tolérance cutanée* en fait un actif clef dans les soins dermo-pédiatriques et post-actes esthétiques.
+L’α-Bisabolol est *autorisable dès la naissance* en usage externe, sous réserve d’une formule douce et exempte d’irritants. Il est également *sûr chez la femme enceinte* et peut être intégré dans les soins de dermatites légères chez les sujets immunodéprimés. Son excellent *profil de tolérance cutanée* en fait un actif clef dans les soins dermo-pédiatriques et post-actes esthétiques @andersen_final_1999.
 
 == Nigella sativa (huile) <nigella>
 
-Nigella sativa, plus communément connue sous le nom de cumin noir, est une plante de la famille des Ranunculaceae dont les graines sont utilisées depuis l'Antiquité dans les médecines traditionnelles du Moyen-Orient et de l'Asie du Sud. L'huile extraite des graines — riche en acides gras insaturés (acide linoléique, oléique) — contient aussi un composé phare, la *thymoquinone*, reconnu pour ses effets antioxydants et anti-inflammatoires puissants. Elle est extraite à froid, afin de préserver l’intégrité des composés liposolubles et d’éviter leur oxydation thermique.
+Nigella sativa, plus communément connue sous le nom de cumin noir, est une plante de la famille des Ranunculaceae dont les graines sont utilisées depuis l'Antiquité dans les médecines traditionnelles du Moyen-Orient et de l'Asie du Sud. L'huile extraite des graines — riche en acides gras insaturés (acide linoléique, oléique) — contient aussi un composé phare, la *thymoquinone*, reconnu pour ses effets antioxydants et anti-inflammatoires puissants. Elle est extraite à froid, afin de préserver l’intégrité des composés liposolubles et d’éviter leur oxydation thermique @yimer_nigella_2019.
 
 La macération au n‑hexane est une méthode classique et efficace pour extraire la thymoquinone contenue dans les graines de Nigella sativa. Elle consiste à laisser macérer la poudre de graines (généralement passées à un tamis ≥ 60 mesh) dans un excès de n‑hexane à température ambiante pendant 12–24 h, sans chauffage. Cette étape permet de solubiliser les composés lipophiles, dont la TQ, tout en limitant leur dégradation thermique. Après filtration, l’évaporation du solvant en rotavapor à environ 40–50 °C délivre un extrait huileux enrichi en thymoquinone : son contenu peut atteindre 18,5 % après 24 h de macération @kadam_extraction_2017.
 
 La composition de l’huile vierge de Nigella sativa inclut également des composés terpéniques (carvacrol, thymol), des alcaloïdes spécifiques (nigellimine, nigellicine), ainsi que des saponines amphiphiles telles que l’α-hédrine. Cette richesse biochimique confère à l’huile des propriétés pléiotropes : modulation de l’activité des cytokines (TNF-α, IL-1β), inhibition de la voie NF‑κB, activité antifongique et bactéricide, mais aussi amélioration de la régénération cutanée @mondejar-lopez_thymoquinone-loaded_2022.
 
-En application topique, elle est utilisée dans la prise en charge des dermatites, des peaux atopiques, du prurit chronique, ainsi qu’en soin capillaire pour les cuirs chevelus sensibles ou sujets à la chute. Sa couleur foncée, sa texture grasse et son odeur marquée limitent cependant son usage direct dans certaines formulations, nécessitant des ajustements galéniques pour une bonne acceptabilité sensorielle.
+En application topique, elle est utilisée dans la prise en charge des dermatites, des peaux atopiques, du prurit chronique, ainsi qu’en soin capillaire pour les cuirs chevelus sensibles ou sujets à la chute. Sa couleur foncée, sa texture grasse et son odeur marquée limitent cependant son usage direct dans certaines formulations, nécessitant des ajustements galéniques pour une bonne acceptabilité sensorielle @cheikh-rouhou_nigella_2007.
 
 #add_table(
   [Molécules notables retrouvées dans Nigella sativa],

@@ -9,16 +9,16 @@
 - Données cliniques (perte d’élasticité, rides, sécheresse…)
 ] <plan>
 
-Le vieillissement cutané se définit comme l’ensemble des altérations morphologiques et fonctionnelles de la peau survenant avec l’âge, qu’elles soient programmées ou induites. Il résulte d’un déséquilibre progressif entre les processus de dégradation et ceux de régénération, affectant tant l’épiderme que le derme.
+Le vieillissement cutané se définit comme l’ensemble des altérations morphologiques et fonctionnelles de la peau survenant avec l’âge, qu’elles soient programmées ou induites. Il résulte d’un déséquilibre progressif entre les processus de dégradation et ceux de régénération, affectant tant l’épiderme que le derme @bay_aging_2023.
 
-Cliniquement, il se traduit par une atrophie cutanée, une perte de fermeté, l’apparition de rides, une sécheresse accrue et des irrégularités pigmentaires. Ces modifications s’expliquent par des changements moléculaires profonds : diminution de la synthèse des constituants matriciels (collagène, acide hyaluronique), augmentation des @MMP:both, réduction de l’activité des fibroblastes et accumulation de stress oxydatif.
+Cliniquement, il se traduit par une atrophie cutanée, une perte de fermeté, l’apparition de rides, une sécheresse accrue et des irrégularités pigmentaires. Ces modifications s’expliquent par des changements moléculaires profonds : diminution de la synthèse des constituants matriciels (collagène, acide hyaluronique), augmentation des @MMP:both, réduction de l’activité des fibroblastes et accumulation de stress oxydatif @liu_aging_2024.
 
 On distingue deux formes majeures de vieillissement cutané :
 
 - le *vieillissement intrinsèque*, déterminé génétiquement, lent et uniforme, affectant l’ensemble du corps ;
-- le *vieillissement extrinsèque*, accéléré par les expositions environnementales — UV, pollution, tabac — et responsable du photo-vieillissement.
+- le *vieillissement extrinsèque*, accéléré par les expositions environnementales — UV, pollution, tabac — et responsable du photo-vieillissement @huang_photoaging_2020.
 
-Ces deux processus sont interdépendants : les expositions extérieures exacerbent les mécanismes endogènes via la production de @ROS et l’activation de voies inflammatoires. Le concept de *“skin inflammaging”* (vieillissement inflammatoire chronique de bas grade) rend compte de cette interaction durable entre environnement et vieillissement physiologique.
+Ces deux processus sont interdépendants : les expositions extérieures exacerbent les mécanismes endogènes via la production de @ROS et l’activation de voies inflammatoires. Le concept de *“skin inflammaging”* (vieillissement inflammatoire chronique de bas grade) rend compte de cette interaction durable entre environnement et vieillissement physiologique @rinnerthaler_oxidative_2015.
 
 Les sections suivantes détaillent les mécanismes moléculaires et histologiques impliqués, et serviront de base à l’analyse des cibles thérapeutiques abordées dans les chapitres ultérieurs.
 
