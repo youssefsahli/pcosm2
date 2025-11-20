@@ -1,5 +1,5 @@
 #import "/data/tables/table.typ": csv_table
-= Conseil officinal/Mise en pratique à l'officine
+= Mise en pratique à l'officine
 
 #[
   Face à une demande croissante pour des soins dermo-cosmétiques d'origine végétale, le pharmacien d'officine est en première ligne pour guider le patient vers des solutions à la fois sûres et adaptées. En supplément des crèmes plus classiques, noux allons examiner l'intérêt des plantes étudiées selon les cas cliniques retrouvés au comptoir, et personnaliser le conseil donné selon trois paramètres particuliers: le type de peau, l'indication clinique, et enfin certaines spécificités à prendre en compte, notamment les enfants et femmes enceintes.

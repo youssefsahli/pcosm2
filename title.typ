@@ -69,12 +69,14 @@
   
 [Directeur de thèse:],
 [*Mme Bénedicte PERETON*],
-[Maître de conférences, #linebreak() UFR Pharmacie de Clermont-Ferrand],
+[],
 [*Jury:*], [], [],
-[Membres:], [*Mme Marie Ange CIVIALE*],
-[Professeur, #linebreak() UFR Pharmacie de Clermont-Ferrand],
+[Président:], [*Mme Bénedicte PERETON*],[Maître de conférence associé, #linebreak() UFR Pharmacie de Clermont-Ferrand],
+[Membres:], 
+[*Mme Marie Ange CIVIALE*],
+[Maître de conférence, #linebreak() UFR Pharmacie de Clermont-Ferrand],
 [], [*Mme Floriane WARTEL*],
-[Pharmacien adjoint, #linebreak() Vichy],
+[Pharmacien d'officine, #linebreak() Pharmacie Plaidy, Vichy],
 )
   
 #pagebreak()

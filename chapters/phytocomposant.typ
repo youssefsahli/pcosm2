@@ -8,13 +8,13 @@
 
 == Définition
 
-Appelés phytocomposants, en anglais "_plant-based compounds_", ou encore composés phytochimiques, ces molécules proviennent des métabolites secondaires de nombreuses plantes d'intérêt. Le terme "phytocosmétique" trouve ses racines dans les mots grecs "phyto" (plante) et "kosmetikê" (art de l'embellissement), désignant l'utilisation d'extraits de plantes dans les produits de soins personnels et de beauté.
+Appelés phytocomposants, en anglais "_plant-based compounds_", ou encore composés phytochimiques, ces molécules proviennent des métabolites secondaires de nombreuses plantes. Le terme "phytocosmétique" trouve ses racines dans les mots grecs "phyto" (plante) et "kosmetikê" (art de l'embellissement), désignant l'utilisation d'extraits de plantes dans les produits de soins personnels et de beauté.
 
 == Origine
 
-L'origine des composés phytochimiques n'est pas forcément naturelle, car certains peuvent être *synthétisés* par laboratoire @tai_biosynthesis_2023 [cf @bisabolol] et d'autres sont transformés lors de leur intégration dans une formulation cosmétique -- on parle d'ingrédient d'_origine_ naturelle. Cette transformation chimique, est l'objet d'une réglementation différente selon le pays de production et le pays important le produit, mais aussi de part les nombreuses certifications de traçabilité et de qualité dont peut faire parti ce dernier [cf @Ecocert].
+L'origine des composés phytochimiques n'est pas forcément naturelle, car certains peuvent être *synthétisés* par laboratoire @tai_biosynthesis_2023 et d'autres sont transformés lors de leur intégration dans une formulation cosmétique -- on parle d'ingrédient d'_origine_ naturelle. Cette transformation chimique, est l'objet d'une réglementation différente selon le pays de production et le pays d'importation, mais aussi selon les normes de certification et de traçabilité.
 
-== Structure, Familles, et Thérapeutique
+== Différentes familles de phytocomposants utilisés en cosmétologie
 
 === Les Polyphénols
 
@@ -27,10 +27,10 @@ Au-delà de cette activité anti-oxydante, certains flavonoïdes et acides phén
 Les terpénoïdes sont la classe la plus vaste et diverse des métabolites secondaires de plantes. Leur structure variée se traduit par un large éventail de propriétés biologiques.
 On retrouvera dans cette thèse:
 
-- Le bisabolol, alcool sesquiterpénique
-- Centella asiatica, qui contient des saponosides triterpéniques (asiaticoside, madécassoside notamment)
-- Le bakuchiol, un méroterpène à la structure plus complexe. Il est reconnu comme un analogue fonctionnel du rétinol
-- La thymoquinone, un monoterpène anti-oxydant et anti-inflammatoire
+- Le *bisabolol*, alcool sesquiterpénique
+- *Centella asiatica*, qui contient des saponosides triterpéniques (asiaticoside, madécassoside notamment)
+- Le *bakuchiol*, un méroterpène à la structure plus complexe. Il est reconnu comme un analogue fonctionnel du rétinol
+- La *thymoquinone*, un monoterpène anti-oxydant et anti-inflammatoire
 
 
 === Les Alcaloïdes

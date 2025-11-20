@@ -8,7 +8,8 @@
 
 == Méthodes choisies
 
-La recherche de ces plantes s'est effectuée par une exploration de la littérature scientifique sur 3 mois: Les mots-clés utilisés, en anglais et en français, incluaient les noms des plantes et des actifs (Bakuchiol, Centella asiatica, Madecassoside, Bisabolol, Nigella sativa, Thymoquinone, Aloe vera, Acemannan) combinés à des termes relatifs à la dermatologie et la cosmétologie (dermatology, skin, acne, aging, wound healing, atopic dermatitis, cosmetics).
+Au cours de ce travail, l'attention est portée sur plusieurs plantes dont les actifs rentrent dans la composition des cosmétiques. J'ai voulu savoir si des articles scientifiques validaient les allégations des laboratoires.
+La recherche de ces plantes s'est effectuée par une exploration de la littérature scientifique sur 3 mois: les mots-clés utilisés, en anglais et en français, incluaient les noms des plantes et des actifs (Bakuchiol, Centella asiatica, Madecassoside, Bisabolol, Nigella sativa, Thymoquinone, Aloe vera, Acemannan) combinés à des termes relatifs à la dermatologie et la cosmétologie (dermatology, skin, acne, aging, wound healing, atopic dermatitis, cosmetics).
 J'ai retenu les publications qui répondaient aux critères suivants : articles publiés au cours des 10 dernières années (2015-2025) pour garantir la pertinence des données, études in vitro, in vivo et essais cliniques, ainsi que des méta-analyses et des revues systématiques. La priorité a été donnée aux articles publiés dans des journaux à comité de lecture.
 
 Les cinq actifs présentés ont été sélectionnés sur la base de trois critères cumulatifs :
@@ -21,15 +22,19 @@ Les cinq actifs présentés ont été sélectionnés sur la base de trois critè
 
 == Bakuchiol <bakuchiol>
 *Psoralea corylifolia* est utilisée dans la médecine chinoise pour traiter l'alopécie et le vitiligo @noauthor_psoralea_nodate. Elle appartient aux Fabaceae, et est originaire d'Asie tropicale (notamment Inde et Chine) 
-Le bakuchiol est un des nombreux composants de la _Psoralea corylifolia_ @alam_psoralea_2018 #footnote[Aussi appelée 
-_Cullen corylifolium, ou Babchi_], extrait par pulvérisation de la graine #footnote[La graine du _Psoralea_], puis par dissolution dans de l'éther de pétrole @_bakuchiol_2016.
+Le bakuchiol est un des nombreux composants de la _Psoralea corylifolia_ @alam_psoralea_2018 — Aussi appelée 
+_Cullen corylifolium, ou Babchi_ —, extrait par pulvérisation de la graine — La graine du _Psoralea_ --, puis par dissolution dans de l'éther de pétrole @_bakuchiol_2016.
 Le bakuchiol à l'effet _rétinol-like_ -- anti-inflammatoire, anti-oxydant, anti-vieillissement a une place de plus en plus importante dans le marché des crèmes de nuit @noauthor_global_nodate.
-C'est l'un des nombreux composés retrouvé dans le fruit, qui est riche en phénols, flavonoïdes, coumarines, et terpénoïdes. Isolé en 1972, par extraction via solvant lipophile, on lui découvre des propriétés anti-staphylocoques @alam_psoralea_2018. D'autres éléments comme le _psoralène_, dérivé coumarinique, a longtemps été utilisé en association avec l'UV-thérapie dans les dermatoses inflammatoires, avec comme chef de file le psoriasis @richard_science_2020.
-Le bakuchiol reste un élément provoquant des réactions divergentes quant à son efficacité par rapport aux trétinoïdes @sivamani_cosmetic_2022. Il a pourtant une meilleure tolérance cutanée, et son action immuno-modulatrice et anti-microbienne permettrait un soin moins contraignant de l'acné @greenzaid_use_2022.
+C'est l'un des nombreux composés retrouvé dans le fruit, riche en phénols, flavonoïdes, coumarines, et terpénoïdes. Isolé en 1972, par extraction via solvant lipophile, on lui découvre des propriétés anti-staphylocoques @alam_psoralea_2018. D'autres éléments comme le _psoralène_, dérivé coumarinique, a longtemps été utilisé en association avec l'UV-thérapie dans les dermatoses inflammatoires, avec comme chef de file le psoriasis @richard_science_2020.
+
+Souvent comparé aux rétinoïdes @sivamani_cosmetic_2022, il a pourtant une meilleure tolérance cutanée, et son action immuno-modulatrice et anti-microbienne permettrait un soin moins contraignant de l'acné @greenzaid_use_2022.
 
 #mol("Bakuchiol", [Bakuchiol])
 
-Dans des modèles in vitro utilisant des macrophages murins activés par l’@IFNγ ou par le @LPS, le bakuchiol a entraîné une nette diminution de l’expression de la @iNOS. Cette baisse, observée dès le stade transcriptionnel, résulte d’une inhibition de la voie NF‑κB  — facteur de transcription central dans la synthèse de médiateurs pro‑inflammatoires comme @IL-6 ou @iNOS. À noter que les biopsies cutanées de lésions acnéiques présentent classiquement une surexpression de NF‑κB. Ainsi, la capacité du bakuchiol à freiner l’activation de NF‑κB pourrait contribuer à atténuer la cascade inflammatoire associée à cette maladie. @greenzaid_use_2022
+// Synthétiser et simplifier
+Dans des modèles in vitro il a été montré que le bakuchiol entraîne une nette diminution de l’expression de la @iNOS. Cette baisse, observée dès le stade transcriptionnel, résulte d’une inhibition de la voie NF‑κB  — facteur de transcription central dans la synthèse de médiateurs pro‑inflammatoires comme @IL-6 ou @iNOS, associées notamment à l'acné.
+
+Les biopsies cutanées de lésions acnéiques présentent classiquement une surexpression de NF‑κB. Ainsi, la capacité du bakuchiol à freiner l’activation de NF‑κB pourrait contribuer à atténuer la cascade inflammatoire associée à cette maladie. @greenzaid_use_2022
 
 === Indications
 
@@ -41,19 +46,21 @@ Actif polyvalent, il est indiqué chez les peaux matures et chez les peaux mixte
 
 === Galéniques recommandées
 
-Les formes galéniques privilégiées sont les *sérums de nuit* à pénétration rapide (à base d'huiles sèches ou d’esters légers), les *crèmes restructurantes* enrichies en agents hydratants et antioxydants, et les *soins resurfaçants progressifs* contenant du bakuchiol à une concentration optimale de 0,5 à 1 %. Il peut également être formulé dans des soins biphasés ou des capsules mono-dose pour stabiliser l’actif @chaudhuri_bakuchiol_2015.
+Les formes galéniques privilégiées sont les *sérums de nuit* à pénétration rapide (à base d'huiles sèches ou d’esters légers), les *crèmes restructurantes* enrichies en agents hydratants et antioxydants, et les *soins de peeling* contenant du bakuchiol à une concentration optimale de 0,5 à 1 % @chaudhuri_bakuchiol_2015.
 
 === Points de vigilance
 
 Bien que généralement bien toléré, des réactions érythémateuses peuvent survenir en cas de surdosage ou d’association à d'autres actifs kératolytiques (acides de fruits, rétinoïdes). Il convient d’éviter une exposition solaire directe immédiatement après application si la formule contient des sensibilisants ou des extraits photosensibilisants. La tolérance doit être vérifiée en cas de traitement concomitant par rétinoïdes topiques afin d’éviter une irritation cumulative @puyana_applications_2022.
 
 === Populations spécifiques
-
+// SOURCES ? TODO
 Contrairement au rétinol, le bakuchiol ne présente pas de contre-indication connue chez la femme enceinte ou allaitante, ce qui justifie son intégration dans des gammes cosmétiques maternité. Il est particulièrement indiqué dès 25–30 ans pour une stratégie préventive du vieillissement cutané. L’usage chez l’enfant n’est pas justifié et doit être évité en l’absence de données cliniques suffisantes.
 
 == Centella asiatica (Extraits des feuilles et tiges) <centella>
 
-Centella asiatica (L.) Urb., appelée « gotu kola » ou « herbe du tigre », est une petite plante herbacée vivace de la famille des Apiaceae, native des zones marécageuses d’Asie du Sud‑Est et aujourd’hui cultivée dans la plupart des régions tropicales. Célébrée depuis plus de deux millénaires dans les pharmacopées ayurvédique, tantrique et chinoise pour traiter diverses dermatoses @torbati_ethnobotany_2021., elle fait désormais figure d’actif star en dermo‑cosmétologie sous l’appellation populaire « Cica ».
+Centella asiatica (L.) Urb., appelée « gotu kola » ou « herbe du tigre », est une petite plante herbacée vivace de la famille des Apiaceae, native des zones marécageuses d’Asie du Sud‑Est et aujourd’hui cultivée dans la plupart des régions tropicales. 
+// TODO: MADECASSOL
+// Célébrée depuis plus de deux millénaires dans les pharmacopées ayurvédique, tantrique et chinoise pour traiter diverses dermatoses @torbati_ethnobotany_2021., elle fait désormais figure d’actif star en dermo‑cosmétologie sous l’appellation populaire « Cica ».
 L'extraction de ses principes actifs se fait par macération puis filtration: Les tiges et feuilles de Centella asiatica sont mises à tremper plusieurs jours dans un mélange propylène‑glycol/eau ; le marc est ensuite égoutté puis pressé, et le filtrat soumis à une micro‑filtration stérilisante @idris_comparative_2021.
 
 Les parties aériennes de C. asiatica concentrent un ensemble de triterpènes pentacycliques — asiaticoside, madecassoside, acide asiatique et acide madecassique — auxquels s’ajoutent flavonoïdes et tanins. Les saponines asiaticoside et madecassoside stimulent la prolifération fibroblastique, l’angiogenèse et la synthèse de collagène de types I et III, accélérant ainsi la réparation tissulaire et la cicatrisation des plaies @park_pharmacological_2021. Parallèlement, ces composés exercent une action antioxydante et anti‑inflammatoire démontrée, notamment via l’inhibition de NF‑κB et la modulation de TNF‑α et IL‑6 @diniz_centella_2023.
@@ -83,17 +90,25 @@ La tolérance est excellente, mais de rares cas d’allergie de contact ont ét�
 
 === Populations spécifiques
 
-Centella asiatica peut être utilisée en toute sécurité chez l’enfant (à partir de 3 ans), la femme enceinte ou allaitante, ainsi que chez le sujet âgé. Son usage par voie orale doit cependant être encadré, en raison de cas rares d’hépatotoxicité rapportés avec les extraits totaux. En application topique, aucun effet indésirable systémique n’a été observé aux doses couramment utilisées @student_scientific_club_department_of_pharmaceutical_botany_and_herbal_medicine_faculty_of_pharmaceutical_sciences_in_sosnowiec_medical_university_of_silesia_centella_2023.
+Centella asiatica peut être utilisée en toute sécurité chez l’enfant (à partir de 3 ans), la femme enceinte ou allaitante, ainsi que chez le sujet âgé. En application topique, aucun effet indésirable systémique n’a été observé aux doses couramment utilisées @student_scientific_club_department_of_pharmaceutical_botany_and_herbal_medicine_faculty_of_pharmaceutical_sciences_in_sosnowiec_medical_university_of_silesia_centella_2023.
 
 
 == α-Bisabolol <bisabolol>
 
 Aussi appelé *levomenol*, l'α-Bisabolol fut isolé au XX#super[ème] siècle à partir de Matricaria chamomilla de la famille des Asteraceaes -- aussi appelée Matricaire ou Camomille allemande. Espèce largement distribuée à travers le monde (en Asie, Europe, Afrique du Nord), on la retrouve à l'état sauvage en France, mais aussi en culture en Europe de l'Est et en Inde @singh_chamomile_2011. Contrairement aux autres camomilles #footnote[[Chamaemelum nobile], la camomille romaine et [Tanacetum parthenium], la grande camomille], c'est une plante annuelle, utilisée depuis l'Antiquité pour son effet anti-inflammatoire, sédatif, et anti-bactérien. 
 
-Différents isomères existent. L'α-Bisabolol est le plus abondant dans l'huile essentielle de [Matricaria chamomilla]#footnote[L'huile essentielle peut contenir plus de 40% de cette molécule]. Le β-Bisabolol -- qui diffère dans la position des insaturations -- est beaucoup plus rare. Le mélange racémique [(+)- and (−)-α-bisabolol] est le plus souvent retrouvé dans les formulations commerciales @noauthor_bisabolol_nodate. 
+// Différents isomères existent. L'α-Bisabolol est le plus abondant dans l'huile essentielle de [Matricaria chamomilla]#footnote[L'huile essentielle peut contenir plus de 40% de cette molécule]. Le β-Bisabolol -- qui diffère dans la position des insaturations -- est beaucoup plus rare. Le mélange racémique [(+)- and (−)-α-bisabolol] est le plus souvent retrouvé dans les formulations commerciales @noauthor_bisabolol_nodate. 
 
-Plante médicinale à l’usage millénaire, Matricaria chamomilla est riche en sesquiterpènes et flavonoïdes, dont l’α-bisabolol constitue un constituant majeur de son huile essentielle. Ce composé lipophile est un alcool monocyclique de type sesquiterpénique, de formule brute C₁₅H₂₆O, possédant une activité anti-inflammatoire, antibactérienne et apaisante documentée in vitro comme in vivo @tai_biosynthesis_2023. Il inhibe notamment la synthèse de prostaglandines en réduisant l’activité de la @COX-2, et bloque l’expression de médiateurs inflammatoires via une inhibition de la voie @VoieNFkB @kim_inhibitory_2011. Son profil toxicologique est favorable, avec une faible incidence d’irritation cutanée, ce qui explique sa large utilisation dans les soins pour peaux sensibles, atopiques ou érythémateuses. Des cas d'allergies de contact existent malgré tout. Le bisabolol peut aussi être obtenu par voie semi-synthétique ou via la distillation de bois de [Vanillosmopsis erythropappa] au Brésil, arbre appartenant à la famille des Asteraceae, bien que cette origine soulève des problématiques écologiques liées à la surexploitation forestière @sandasi_untargeted_2012.
+Plante médicinale à l’usage millénaire, Matricaria chamomilla est riche en sesquiterpènes et flavonoïdes, dont l’α-bisabolol constitue un constituant majeur de son huile essentielle. Ce composé lipophile est un alcool monocyclique de type sesquiterpénique, de formule brute C₁₅H₂₆O, possédant une activité anti-inflammatoire, antibactérienne et apaisante documentée in vitro comme in vivo @tai_biosynthesis_2023. Il inhibe notamment la synthèse de prostaglandines en réduisant l’activité de la @COX-2, et bloque l’expression de médiateurs inflammatoires via une inhibition de la voie @VoieNFkB @kim_inhibitory_2011. 
+
+Il est relativement bien toléré, avec une faible incidence d’irritation cutanée, ce qui explique sa large utilisation dans les soins pour peaux sensibles, atopiques ou érythémateuses. Des cas d'allergies de contact existent malgré tout. 
+
+// TODO revoir
+Le bisabolol est la plupart du temps d'origine naturelle, idéalement de la camomille, mais est le plus souvent pour des raisons économiques extrait de _Vanillosmopsis erythropappa_. Il peut aussi être obtenu par voie semi-synthétique ou via la distillation de bois de _Vanillosmopsis erythropappa_ au Brésil, arbre appartenant à la famille des Asteraceae, bien que cette origine soulève des problématiques écologiques liées à la surexploitation forestière @sandasi_untargeted_2012.
+
 Bien qu'utilisé depuis de nombreuses années par les industriels cosmétiques, de nouvelles propriétés pharmacodynamiques sont répertoriées avec le temps @ramazani_pharmacological_2022. L'activité *antioxydante* fut déterminée par réduction des @ROS et de @RNS. Le @MDA, marqueur de la peroxydation lipidique est diminué. Enfin, le bisabolol diminue la libération de cytokines pro-inflammatoires -- @IL-1, @IL-6, @TNF-α --, de médiateurs associés -- @COX-2, @iNOS et augmente l'expression d'enzymes protectrices -- @SOD, @CAT -- @eddin_health_2022.  L'effet anti-apoptotique #footnote[Effet déclenché par UV, mais aussi par vieillissement] est dû à une régulation d'expression positive de bcl-2 (stabilisateur de membrane), et en diminuant l'expression de bax, P53, de la caspase-3, et de l'apoptosome [APAF-1 - caspase-9].
+Il diminue l'activité anti-inflammatoire.
+// Activité anti-inflammatoire
 
 De nombreuses autres plantes contiennent du bisabolol, bien que souvent en quantités moindres que la camomille allemande (*Matricaria chamomilla*) ou le bois de candeia (*Vanillosmopsis erythropappa*). On le retrouve ainsi dans les huiles essentielles de *Salvia runcinata*, *Eremanthus erythropappus*, *Myoporum crassifolium* (Faux Santal), ou encore dans certaines variétés de *Tanacetum annuum* (La camomille bleue). La qualité et la stéréochimie du bisabolol extrait (notamment la pureté en α-bisabolol) dépendent fortement de l’espèce végétale, du terroir, du mode d’extraction et du stockage, ce qui influence son efficacité pharmacologique et sa tolérance cutanée @tai_biosynthesis_2023.
 

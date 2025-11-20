@@ -27,8 +27,8 @@
   show figure: f => {
     v(1em)
     let F = rect(
-      fill: gray.transparentize(60%).lighten(90%),
-      stroke: gray.lighten(50%),
+      fill: none,
+      stroke: none,
       radius: 5pt,
       inset: 1em,
       f.body
