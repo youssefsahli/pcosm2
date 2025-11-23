@@ -2,7 +2,7 @@
 #let add_table(
   caption,
   T,
-  align:auto,
+  align:center,
   columns: auto,
 ) = context {
   figure(
@@ -18,7 +18,7 @@
 
 #let csv_table(csv_path, caption) = {
   let data = csv(csv_path)
-  let size = data.first().len()
+  let size = data.first().len() 
   add_table(
     caption,
     table(

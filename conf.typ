@@ -76,16 +76,17 @@
 #let chapter-prefix = "/chapters"
 
 #let chapters = (
+  "introduction",
   "histoire",
   "tegumentaire",
   "aging_cutane",
   "phytocomposant",
   "composés",
   "specialites",
-  "conseil",
-  "comptoir",
   "ecologie",
   "orgs",
+  "conseil",
+  "comptoir",
 )
 
 #let annexes = (

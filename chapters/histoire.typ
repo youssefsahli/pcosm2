@@ -5,6 +5,7 @@
 Ces formulations, bien que rudimentaires, reposaient sur une connaissance empirique des propriétés végétales — apaisantes, hydratantes, odorantes ou protectrices — qui constitue un socle fondamental de la phytocosmétique actuelle.
 ] <intro>
 
+#set heading(numbering: none)
 == Pratiques ancestrales et premiers usages végétaux
 #[
   

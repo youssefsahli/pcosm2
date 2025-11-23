@@ -1,5 +1,7 @@
 #import "/data/tables/table.typ": csv_table
-= Mise en pratique à l'officine
+// Première partie
+// Seconde partie
+= Conseils à l'officine
 
 #[
   Face à une demande croissante pour des soins dermo-cosmétiques d'origine végétale, le pharmacien d'officine est en première ligne pour guider le patient vers des solutions à la fois sûres et adaptées. En supplément des crèmes plus classiques, noux allons examiner l'intérêt des plantes étudiées selon les cas cliniques retrouvés au comptoir, et personnaliser le conseil donné selon trois paramètres particuliers: le type de peau, l'indication clinique, et enfin certaines spécificités à prendre en compte, notamment les enfants et femmes enceintes.
@@ -23,7 +25,7 @@
 
 === Peaux sèches
 
-Les peaux sèches présentent une production sébacée insuffisante et une barrière cutanée altérée @fluhr_global_2024; il en résulte une augmentation de la @TEWL et une desquamation accrue @yonezawa_relationship_2023. Le conseil s’oriente vers des actifs humectants #footnote[Attirant l'eau], relipidants #footnote[Restaurent la barrière cutanée] ou filmogènes #footnote[Limitent l’évaporation].
+Les peaux sèches présentent une production sébacée insuffisante et une barrière cutanée altérée @fluhr_global_2024; il en résulte une augmentation de la @TEWL et une desquamation accrue @yonezawa_relationship_2023. Le conseil s’oriente vers des actifs humectants, relipidants  ou filmogènes.
 
 - *Aloe vera* : ses polysaccharides (notamment l’acémannane) exercent une action hygroscopique et filmogène, réduisant la @TEWL. Il convient de recommander des gels purs stabilisés (>95 %) ou des émulsions hydratantes enrichies.
 
@@ -31,7 +33,7 @@ Les peaux sèches présentent une production sébacée insuffisante et une barri
 
 - *α-Bisabolol* : par son action apaisante et anti-inflammatoire, il limite l’irritabilité des peaux sèches réactives. On le retrouve dans des laits corporels ou crèmes émollientes adaptées aux peaux atopiques.
 
-Cette approche combine humectants (Aloe), boosters dermiques (Centella) et anti-inflammatoires (α-Bisabolol) afin de restaurer la fonction barrière et de réduire durablement la sécheresse cutanée.
+Cette approche combine humectants (Aloe), restauration cutanée (Centella) et anti-inflammatoires (α-Bisabolol) afin de restaurer la fonction barrière et de réduire durablement la sécheresse cutanée.
 
 === Peaux grasses ou acnéiques
 
@@ -57,11 +59,12 @@ Caractérisées par une hyperexcitabilité neurosensorielle et une fragilité de
 
 Elles présentent une perte d’élasticité, des rides, une diminution de l’activité fibroblastique et un stress oxydatif chronique. Le conseil vise des actifs antioxydants, restructurants et bien tolérés.
 
-- *Bakuchiol* : en activant les récepteurs @RAR et @RXR sans les effets irritants des rétinoïdes, il améliore le grain de peau et la densité dermique. À intégrer dans les routines nocturnes.
+- *Bakuchiol* : en activant les @RAR et @RXR sans les effets irritants des rétinoïdes, il améliore le grain de peau et la densité dermique. À intégrer dans les routines nocturnes.
 
 - *Centella asiatica* : la stimulation de la synthèse de collagène de type I et III, associée à son action anti-MMP, en fait un composant clé des soins anti-âge.
 
 === Peaux déhydratées
+
 La peau déshydratée est une condition transitoire caractérisée par un manque d'eau, et non de lipides, pouvant affecter tous les types de peau, y compris les peaux grasses. Elle résulte d'une altération de la fonction barrière du film hydrolipidique, ce qui entraîne une perte insensible en eau (@TEWL) excessive @voegeli_moisturizing_2023. Cet état se manifeste par des tiraillements, un manque de souplesse et l'apparition de ridules de déshydratation. Le conseil se concentre sur des actifs humectants #footnote[Captent et retiennent l'eau dans l'épiderme], filmogènes #footnote[Créent un film protecteur limitant l'évaporation de l'eau] et réparateurs de la barrière cutanée.
 
 
@@ -113,7 +116,7 @@ Les états inflammatoires mineurs (érythèmes, irritations, coups de soleil) n�
 
 Les peaux à tendance atopique nécessitent des émollients apaisants, anti-inflammatoires et restaurateurs de barrière. Ces derniers doivent obligatoirement être hautement tolérés:
 
-- *Nigella sativa* : son huile riche en *thymoquinone* exerce une activité inhibitrice du @TNF-α --- cytokine pro-inflammatoire clé dans la pathogenèse de la dermatite atopique @amin_black_2016 --- et agit directement contre les @ROS --- dont la surproduction perpétue l'inflammation et altère la structure cutanée ---; utile en entretien ou en phase de rémission de part sa double action anti-inflammatoire et anti-oxydante.
+- *Nigella sativa* : son huile riche en *thymoquinone* exerce une activité inhibitrice du @TNF-α --- cytokine pro-inflammatoire clé dans la pathogenèse de la dermatite atopique @amin_black_2016 --- et agit directement contre les @ROS --- dont la surproduction perpétue l'inflammation et altère la structure cutanée ---; utile en entretien ou en phase de rémission de par sa double action anti-inflammatoire et anti-oxydante.
 
 - *α-Bisabolol* : son profil de tolérance et sa capacité à diminuer les cytokines pro-inflammatoires en font un composant des crèmes calmantes atopiques.
 
@@ -166,7 +169,7 @@ La peau infantile est plus fine, plus perméable et plus vulnérable aux agents 
 - *Centella asiatica* : à recommander sous forme de crèmes "CICA" validées pédiatriquement. Les extraits titrés (TECA) ont montré une bonne tolérance en application cutanée, notamment dans les lésions dues au prurit, et dans les cas de varicelle.
 
 === Femmes enceintes
-
+// TODO Sourcer
 Les recommandations visent à limiter l’exposition à certains extraits mal caractérisés ou potentiellement mutagènes. Les huiles essentielles sont généralement contre-indiquées, de même que les agents photosensibilisants ou à action hormonale.
 
 - *Bakuchiol* : bien qu’il ne soit pas un rétinoïde, son action sur les récepteurs nucléaires invite à la prudence en début de grossesse. Cependant, plusieurs marques l’autorisent en cosmétique maternité à faible dose (< 1 %).

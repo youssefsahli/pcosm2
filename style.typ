@@ -114,6 +114,7 @@
   show footnote.entry: f => {
     
   }
+
   
   rest
 }

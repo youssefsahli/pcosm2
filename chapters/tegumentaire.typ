@@ -1,83 +1,104 @@
 = La peau
 
-Le système cutané (ou système tégumentaire) est l'appareil le plus large du corps humain avec une surface de 2m² en moyenne @gallo_human_2017.
-C'est aussi le plus lourd en participant à 15% du poids total du corps humain @richardson_understanding_2003.
-Il sert d'interface entre le corps et l'environnement, et réagit aux stimuli extérieurs: humidité, uvs, pollution, radiations @proksch_skin_2008.
+Le système cutané (ou système tégumentaire) constitue l'interface vitale entre le corps humain et son environnement. C'est l'organe le plus étendu de l'organisme, couvrant une surface moyenne de 2 m² @gallo_human_2017, et le plus lourd, représentant environ 15 % du poids corporel total @richardson_understanding_2003.
+
+Il assure une fonction barrière essentielle en réagissant aux multiples stimuli extérieurs tels que l'humidité, les rayonnements ultraviolets (UV), la pollution ou les radiations @proksch_skin_2008.
 
 #figure(
-  caption: [Coupe de peau humaine],
+  caption: [Coupe de peau humaine @kilbad_this_2008],
   image(
     "/img/epiderme1.JPG",
     width: 85%
   )
 )
-Ces nombreux paramètres @salsberg_review_2019 ont un effet sur différents aspects de la physiologie cutanée, notamment les processus de vieillissement.
-Les facteurs sociaux sont aussi un élément à prendre en compte dans l'évolution de sa qualité à travers le temps; on évaluera en particulier le temps d'exposition solaire @krutmann_skin_2017, et les habitudes d'utilisation de soins cosmétiques @lee_different_2019 (crèmes hydratantes, anti-@UV:pl, maquillage), et enfin l'âge qui est en lien avec les modifications du profil hormonal et le ralentissement des processus régénératifs @oranges_skin_2015.
 
-// trop chargé
+== Physiologie et Homéostasie
 
-La peau est aussi le plus grand appareil sensoriel du corps, et contribue à l'homéostasie. Cette régulation thermique est assurée d'une part par les glandes sudoripares et d'autre par les glandes sébacées qui secrètent le sebum, qui participe à la modulation de la @TEWL en protégeant celui ci grâce à la composition lipidique de l'hypoderme mais aussi en mettant en jeu les systèmes de _feeback_ de thermorégulation par thermorécepteurs @romanovsky_skin_2014.
-// ne pas parler de poils
-Cette régulation thermique varie selon la présence ou non de poils, qui limitent la perte de chaleur par convection et augmentent localement la sensibilité tactile via l’innervation des follicules. Ils participent ainsi à la protection mécanique, et à une forme passive de thermorégulation.
-Les glandes sudoripares assurent l’évacuation de la chaleur -- @thermolyse -- par évaporation : les glandes sudorales eccrines @noauthor_dictionnaire_nodate, réparties sur l’ensemble du corps, sont activées en réponse à une élévation thermique centrale ou périphérique ; les glandes apocrines@noauthor_dictionnaire_nodate, localisées, sont plus impliquées dans la communication chimique. Les glandes sébacées sécrètent du sébum, qui se combine aux lipides épidermiques pour former le film hydrolipidique — interface lipidique de surface, faiblement acide, limitant la *perte insensible en eau* -- aussi appelée #emph[@TEWL] et participant à la défense antimicrobienne.
+En tant que plus grand organe sensoriel, la peau joue un rôle central dans l'homéostasie, notamment via la thermorégulation et la protection antimicrobienne.
 
-On retrouve dans l'épiderme des @CPA:pl -- les cellules de Langerhans -- qui participent à l'activation de la réponse immunitaire innée et adaptative @noauthor_langerhans_nodate. 
-Elles interagissent avec les kératinocytes  et les lymphocytes T -- les trois représentent la majorité des cellules immunitaires de l'épiderme@jiang_cytokinocytes_nodate[p.~1] --
-pour assurer une _veille immunitaire_ permanente. 
+Cette régulation thermique et hydrique repose sur deux types de glandes annexes :
+- *Les glandes sudoripares :* Elles assurent la thermolyse par évaporation. On distingue les glandes *eccrines* @noauthor_dictionnaire_nodate, réparties sur tout le corps et activées par l'élévation thermique, des glandes *apocrines* @noauthor_dictionnaire_nodate, plus localisées et impliquées dans la communication chimique.
+- *Les glandes sébacées :* Elles sécrètent le sébum. Celui-ci se combine aux lipides épidermiques pour former le film hydrolipidique, une interface acide qui limite la *perte insensible en eau* (@TEWL) et participe à la défense antimicrobienne. Ce processus met également en jeu des boucles de rétrocontrôle via les thermorécepteurs cutanés @romanovsky_skin_2014.
+#[
+#set heading(numbering: none)
+=== Immunité et Microbiote
+]
+L'épiderme assure une _veille immunitaire_ permanente grâce aux cellules de Langerhans (Cellules Présentatrices d'Antigène). Ces dernières interagissent avec les kératinocytes et les lymphocytes T pour orchestrer la réponse immunitaire innée et adaptative @noauthor_langerhans_nodate @jiang_cytokinocytes_nodate[p.~1].
+
+En surface, la protection est renforcée par le *microbiote cutané*. La composition de cette flore varie selon les zones (sites gras, humides ou secs) @grice_topographical_2009. En empêchant la colonisation par des pathogènes, ce microbiote régule la réponse immune @byrd_human_2018. Une rupture de cet équilibre, ou _dysbiose_, favorise l'apparition de pathologies telles que l'acné @lee_potential_2019, la rosacée @sanchez-pellicer_rosacea_2024 ou la dermatite atopique @koh_skin_2022.
 
 #figure(
-  caption: [Coupe de peau humaine après fixation au formol et coloration HES 
-  (Unilabs Sipath)],
-  image("/img/epiderme2.JPG")
+  caption: [Coupe de peau humaine à kératose actinique @phelps_english_2010],
+  image(
+    "/img/actinic_k.jpg",
+    width: 70%
+  )
 )
 
 #pagebreak(weak: true)
 
-Le *microbiote cutané*, qui correspond aux organismes peuplant la surface de l'épiderme varie avec l'environnement et les facteurs comportementaux. Sa composition en bactéries change selon les sites -- les zones grasses, humides ou sèches n’abritent pas les mêmes espèces @grice_topographical_2009.
-Ce dernier joue un rôle important dans la protection de la peau en empêchant les micro-organismes pathogènes de se développer. Il peut aussi aider à réguler certaines réponses immunitaires @byrd_human_2018.
+== Facteurs d'influence et Vieillissement
 
-La perturbation de l’équilibre du microbiote -- la _dysbiose_ -- par des soins inadaptés, des médicaments, ou des changements environnementaux, contribue à des pathologies comme l’acné @lee_potential_2019, la rosacée @sanchez-pellicer_rosacea_2024 ou la dermatite atopique @koh_skin_2022.
+La physiologie cutanée est soumise à une interaction complexe de facteurs intrinsèques et extrinsèques, définissant la qualité de la peau au cours du temps.
 
-L’activité de ces structures annexes est modulée par des facteurs hormonaux (en particulier androgènes), neurologiques (anxiété, choc émotionnel) et environnementaux (pollution). Leur dérégulation est observée dans plusieurs pathologies dermatologiques : acné, dermatite séborrhéique, alopécie androgénétique ou hyperhidrose.
+1.  *L'Exposome (Facteurs externes) :* Il inclut l'exposition solaire (UV) @krutmann_skin_2017, la pollution, ainsi que les habitudes cosmétiques (nettoyage, hydratation, maquillage) @lee_different_2019.
+2.  *Facteurs internes :* L'âge, le profil hormonal et les facteurs neurologiques (stress, anxiété) modulent les capacités régénératives et l'activité des glandes annexes @oranges_skin_2015.
+
+L'accumulation de ces contraintes engendre un stress oxydatif, principalement médié par les espèces réactives de l'oxygène (@ROS), dont la production est exacerbée par les UV @rinnerthaler_oxidative_2015. Ces @ROS dégradent les lipides et protéines cellulaires @bonta_process_2013, entraînant une sénescence et une altération de la structure cutanée (le _matreotype_). Ce vieillissement, ou _chronological aging_ @shin_skin_2023, se traduit cliniquement par une peau plus fine @kazanci_analyses_2017, moins élastique @benoit_proteome-centric_2023 et plus vulnérable aux infections @ho_faces_2021.
 
 #figure(
-  caption: [Lupus érythémateux cutané (coloration HES) : On observe un infiltrat inflammatoire lymphocytaire dense (Unilabs Sipath)],
-  image("/img/Lupus.JPG"),
+  caption: [Coupe de peau humaine avec élastose solaire @park_english_2016],
+  image(
+    "/img/elastosis.jpg",
+    width: 60%
+  )
 )
 
-// Ces nombreux facteurs intrinsèques et extrinsèques  [ _cf_ @exposomes ] influencent l'évolution du derme et de l'épiderme au cours de leur vie, évolution appelée _chronological aging_ @shin_skin_2023. Il résulte d'un stress oxydatif causé par des @ROS en majorité, dont le principal acteur est l'irradiation aux @UV:pl @rinnerthaler_oxidative_2015. Cette accumulation de @ROS entraîne une dégradation des composants cellulaires lipidiques et protéiques @bonta_process_2013 @rinnerthaler_oxidative_2015, et activent une sénescence des cellules @shin_skin_2023, ainsi qu'une altération de la macrostructure cutanée -- le _matreotype_ @noauthor_matrisome_nodate. La peau devient plus fine @kazanci_analyses_2017, moins élastique @benoit_proteome-centric_2023, plus propice aux infections @ho_faces_2021.
+#pagebreak(weak: true)
 
 == Embryologie
-Le développement du système cutané débute dès les premiers jours de l’embryogenèse, au moment de la gastrulation @hu_embryonic_2018[p.1]. Cette étape clé, survenant à la troisième semaine de développement, conduit à l’organisation de trois feuillets embryonnaires : l’ectoderme, le mésoderme et l’endoderme. Deux de ces feuillets (l'ectoderme et le mésoderme) vont être à l'origine de la totalité structurelle du derme et de l'épiderme: l'ectoderme donnera naissance à l'épiderme, aux annexes cutanées -- poils, glandes sudoripares et sébacées --, et aux mélanocytes _(par migration des cellules de la crête neurale)_. Le mésoderme quant à lui forme le derme et l'hypoderme; il fournira aussi les éléments de support -- vascularisation, nerfs -- de l'épiderme @hu_embryonic_2018[p. ~7]. 
+
+Le développement cutané débute à la gastrulation (3#super[ème] semaine), avec la mise en place des feuillets embryonnaires @hu_embryonic_2018[p.1] :
+- *L'Ectoderme :* Donne naissance à l'épiderme, aux annexes (glandes) et aux mélanocytes (via les crêtes neurales).
+- *Le Mésoderme :* Forme le derme, l'hypoderme et les structures de soutien (vaisseaux, nerfs).
+
+L'évolution structurelle suit une chronologie précise :
+- *4#super[ème] semaine :* L'ectoderme forme l'_ectoderme de revêtement_. Sous l'influence d'interactions épithélio-mésenchymateuses, il se stratifie pour former le périderme puis les kératinocytes basaux @dermitzakis_skin_2024.
+- *5#super[ème] semaine :* Migration des mélanoblastes depuis la crête neurale vers l'épiderme @mort_melanocyte_2015. Parallèlement, le derme se différencie à partir du mésoderme (somitique pour le dos, latéral pour la région ventrale) @visscher_newborn_2015.
+- *9#super[ème] semaine :* Début de la morphogenèse des annexes (glandes sudoripares, sébacées et mammaires) @blake_pax_2014.
 
 #figure(
-  caption: [Rôle des signaux dans la spécificité de la peau embryonaire @fuchs_scratching_2007],
+  caption: [Rôle des signaux dans la spécificité de la peau embryonnaire @fuchs_scratching_2007],
   image(
     "/img/skinembryo1.drawio.png",
     height: 40%
   )
 )
 
-Au cours de la quatrième semaine de développement, l'ectoderme se différencie en une couche de cellules cubiques, appelée _ectoderme de revêtement_, future assise de l'épiderme primitif . Ce dernier est initialement constitué d'une seule assise cellulaire, mais subit rapidement une stratification progressive. Des interactions épithélio-mésenchymateuses entre l'ectoderme et le mésoderme sous-jacent dirigent cette évolution, conduisant à la formation d’une couche péridermique transitoire, puis à l'apparition des kératinocytes basaux, cellules souches de l'épiderme adulte. @dermitzakis_skin_2024
-
-La migration et la différenciation de cellules dérivées de la crête neurale (notamment les mélanoblastes) commencent vers la cinquième semaine. Ces cellules migrent en direction de l'ectoderme pour donner naissance aux mélanocytes épidermiques, responsables de la production de mélanine. @mort_melanocyte_2015
-
-Simultanément, le mésoderme paraxial et latéral, via ses dérivés mésenchymateux, se spécialise pour former le derme. Dans la région dorsale, le derme provient principalement du mésoderme somitique, tandis qu’il est issu du mésoderme latéral dans les régions ventrales et des crêtes neurales au niveau céphalique. @visscher_newborn_2015
-
-À partir de la neuvième semaine, les annexes cutanées débutent leur morphogenèse. De manière coordonnée, se développent également les ébauches des glandes sudoripares, sébacées et mammaires. @blake_pax_2014
-
-En résumé, l’embryogenèse cutanée repose sur une séquence rigoureuse d'interactions cellulaires et moléculaires entre ectoderme et mésoderme, modulée par les signaux de la crête neurale et des voies de signalisation spécifiques, établissant ainsi la structure et les fonctions fondamentales de la peau. @usansky_developmental_2021
-
 == Histologie
 
-La peau se compose de trois couches majeures dont l'épiderme est la plus externe. En dessous, on retrouve le derme, recouvrant l'hypoderme . Chacune est composée de différentes strates: l'épiderme est composé — en partant du derme vers l'extérieur — du stratum basale, du stratum spinosum, du stratum granulosum, du stratum lucidum, et enfin du stratum corneum. La composition en cellules de chaque strate diffère en fonction de nombreux paramètres dont la position et l'âge du sujet @marie-danielle_improving_2014.
-Il existe différents types de cellules: les kératinocytes sont les plus nombreux dans l'épiderme, mais on peut aussi y voir des cellules de Langerhans, et des cellules de Merkel en plus petit nombre @agarwal_histology_2024.
+La peau s'organise en trois couches superposées : l'épiderme, le derme et l'hypoderme.
 
-L'*épiderme* est en renouvellement permanent. Les kératinocytes se différencient en partant de la couche basale, et maturent en se déplaçant vers l'extérieur. On retrouve dans le stratum corneum des kératinocytes énucléés, inactifs, et très kératinisés. Les couches squameuse et basale forment #emph[a contrario] la #text(weight: "bold", [couche nucléée]) de l'épiderme.
-On estime la durée physiologique du renouvellement de la peau à 40 jours environ #cite(label("koster_making_2009")).
+=== L'Épiderme
+Tissu en renouvellement permanent (environ 40 jours @koster_making_2009), l'épiderme est un épithélium pavimenteux stratifié kératinisé. Il est composé majoritairement de kératinocytes, accompagnés de cellules de Langerhans, de cellules de Merkel et de mélanocytes @agarwal_histology_2024.
+On décrit plusieurs strates, de la profondeur vers la surface :
+- *Couche nucléée (vivante) :* Stratum basale (cellules souches) et Stratum spinosum.
+- *Couche granuleuse :* Stratum granulosum.
+- *Couche cornée (morte) :* Stratum corneum (kératinocytes énucléés et très kératinisés).
+_(Note : Le Stratum lucidum est présent uniquement au niveau des peaux épaisses des paumes et plantes)._
+
+#figure(
+  caption: [Schéma des couches de l'épiderme @noauthor_english_2006],
+  image(
+    "/img/Skinlayers.png",
+    height: 25%
+  )
+)
+
+=== La Jonction Dermo-Épidermique (JDE)
+Interface complexe assurant la cohésion mécanique et les échanges métaboliques. Elle présente des ondulations — crêtes épidermiques et papilles dermiques — qui augmentent la surface de contact. Elle est difficilement visible en coloration de routine standard @burgeson_dermalepidermal_1997 @selby_electron_1955 @aumailley_laminins_1999.
+
+=== Le Derme
+Tissu conjonctif de soutien, d'épaisseur variable (jusqu'à 4 mm), il assure la vascularisation et l'innervation de l'épiderme @noauthor_skin_2019. Il envoie des projections vers l'épiderme, les papilles dermiques, qui contiennent des niches de cellules souches folliculaires déterminant la régénération des annexes @morgan_dermal_2014.
 
 
-Le *derme* a une épaisseur variable#footnote[Jusqu'à 4mm] et possède la structure nécessaire à l'innervation et l'irrigation de l'épiderme#cite(label("noauthor_skin_2019")). Il projette des digitations (#emph[dermal papillae] #cite(label("morgan_dermal_2014"))) en direction de ce dernier; ces projections contiennent des progéniteurs du follicule pileux, et déterminent la fréquence de régénération et la qualité de ces derniers.
-
-
-La *jonction dermo-épidermique* est l'interface entre la couche basale de l'épiderme et la couche supérieure du derme. Difficilement visible en coloration de routine #footnote[Hématoxyline et Éosine; ou Hématoxyline, Phloxine et Safran], elle se compose de crêtes épidermiques et de papilles dermiques, formant des ondulations irrégulières permettant une meilleure adhésion entre les deux couches.

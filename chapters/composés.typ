@@ -140,7 +140,7 @@ La macération au n‑hexane est une méthode classique et efficace pour extrair
 
 La composition de l’huile vierge de Nigella sativa inclut également des composés terpéniques (carvacrol, thymol), des alcaloïdes spécifiques (nigellimine, nigellicine), ainsi que des saponines amphiphiles telles que l’α-hédrine. Cette richesse biochimique confère à l’huile des propriétés pléiotropes : modulation de l’activité des cytokines (TNF-α, IL-1β), inhibition de la voie NF‑κB, activité antifongique et bactéricide, mais aussi amélioration de la régénération cutanée @mondejar-lopez_thymoquinone-loaded_2022.
 
-En application topique, elle est utilisée dans la prise en charge des dermatites, des peaux atopiques, du prurit chronique, ainsi qu’en soin capillaire pour les cuirs chevelus sensibles ou sujets à la chute. Sa couleur foncée, sa texture grasse et son odeur marquée limitent cependant son usage direct dans certaines formulations, nécessitant des ajustements galéniques pour une bonne acceptabilité sensorielle @cheikh-rouhou_nigella_2007.
+// En application topique, elle est utilisée dans la prise en charge des dermatites, des peaux atopiques, du prurit chronique, ainsi qu’en soin capillaire pour les cuirs chevelus sensibles ou sujets à la chute. 
 
 #add_table(
   [Molécules notables retrouvées dans Nigella sativa],
@@ -168,6 +168,8 @@ Sur le plan cutané, des tests cliniques ont observé une amélioration de l’a
 L’huile de nigelle est également indiquée pour ses propriétés antifongiques et antibactériennes, ce qui en fait un ingrédient intéressant dans les soins des peaux mixtes à grasses. Enfin, elle participe au maintien de l'hydratation cutanée grâce à sa richesse en acides gras essentiels et à sa capacité à limiter la @TEWL:both.
 Néanmoins, il convient de noter que l’huile de nigelle peut être sensibilisante chez certains sujets atopiques ou allergiques aux composés terpéniques. Les formulations cosmétiques doivent donc respecter des concentrations bien définies, généralement inférieures à 10% @ali_pharmacological_2003.
 
+Sa couleur foncée, sa texture grasse et son odeur marquée limitent cependant son usage direct dans certaines formulations, nécessitant des ajustements galéniques pour une bonne acceptabilité sensorielle @cheikh-rouhou_nigella_2007.
+
 
 === Indications
 
@@ -193,6 +195,8 @@ L’usage *chez le nourrisson est déconseillé*, même en application locale. C
 
 *Aloe vera* (syn. *Aloe barbadensis Miller*) est une plante succulente de la famille des Asphodelaceae, largement cultivée dans les régions arides et semi-arides pour son gel mucilagineux à usage médicinal et cosmétique. Elle possède des feuilles épaisses, lancéolées, bordées d'épines molles, contenant un parenchyme central translucide — le "gel" — et une sève périphérique riche en anthraquinones appelée "latex" @grindlay_aloe_1986.
 
+Il convient de distinguer strictement le gel (parenchyme interne) du latex (sève subcorticale), ce dernier étant riche en aloïne — anthracénoside purgatif — et généralement exclu des préparations cosmétiques par des procédés de purification spécifiques .
+
 Le gel d’*Aloe vera* est composé majoritairement d’eau (> 98 %) et d’un ensemble de polysaccharides hydrophiles, notamment l’_acémannane_, un polymère d’acétate de mannosyle β-(1→4), considéré comme le principal composant bioactif. Ce mucopolysaccharide est responsable des propriétés hydratantes et immunomodulatrices de la plante @vogler_aloe_1999.
 
 Ce dernier pose des défis galéniques spécifiques liés à sa *forte instabilité oxydative*, à sa *sensibilité aux contaminants microbiens* et à sa *dégradation enzymatique rapide*.
@@ -208,17 +212,9 @@ En dehors de l’acémannane, le gel brut contient diverses molécules bioactive
 
 Ces composés participent aux effets apaisants, cicatrisants et légèrement antiseptiques qui motivent son incorporation dans les produits topiques : gels hydratants, après-soleils, soins post-épilation ou anti-acnéiques.
 
-Les polysaccharides mucilagineux du gel d’*Aloe vera* — dominés par l’acémannane @sanchez_pharmacological_2020 — exercent un double rôle filmogène : rétention d’eau dans le stratum corneum et réduction de la perte insensible en eau. Des travaux in-vitro et ex-vivo lui attribuent également des effets anti-inflammatoires modérés (diminution de l’expression d’IL-1β et de TNF-α), une stimulation de la prolifération kératinocytaire et une accélération de la ré-épithélialisation @vogler_aloe_1999. Sa bonne tolérance cutanée explique son intégration transversale dans des galéniques allant du soin dermatologique au produit d’hygiène.
-
-Il convient de distinguer strictement le gel (parenchyme interne) du latex (sève subcorticale), ce dernier étant riche en aloïne — anthracénoside purgatif — et généralement exclu des préparations cosmétiques par des procédés de purification spécifiques .
-
-Le gel d’*Aloe vera* est utilisé en cosmétique pour ses effets hydratants, anti-inflammatoires, cicatrisants et antioxydants. Ces activités sont principalement attribuées à sa richesse en polysaccharides (notamment l’acémannane), en vitamines hydrosolubles (B, C) et en composés phénoliques secondaires @salehi_aloe_2018.
-
-Grâce à sa forte teneur en mucopolysaccharides, le gel d’*Aloe vera* forme un film hydrophile à la surface de la peau, limitant la perte insensible en eau (TEWL) et améliorant la souplesse cutanée . Des études ont montré une augmentation de l’hydratation de la couche cornée après application biquotidienne de gel d’aloé pendant deux semaines @vogler_aloe_1999.
+Les polysaccharides mucilagineux du gel d’*Aloe vera* — dominés par l’acémannane @sanchez_pharmacological_2020 — exercent un double rôle filmogène : rétention d’eau dans le stratum corneum et réduction de la perte insensible en eau. Des travaux in-vitro et ex-vivo lui attribuent également des effets anti-inflammatoires modérés (diminution de l’expression d’IL-1β et de TNF-α) @li_aloe_2017, une stimulation de la prolifération kératinocytaire et une accélération de la ré-épithélialisation. Sa bonne tolérance cutanée explique son intégration transversale dans des galéniques allant du soin dermatologique au produit d’hygiène. D'autres études ont montré une augmentation de l’hydratation de la couche cornée après application biquotidienne de gel d’aloé pendant deux semaines @vogler_aloe_1999 @salehi_aloe_2018.
 
 L’acémannane stimule la prolifération des fibroblastes et l’augmentation du collagène de type I via activation de TGF-β1 . Il favorise également la réépithélialisation et la contraction des plaies. Ces effets sont exploités dans les gels post-laser, après-soleil, ou pour la prise en charge d’irritations superficielles (rasage, épilation, brûlures légères) @sierra-garcia_acemannan_2014.
-
-Le gel d’*Aloe vera* inhibe la production de cytokines pro-inflammatoires (@TNF-α, @IL-6, @IL-1) et la voie @VoieNFkB dans les modèles de kératinocytes stimulés par des agents oxydants ou irritants . Cette propriété explique son usage dans les soins pour peaux sensibles ou sujettes à l’eczéma @li_aloe_2017.
 
 Des extraits aqueux standardisés d’*Aloe vera* réduisent la production de @ROS induite par les @UVB in vitro . Cette action protectrice est associée à la présence de vitamines C et E, mais aussi de flavonoïdes et stérols végétaux @y_aloin_2018.
 
@@ -261,5 +257,5 @@ Les produits contenant du *latex d’aloès* (aloïne), extrait de la partie pé
 
 === Populations spécifiques
 
-L’usage externe de l’Aloe vera est *autorisé chez l’enfant*, la *femme enceinte* et la *femme allaitante*, sous réserve de formulations testées dermatologiquement. Aucun effet systémique n’est attendu en application locale. Une allergie de contact, bien que rare, peut survenir, en particulier chez les sujets sensibilisés aux plantes de la famille des Liliaceae.
+L’usage externe de l’Aloe vera est *autorisé chez l’enfant*, la *femme enceinte* et la *femme allaitante*, sous réserve de formulations testées dermatologiquement. Aucun effet systémique n’est attendu en application locale. Une allergie de contact, bien que rare, peut survenir, en particulier chez les sujets sensibilisés aux plantes de la famille des Liliaceae @boudreau_evaluation_2006.
 

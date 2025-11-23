@@ -38,6 +38,8 @@ La RSPO a été établie en réponse aux impacts environnementaux de la culture 
 
 == Synthèse des Référentiels
 
+// Sourcer et donner un nom
+
 #table(
 columns: (auto, auto, auto),
 align: (left, left, left),
