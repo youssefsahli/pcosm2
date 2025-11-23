@@ -1,3 +1,17 @@
+#pagebreak(weak: false)
+#[
+  #set page(footer: [])
+  #set heading(numbering: none)
+  #set align(horizon+ center)
+  #set text(size: 1.4em)
+  #set par(justify: false)
+  *Première Partie: *
+  
+  Étude des cosmétiques sur la peau
+  
+]
+#pagebreak(weak: false)
+
 = Genèse des soins cosmétiques
 #[
   L’usage des plantes pour le soin du corps est attesté dans la plupart des civilisations anciennes @staub_back_2016, bien avant l’émergence de la cosmétique moderne; ces pratiques, souvent transmises oralement, visaient à protéger la peau, à soulager des inconforts ou à embellir l’apparence corporelle. On retrouve ainsi des traces d’*huiles végétales* utilisées pour adoucir et nourrir l’épiderme, comme l’huile de sésame ou de moringa en Égypte, le beurre de karité en Afrique de l’Ouest @wardell_globalisations_2013 , ou les pâtes de bois de santal en Inde @rajsmita_re-discovering_2019. Ces substances étaient appliquées directement sur la peau, seules ou mélangées à d’autres éléments naturels (argiles, résines, poudres aromatiques), et jouaient un rôle à la fois antiseptique, hygiénique, médicinal et rituel.

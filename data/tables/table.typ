@@ -9,8 +9,8 @@
     numbering: "I",
     caption: caption,
     table(
-      align: align,
       columns: columns,
+      align: align,
       T
     )
   )
@@ -22,7 +22,7 @@
   add_table(
     caption,
     table(
-      align: left + horizon,
+      align: horizon,
       columns: size,
       ..data.flatten()
     )

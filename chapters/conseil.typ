@@ -1,6 +1,17 @@
 #import "/data/tables/table.typ": csv_table
-// Première partie
-// Seconde partie
+#pagebreak(weak: false)
+#[
+  #set page(footer: [])
+  #set heading(numbering: none)
+  #set align(horizon+ center)
+  #set text(size: 1.4em)
+  #set par(justify: false)
+  *Seconde Partie: *
+  
+  Mise en Pratique
+  
+]
+#pagebreak(weak: false)
 = Conseils à l'officine
 
 #[
