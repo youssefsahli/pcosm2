@@ -95,7 +95,8 @@
   "/annexes/fiche",
   "/annexes/acropole",
   "/annexes/gammes",
-  "/annexes/pubmed"
+  "/annexes/pubmed",
+  "/chapters/quatrieme_couverture"
 )
 
 #let bib = (
