@@ -12,7 +12,7 @@ Il assure une fonction barrière essentielle en réagissant aux multiples stimul
   )
 )
 
-== Physiologie et Homéostasie
+== Physiologie et homéostasie
 
 En tant que plus grand organe sensoriel, la peau joue un rôle central dans l'homéostasie, notamment via la thermorégulation et la protection antimicrobienne.
 
@@ -32,25 +32,6 @@ En surface, la protection est renforcée par le *microbiote cutané*. La composi
   image(
     "/img/actinic_k.jpg",
     width: 70%
-  )
-)
-
-#pagebreak(weak: true)
-
-== Facteurs d'influence et Vieillissement
-
-La physiologie cutanée est soumise à une interaction complexe de facteurs intrinsèques et extrinsèques, définissant la qualité de la peau au cours du temps.
-
-1.  *L'Exposome (Facteurs externes) :* Il inclut l'exposition solaire (UV) @krutmann_skin_2017, la pollution, ainsi que les habitudes cosmétiques (nettoyage, hydratation, maquillage) @lee_different_2019.
-2.  *Facteurs internes :* L'âge, le profil hormonal et les facteurs neurologiques (stress, anxiété) modulent les capacités régénératives et l'activité des glandes annexes @oranges_skin_2015.
-
-L'accumulation de ces contraintes engendre un stress oxydatif, principalement médié par les espèces réactives de l'oxygène (@ROS), dont la production est exacerbée par les UV @rinnerthaler_oxidative_2015. Ces @ROS dégradent les lipides et protéines cellulaires @bonta_process_2013, entraînant une sénescence et une altération de la structure cutanée (le _matreotype_). Ce vieillissement, ou _chronological aging_ @shin_skin_2023, se traduit cliniquement par une peau plus fine @kazanci_analyses_2017, moins élastique @benoit_proteome-centric_2023 et plus vulnérable aux infections @ho_faces_2021.
-
-#figure(
-  caption: [Coupe de peau humaine avec élastose solaire @park_english_2016],
-  image(
-    "/img/elastosis.jpg",
-    width: 60%
   )
 )
 

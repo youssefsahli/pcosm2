@@ -64,7 +64,9 @@ En réponse à la surexploitation, des filières de culture durables sont apparu
 == α-Bisabolol
 
 === Sources
-L'α-bisabolol provient de trois différent processus: une extraction de plante (origine naturelle), une synthèse à base de précurseurs pétro-chimiques, ou une biofermentation par l'utilisation de souches microbiologiques (Saccharomyces cerevisiae). L'industrie privilégie la source naturelle, par exploitation du Candeia @tai_biosynthesis_2023. La synthèse chimique à partir de farnesol, quant à elle, produit un mélange racémique moins actif @jiang_engineering_2023. la bio-fermentation, méthode encore nouvelle, reste une méthode marginale prometteuse @son_enantioselective_2014, mais avec ses inconvénients en terme d'écologie (voir @biofermentation-bisobolol).
+L'α-bisabolol provient de trois différents processus: une extraction de plante (origine naturelle), une synthèse à base de précurseurs pétro-chimiques, ou une biofermentation par l'utilisation de souches microbiologiques (Saccharomyces cerevisiae). La synthèse chimique à partir de farnesol, quant à elle, produit un mélange racémique moins actif @jiang_engineering_2023. la bio-fermentation, méthode encore nouvelle, reste une méthode marginale prometteuse @son_enantioselective_2014, mais avec ses inconvénients en terme d'écologie (voir @biofermentation-bisobolol).
+
+L'industrie privilégie la source naturelle, par exploitation du Candeia, aussi appelé Vanillomopsis erythropappa @tai_biosynthesis_2023.
 
 #figure(
   caption: [
@@ -95,7 +97,7 @@ Cette importante collecte met cette espèce en risque d'extinction @alves_gomes_
 Des filières de gestion durable ont été mises en place, et encouragent le reboisement, ainsi que des plans de coupe raisonnables. Par exemple, la FSC (Forest Stewardship Council) a pour but la protection des forêts dans le monde, et a une présence notable dans le monde entier, mais son effet est discuté, et les résultats sont variables sur le maintien de la biodiversité locale @matias_fsc_2024.
 
 === Biofermentation <biofermentation-bisobolol>
-La biofermentation repose sur l'utilisation de micro-organismes, en employant en grande majorité _Saccharomyces cerevisiae_ @_---bisabolol_2019. Ces levures sont alors nourries avec des substrats à base de sucre de canne ou de maïs, afin de provoquer une fermentation capable de générer de l'α-bisabolol chimiquement indentique à la molécule d'origine naturelle @jiang_engineering_2023. Cette méthode permet de préserver les forêt de Candeia, mais entraîne une consommation d'énergie à cause des fermenteurs, et une empreinte hydrique non négligable -- Leur impact environnemental est d'ailleurs difficilement estimable @gupta_energy_2024. D'autre part, le substrat utilisé, comme le maïs ou la canne à sucre, peut lui aussi être lié à l'agriculture intensive, et est un enjeu clé dans la protection de la biodiversité.
+La biofermentation repose sur l'utilisation de micro-organismes, en employant en grande majorité _Saccharomyces cerevisiae_ @_---bisabolol_2019. Ces levures sont alors nourries avec des substrats à base de sucre de canne ou de maïs, afin de provoquer une fermentation capable de générer de l'α-bisabolol chimiquement indentique à la molécule d'origine naturelle @jiang_engineering_2023. Cette méthode permet de préserver les forêts de Candeia, mais entraîne une consommation d'énergie à cause des fermenteurs, et une empreinte hydrique non négligable -- Leur impact environnemental est d'ailleurs difficilement estimable @gupta_energy_2024. D'autre part, le substrat utilisé, comme le maïs ou la canne à sucre, peut lui aussi être lié à l'agriculture intensive, et est un enjeu clé dans la protection de la biodiversité.
 
 == Nigelle (_Nigella sativa_ L.)
 
@@ -103,7 +105,7 @@ La biofermentation repose sur l'utilisation de micro-organismes, en employant en
 Originaire du bassin méditerranéen et d'Asie occidentale, la nigelle est aussi retrouvée et cultivée dans de nombreux pays du Levant et du Proche-Orient @hannan_black_2021. Peu exigeant en eau, et bien adaptée aux climats secs et semi-arides, son empreinte hydrique est relativement faible. La culture de la nigelle est majoritairement traditionnelle, avec utilisation de fertilisants chimique ou naturels (manure) @___2016. Le principal impact est donc l'utilisation d'engraits à base de nitrogène, libérants des nitrates, de l'ammonium III, et du protoxyde d'azote -- ils augmentent ainsi la libération de gaz carbonique, et polluent l'eau sous-terraine @roussis_nitrogen_2022; mais aussi du transport des graines ou du produit cosmétique vers les pays d'import #footnote[En majorité européens, américains et chinois].
 
 === Extraction par pression à froid
-Cette méthode permet l'obtention du huile de haute qualité en préservant les actifs thermolabiles par un procédé purement mécanique. l'huile extraite par pression des graines a un impact naturel très faible, à la différence de l'extraction par solvant lipophile (comme l'hexane), qui a un meilleur rendement mais une empreinte écologique plus lourde @rahim_narrative_2022.
+Cette méthode permet l'obtention d'une huile de haute qualité en préservant les actifs thermolabiles par un procédé purement mécanique. L'huile extraite par pression des graines a un impact naturel très faible, à la différence de l'extraction par solvant lipophile (comme l'hexane), qui a un meilleur rendement mais une empreinte écologique plus lourde @rahim_narrative_2022.
 
 === Valorisation des co-produits
 Le tourteau de nigelle, résidu solide après pression, est le déchet restant après extraction de l'huile de nigelle. Riche en protéines, en fibres, et en minéraux, il est utilité comme alternative dans l'alimentation animale -- notamment bétail et volaille.
@@ -114,18 +116,18 @@ Une production menée en agriculture biologique garantie l'absence de pesticides
 == Bakuchiol
 
 === Culture
-le Bakuchiol (voir @bakuchiol) est une molécule contenue dans de nombreuses plantes #footnote[On retrouvera _Prosopis glandulosa, Otholobium pubescens, Pimelea drupacea, Ulmus davidiana, Piper longum, Aerva sanguinolenta, Fructus psoraleae, Psoralidium tenuiflorum, Bridelia retusa, Elaeagnus bockii, Spiraea formosana, et Nepeta angustifolia_ @adarsh_krishna_bakuchiol_2022] dont Cullen corylifolium L., plante native d'Amérique du sud, mais retrouvée aujourd'hui dans presque tous les continents -- Inde, Chine, et plus rarement au sud de l'Afrique.
+le Bakuchiol (voir @bakuchiol) est une molécule contenue dans de nombreuses plantes #[On retrouvera _Prosopis glandulosa, Otholobium pubescens, Pimelea drupacea, Ulmus davidiana, Piper longum, Aerva sanguinolenta, Fructus psoraleae, Psoralidium tenuiflorum, Bridelia retusa, Elaeagnus bockii, Spiraea formosana, et Nepeta angustifolia_ @adarsh_krishna_bakuchiol_2022] dont Psoralea corylifolium L., plante native d'Amérique du sud, mais retrouvée aujourd'hui dans presque tous les continents -- Inde, Chine, et plus rarement au sud de l'Afrique.
 
 === Procédé d'Extraction
-L'industrie privilégie presque exclusivement Cullen corylifolium, de part sa concentration plus grande en bakuchiol @khushboo_psoralea_2010,
-et peut avoir une teneur de plus de 6% en poids sec de la graine @adarsh_krishna_bakuchiol_2022. L'extraction se fait par solvant #footnote[Sont préférés en géneral les solvants lipophiles type ether de pétrole.], puis par purification par chromatographie: en effet, cette dernière étape est nécessaire afin d'enlever les composé phytotoxiques -- psoralène, isopsoralène, coumarines. Le choix du solvant détermine en grande partie l'impact environnemental: les solvants chimiques non-polaires sont en effet responsables d'une pollution des eaux et du sol, et sont inflammables, toxiques, volatiles @pal_emerging_2023: Les filières durables privilégient les solvants naturels @serna-vazquez_latest_2021 appelés *DES* (_solvant eutectique profond_), plus facilement synthétisables. Un extrait de racine de Polygonum cuspidatum est ainsi utilisé dans l'extraction de resveratrol, une molécule similaire au bakuchiol @sun_one-pot_2021. Néanmoins cela augmente les coûts de production, et les solvants naturels restent un sujet de recherche, ainsi qu'une méthode marginale @ma_review_2025.
+L'industrie privilégie presque exclusivement Psoralea corylifolium, de par sa concentration plus grande en bakuchiol @khushboo_psoralea_2010,
+et peut avoir une teneur de plus de 6% en poids sec de la graine @adarsh_krishna_bakuchiol_2022. L'extraction se fait par solvant #[--sont préférés en géneral les solvants lipophiles type ether de pétrole.], puis par purification par chromatographie: cette dernière étape est nécessaire afin d'enlever les composé phytotoxiques -- psoralène, isopsoralène, coumarines. Le choix du solvant détermine en grande partie l'impact environnemental: les solvants chimiques non-polaires sont en effet responsables d'une pollution des eaux et du sol, et sont inflammables, toxiques, volatiles @pal_emerging_2023: Les filières durables privilégient les solvants naturels @serna-vazquez_latest_2021 appelés *DES* (_solvant eutectique profond_), plus facilement synthétisables. Un extrait de racine de _Polygonum cuspidatum_ est ainsi utilisé dans l'extraction de resveratrol, une molécule similaire au bakuchiol @sun_one-pot_2021. Néanmoins cela augmente les coûts de production, et les solvants naturels restent un sujet de recherche, ainsi qu'une méthode marginale @ma_review_2025.
 
 
 #figure(
   caption: [
     Branche de Babchi
 
-    *Cullen corylifolium*
+    *Psoralea corylifolium*
 
     _Roxburgh, W., Icones Roxburgianae (Roxburgh Flora Indica drawings at Howrah, India) (1780-1815)_
     
@@ -141,17 +143,21 @@ et peut avoir une teneur de plus de 6% en poids sec de la graine @adarsh_krishna
 
 L'analyse comparative de ces ingrédients démontre que le concept de "naturalité" seul ne suffit pas à garantir un impact environnemental faible. Le bilan écologique réel dépend d'un ensemble de facteurs allant de la méthode de culture au procédé de transformation.
 
-#table(
-columns: (auto, auto, auto, auto),
-align: (left, center, center, center),
-table.header(
-[Ingrédient], [Problématique Principale], [Procédé d'Extraction Clé], [Alternative Durable Majeure]
-),
-[Aloe Vera], [Stress hydrique lié à la culture intensive], [Traitement du gel], [Culture biologique],
-[Centella Asiatica], [Surexploitation (cueillette sauvage)], [CO₂ supercritique], [Culture certifiée & équitable],
-[α-Bisabolol], [Déforestation et risque d'extinction], [Distillation vs. Fermentation], [Bio-fermentation, filière FSC],
-[Nigelle], [Usage d'intrants (engrais azotés)], [Pression à froid], [Culture biologique],
-[Bakuchiol], [Espèce menacée (surexploitation)], [Extraction par solvant vert], [Culture contrôlée, synthèse]
+#figure(
+  caption: [Contraintes écologiques des différentes plantes],
+  numbering: "I",
+  table(
+    columns: (auto, auto, auto, auto),
+    align: (left, center, center, center),
+    table.header(
+    [Ingrédient], [Problématique Principale], [Procédé d'Extraction Clé], [Alternative Durable Majeure]
+    ),
+    [Aloe Vera], [Stress hydrique lié à la culture intensive], [Traitement du gel], [Culture biologique],
+    [Centella Asiatica], [Surexploitation (cueillette sauvage)], [CO₂ supercritique], [Culture certifiée & équitable],
+    [α-Bisabolol], [Déforestation et risque d'extinction], [Distillation vs. Fermentation], [Bio-fermentation, filière FSC],
+    [Nigelle], [Usage d'intrants (engrais azotés)], [Pression à froid], [Culture biologique],
+    [Bakuchiol], [Espèce menacée (surexploitation)], [Extraction par solvant vert], [Culture contrôlée, synthèse]
+    )
 )
 
 Un ingrédient naturel issu d'une filière non maîtrisée peut avoir un impact plus négatif qu'une alternative biotechnologique: L'analyse du cycle de vie complet est indispensable, car les procédés post-récolte ont un poids écologique important. Les certifications (Biologique, FSC, Équitable) et l'innovation (chimie verte, biotechnologie) constituent les principaux éléments pour une industrie cosmétique plus durable. L'évaluation de l'impact écologique d'un ingrédient phytocosmétique exige donc une approche nuancée, et l'origine naturelle de ce dernier n'exclue pas un mode de production polluant. On se méfiera donc des cosmétiques utilisant le bisabolol sans certification de developpement durable (comme @Ecocert[Ecocert]), ou d'une crème à base de Centella non appouvée par @UEBT[L'UEBT], qui peut maintenir les cueilleurs de la plante dans la pauvreté.

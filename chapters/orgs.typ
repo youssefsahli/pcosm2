@@ -40,16 +40,20 @@ La RSPO a été établie en réponse aux impacts environnementaux de la culture 
 
 // Sourcer et donner un nom
 
-#table(
-columns: (auto, auto, auto),
-align: (left, left, left),
-table.header(
-[Organisme/Standard], [Portée de la Certification], [Positionnement et Critères Clés]
-),
-[COSMOS], [Produit fini (Holistique)], [Standard européen harmonisé; naturalité et biologique; deux niveaux.],
-[NATRUE], [Produit fini (Holistique)], [Approche stricte des procédés de transformation; trois niveaux.],
-[ISO 16128], [Calcul (Norme technique)], [Non un label; méthode de calcul jugée permissive par les acteurs historiques.],
-[IASC], [Mono-ingrédient (Qualité)], [Authenticité et pureté de l'Aloe vera; lutte contre la fraude.],
-[UEBT], [Filière d'ingrédient (Éthique)], [Commerce équitable et respect de la biodiversité.],
-[RSPO], [Filière d'ingrédient (Environnemental)], [Gestion durable de l'huile de palme; lutte contre la déforestation.]
+#figure(
+  caption: [Réferenciels],
+  numbering: "I",
+  table(
+    columns: (auto, auto, auto),
+    align: (left, left, left),
+    table.header(
+    [Organisme/Standard], [Portée de la Certification], [Positionnement et Critères Clés]
+    ),
+    [COSMOS], [Produit fini (Holistique)], [Standard européen harmonisé; naturalité et biologique; deux niveaux.],
+    [NATRUE], [Produit fini (Holistique)], [Approche stricte des procédés de transformation; trois niveaux.],
+    [ISO 16128], [Calcul (Norme technique)], [Non un label; méthode de calcul jugée permissive par les acteurs historiques.],
+    [IASC], [Mono-ingrédient (Qualité)], [Authenticité et pureté de l'Aloe vera; lutte contre la fraude.],
+    [UEBT], [Filière d'ingrédient (Éthique)], [Commerce équitable et respect de la biodiversité.],
+    [RSPO], [Filière d'ingrédient (Environnemental)], [Gestion durable de l'huile de palme; lutte contre la déforestation.]
+    )
 )

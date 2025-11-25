@@ -8,8 +8,9 @@
 
 == Méthodes choisies
 
-Au cours de ce travail, l'attention est portée sur plusieurs plantes dont les actifs rentrent dans la composition des cosmétiques. J'ai voulu savoir si des articles scientifiques validaient les allégations des laboratoires.
-La recherche de ces plantes s'est effectuée par une exploration de la littérature scientifique sur 3 mois: les mots-clés utilisés, en anglais et en français, incluaient les noms des plantes et des actifs (Bakuchiol, Centella asiatica, Madecassoside, Bisabolol, Nigella sativa, Thymoquinone, Aloe vera, Acemannan) combinés à des termes relatifs à la dermatologie et la cosmétologie (dermatology, skin, acne, aging, wound healing, atopic dermatitis, cosmetics).
+Au cours de ce travail, l'attention est portée sur plusieurs plantes dont les actifs rentrent dans la composition de nombreux cosmétiques. J'ai voulu savoir si des articles scientifiques validaient les allégations des laboratoires.
+La recherche de ces plantes s'est effectuée par une exploration de la littérature scientifique sur trois mois: les mots-clés utilisés, en anglais et en français, incluaient les noms des plantes et des actifs (Bakuchiol, Centella asiatica, Madecassoside, Bisabolol, Nigella sativa, Thymoquinone, Aloe vera, Acemannan) combinés à des termes relatifs à la dermatologie et la cosmétologie (dermatology, skin, acne, aging, wound healing, atopic dermatitis, cosmetics).
+
 J'ai retenu les publications qui répondaient aux critères suivants : articles publiés au cours des 10 dernières années (2015-2025) pour garantir la pertinence des données, études in vitro, in vivo et essais cliniques, ainsi que des méta-analyses et des revues systématiques. La priorité a été donnée aux articles publiés dans des journaux à comité de lecture.
 
 Les cinq actifs présentés ont été sélectionnés sur la base de trois critères cumulatifs :
@@ -26,6 +27,17 @@ Le bakuchiol est un des nombreux composants de la _Psoralea corylifolia_ @alam_p
 _Cullen corylifolium, ou Babchi_ —, extrait par pulvérisation de la graine — La graine du _Psoralea_ --, puis par dissolution dans de l'éther de pétrole @_bakuchiol_2016.
 Le bakuchiol à l'effet _rétinol-like_ -- anti-inflammatoire, anti-oxydant, anti-vieillissement a une place de plus en plus importante dans le marché des crèmes de nuit @noauthor_global_nodate.
 C'est l'un des nombreux composés retrouvé dans le fruit, riche en phénols, flavonoïdes, coumarines, et terpénoïdes. Isolé en 1972, par extraction via solvant lipophile, on lui découvre des propriétés anti-staphylocoques @alam_psoralea_2018. D'autres éléments comme le _psoralène_, dérivé coumarinique, a longtemps été utilisé en association avec l'UV-thérapie dans les dermatoses inflammatoires, avec comme chef de file le psoriasis @richard_science_2020.
+
+
+#figure(
+  caption: [
+    Roxburgh, W., Icones Roxburgianae (Roxburgh Flora Indica drawings at Kew) (1780-1815)
+  ],
+  image(
+    "img/psoralea2.png",
+    height: 50%
+  )
+)
 
 Souvent comparé aux rétinoïdes @sivamani_cosmetic_2022, il a pourtant une meilleure tolérance cutanée, et son action immuno-modulatrice et anti-microbienne permettrait un soin moins contraignant de l'acné @greenzaid_use_2022.
 
@@ -63,6 +75,16 @@ Centella asiatica (L.) Urb., appelée « gotu kola » ou « herbe du tigre », e
 // Célébrée depuis plus de deux millénaires dans les pharmacopées ayurvédique, tantrique et chinoise pour traiter diverses dermatoses @torbati_ethnobotany_2021., elle fait désormais figure d’actif star en dermo‑cosmétologie sous l’appellation populaire « Cica ».
 L'extraction de ses principes actifs se fait par macération puis filtration: Les tiges et feuilles de Centella asiatica sont mises à tremper plusieurs jours dans un mélange propylène‑glycol/eau ; le marc est ensuite égoutté puis pressé, et le filtrat soumis à une micro‑filtration stérilisante @idris_comparative_2021.
 
+#figure(
+  caption: [
+    Banks, J., Solander, D., James, Illustrations of Australian plants (1900-1905)
+  ],
+  image(
+    "img/centella2.png",
+    height: 50%
+  )
+)
+
 Les parties aériennes de C. asiatica concentrent un ensemble de triterpènes pentacycliques — asiaticoside, madecassoside, acide asiatique et acide madecassique — auxquels s’ajoutent flavonoïdes et tanins. Les saponines asiaticoside et madecassoside stimulent la prolifération fibroblastique, l’angiogenèse et la synthèse de collagène de types I et III, accélérant ainsi la réparation tissulaire et la cicatrisation des plaies @park_pharmacological_2021. Parallèlement, ces composés exercent une action antioxydante et anti‑inflammatoire démontrée, notamment via l’inhibition de NF‑κB et la modulation de TNF‑α et IL‑6 @diniz_centella_2023.
 
 En cosmétique, les extraits titrés (« TECA » pour Titrated Extract of C. asiatica) s’intègrent dans des crèmes dites « cicatrisantes » pour renforcer la barrière cutanée, réduire la @TEWL et apaiser rougeurs ou prurit des peaux sensibles. Une étude clinique récente (2025) montre qu’une essence enrichie en madecassoside améliore significativement l’hydratation, l’élasticité et l’uniformité pigmentaire après 28 jours d’application @chang_evaluation_2025. De plus, l’incorporation d’asiaticoside dans des _nanoscaffolds (nano-échaffaudages)_ ou des pansements à microaiguilles accroît sa biodisponibilité et ouvre des perspectives pour la prise en charge des ulcères du pied diabétique @razif_asiaticoside-loaded_2025 et des cicatrices hypertrophiques @kumar_nanotechnology-driven_2024.
@@ -74,7 +96,7 @@ L’innocuité cutanée de C. asiatica est globalement élevée ; cependant, que
 
 === Indications
 
-La Centella asiatica est indiquée pour favoriser la réparation tissulaire, notamment dans les suites de dermabrasions, de cicatrices superficielles ou de dermatites irritatives. Elle est utilisée dans les soins de l’eczéma léger, des peaux sèches et des états inflammatoires modérés. Son efficacité repose sur la stimulation fibroblastique, l’inhibition des métalloprotéinases et la modulation de l’inflammation locale @hein_centella_2025.
+Centella asiatica est indiquée pour favoriser la réparation tissulaire, notamment dans les suites de dermabrasions, de cicatrices superficielles ou de dermatites irritatives. Elle est utilisée dans les soins de l’eczéma léger, des peaux sèches et des états inflammatoires modérés. Son efficacité repose sur la stimulation fibroblastique, l’inhibition des métalloprotéinases et la modulation de l’inflammation locale @hein_centella_2025.
 
 === Types de peau concernés
 
@@ -97,14 +119,21 @@ Centella asiatica peut être utilisée en toute sécurité chez l’enfant (à p
 
 Aussi appelé *levomenol*, l'α-Bisabolol fut isolé au XX#super[ème] siècle à partir de Matricaria chamomilla de la famille des Asteraceaes -- aussi appelée Matricaire ou Camomille allemande. Espèce largement distribuée à travers le monde (en Asie, Europe, Afrique du Nord), on la retrouve à l'état sauvage en France, mais aussi en culture en Europe de l'Est et en Inde @singh_chamomile_2011. Contrairement aux autres camomilles #footnote[[Chamaemelum nobile], la camomille romaine et [Tanacetum parthenium], la grande camomille], c'est une plante annuelle, utilisée depuis l'Antiquité pour son effet anti-inflammatoire, sédatif, et anti-bactérien. 
 
+#figure(
+  caption: [Lindman, C.A.M., Bilder ur Nordens Flora],
+  image(
+    "img/matricaria2.png",
+    height: 50%,
+  )
+)
+
 // Différents isomères existent. L'α-Bisabolol est le plus abondant dans l'huile essentielle de [Matricaria chamomilla]#footnote[L'huile essentielle peut contenir plus de 40% de cette molécule]. Le β-Bisabolol -- qui diffère dans la position des insaturations -- est beaucoup plus rare. Le mélange racémique [(+)- and (−)-α-bisabolol] est le plus souvent retrouvé dans les formulations commerciales @noauthor_bisabolol_nodate. 
 
 Plante médicinale à l’usage millénaire, Matricaria chamomilla est riche en sesquiterpènes et flavonoïdes, dont l’α-bisabolol constitue un constituant majeur de son huile essentielle. Ce composé lipophile est un alcool monocyclique de type sesquiterpénique, de formule brute C₁₅H₂₆O, possédant une activité anti-inflammatoire, antibactérienne et apaisante documentée in vitro comme in vivo @tai_biosynthesis_2023. Il inhibe notamment la synthèse de prostaglandines en réduisant l’activité de la @COX-2, et bloque l’expression de médiateurs inflammatoires via une inhibition de la voie @VoieNFkB @kim_inhibitory_2011. 
 
 Il est relativement bien toléré, avec une faible incidence d’irritation cutanée, ce qui explique sa large utilisation dans les soins pour peaux sensibles, atopiques ou érythémateuses. Des cas d'allergies de contact existent malgré tout. 
 
-// TODO revoir
-Le bisabolol est la plupart du temps d'origine naturelle, idéalement de la camomille, mais est le plus souvent pour des raisons économiques extrait de _Vanillosmopsis erythropappa_. Il peut aussi être obtenu par voie semi-synthétique ou via la distillation de bois de _Vanillosmopsis erythropappa_ au Brésil, arbre appartenant à la famille des Asteraceae, bien que cette origine soulève des problématiques écologiques liées à la surexploitation forestière @sandasi_untargeted_2012.
+Le bisabolol est la plupart du temps d'origine naturelle, idéalement extrait de la camomille, mais est le plus souvent pour des raisons économiques extrait de _Vanillosmopsis erythropappa_, arbre brésilien appartenant aux _Asteraceae_ bien que cette origine soulève des problématiques écologiques liées à la surexploitation forestière @sandasi_untargeted_2012. Il peut aussi être obtenu par voie semi-synthétique.
 
 Bien qu'utilisé depuis de nombreuses années par les industriels cosmétiques, de nouvelles propriétés pharmacodynamiques sont répertoriées avec le temps @ramazani_pharmacological_2022. L'activité *antioxydante* fut déterminée par réduction des @ROS et de @RNS. Le @MDA, marqueur de la peroxydation lipidique est diminué. Enfin, le bisabolol diminue la libération de cytokines pro-inflammatoires -- @IL-1, @IL-6, @TNF-α --, de médiateurs associés -- @COX-2, @iNOS et augmente l'expression d'enzymes protectrices -- @SOD, @CAT -- @eddin_health_2022.  L'effet anti-apoptotique #footnote[Effet déclenché par UV, mais aussi par vieillissement] est dû à une régulation d'expression positive de bcl-2 (stabilisateur de membrane), et en diminuant l'expression de bax, P53, de la caspase-3, et de l'apoptosome [APAF-1 - caspase-9].
 Il diminue l'activité anti-inflammatoire.
@@ -135,6 +164,15 @@ L’α-Bisabolol est *autorisable dès la naissance* en usage externe, sous rés
 == Nigella sativa (huile) <nigella>
 
 Nigella sativa, plus communément connue sous le nom de cumin noir, est une plante de la famille des Ranunculaceae dont les graines sont utilisées depuis l'Antiquité dans les médecines traditionnelles du Moyen-Orient et de l'Asie du Sud. L'huile extraite des graines — riche en acides gras insaturés (acide linoléique, oléique) — contient aussi un composé phare, la *thymoquinone*, reconnu pour ses effets antioxydants et anti-inflammatoires puissants. Elle est extraite à froid, afin de préserver l’intégrité des composés liposolubles et d’éviter leur oxydation thermique @yimer_nigella_2019.
+
+#figure(
+  caption: [Wilhelm, G.T., Unterhaltungen aus der Naturgeschichte des Pflanzenreichs (1792-1828)],
+  // image("img/nigella2.png")
+  image(
+    "nigella3.png",
+    height: 50%
+  )
+)
 
 La macération au n‑hexane est une méthode classique et efficace pour extraire la thymoquinone contenue dans les graines de Nigella sativa. Elle consiste à laisser macérer la poudre de graines (généralement passées à un tamis ≥ 60 mesh) dans un excès de n‑hexane à température ambiante pendant 12–24 h, sans chauffage. Cette étape permet de solubiliser les composés lipophiles, dont la TQ, tout en limitant leur dégradation thermique. Après filtration, l’évaporation du solvant en rotavapor à environ 40–50 °C délivre un extrait huileux enrichi en thymoquinone : son contenu peut atteindre 18,5 % après 24 h de macération @kadam_extraction_2017.
 

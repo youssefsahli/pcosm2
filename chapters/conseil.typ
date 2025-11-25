@@ -8,14 +8,15 @@
   #set par(justify: false)
   *Seconde Partie: *
   
-  Mise en Pratique
+  Mise en Pratique en officine
   
 ]
+#counter(heading).update(0)
 #pagebreak(weak: false)
 = Conseils à l'officine
 
 #[
-  Face à une demande croissante pour des soins dermo-cosmétiques d'origine végétale, le pharmacien d'officine est en première ligne pour guider le patient vers des solutions à la fois sûres et adaptées. En supplément des crèmes plus classiques, noux allons examiner l'intérêt des plantes étudiées selon les cas cliniques retrouvés au comptoir, et personnaliser le conseil donné selon trois paramètres particuliers: le type de peau, l'indication clinique, et enfin certaines spécificités à prendre en compte, notamment les enfants et femmes enceintes.
+  Face à une demande croissante pour des soins dermo-cosmétiques d'origine végétale, le pharmacien d'officine est en première ligne pour guider le patient vers des solutions à la fois sûres et adaptées. En supplément des crèmes plus classiques, nous allons examiner l'intérêt des plantes étudiées selon les cas cliniques retrouvés au comptoir, et personnaliser le conseil donné selon trois paramètres particuliers: le type de peau, l'indication clinique, et enfin certaines spécificités à prendre en compte, notamment les enfants et femmes enceintes.
 ] <intro>
 
 == Approche par types de peau

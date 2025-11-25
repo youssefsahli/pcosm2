@@ -71,10 +71,9 @@
 [*Mme Bénedicte PERETON*],
 [],
 [*Jury:*], [], [],
-[Président:], [*Mme Bénedicte PERETON*],[Maître de conférence associé, #linebreak() UFR Pharmacie de Clermont-Ferrand],
-[Membres:], 
-[*Mme Marie Ange CIVIALE*],
-[Maître de conférence, #linebreak() UFR Pharmacie de Clermont-Ferrand],
+[Président:], [*Mme Marie Ange CIVIALE*],
+[Maître de conférences, #linebreak() UFR Pharmacie de Clermont-Ferrand],
+[Membres:], [*Mme Bénedicte PERETON*],[Maître de conférences associé, #linebreak() UFR Pharmacie de Clermont-Ferrand],
 [], [*Mme Floriane WARTEL*],
 [Pharmacien d'officine, #linebreak() Pharmacie Plaidy, Vichy],
 )

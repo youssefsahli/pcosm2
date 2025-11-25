@@ -100,7 +100,7 @@
 )
 
 #glossary(
-  title: [*Table des abbréviations*],
+  title: [*Liste des abréviations*],
   theme: T1,
   show-all: false,
   groups: ("")

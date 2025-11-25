@@ -7,7 +7,7 @@
   #set par(justify: false)
   *Première Partie: *
   
-  Étude des cosmétiques sur la peau
+  Intérêts des phytocomposants sur la peau
   
 ]
 #pagebreak(weak: false)

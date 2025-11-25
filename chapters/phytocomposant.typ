@@ -41,6 +41,6 @@ Les polysaccharides sont des macromolécules composées de longues chaînes d'un
 
 On distingue notamment :
 
-Les mucilages : Présents par exemple dans l'Aloe vera (acémannane), ils possèdent des vertus apaisantes et hydratantes @grindlay_aloe_1986 @cha_efficacy_2022.
+- Les *mucilages* : Présents par exemple dans l'Aloe vera (acémannane), ils possèdent des vertus apaisantes et hydratantes @grindlay_aloe_1986 @cha_efficacy_2022.
 
-Les gommes et amidons : Utilisés comme agents de texture ou gélifiants naturels, ils ont pour but de modifier la rhéologie de la formulation. Ils ont donc un rôle organoleptique.
+- Les *gommes et amidons* : Utilisés comme agents de texture ou gélifiants naturels, ils ont pour but de modifier la rhéologie de la formulation. Ils ont donc un rôle organoleptique.

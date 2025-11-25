@@ -16,12 +16,22 @@ Cliniquement, il se traduit par une atrophie cutanée, une perte de fermeté, l�
 On distingue deux formes majeures de vieillissement cutané :
 
 - le *vieillissement intrinsèque*, déterminé génétiquement, lent et uniforme, affectant l’ensemble du corps ;
-- le *vieillissement extrinsèque*, accéléré par les expositions environnementales — UV, pollution, tabac — et responsable du photo-vieillissement @huang_photoaging_2020.
+- le *vieillissement extrinsèque ou exposome*, accéléré par les expositions environnementales — UV, pollution, tabac — et responsable du photo-vieillissement @huang_photoaging_2020.
 
 Ces deux processus sont interdépendants : les expositions extérieures exacerbent les mécanismes endogènes via la production de @ROS et l’activation de voies inflammatoires. Le concept de *“skin inflammaging”* (vieillissement inflammatoire chronique de bas grade) rend compte de cette interaction durable entre environnement et vieillissement physiologique @rinnerthaler_oxidative_2015.
 
 // Les sections suivantes détaillent les mécanismes moléculaires et histologiques impliqués, et serviront de base à l’analyse des cibles thérapeutiques abordées dans les chapitres ultérieurs.
 
+== Facteurs influençant le vieillissement cutané
+
+La physiologie cutanée est soumise à une interaction complexe de facteurs intrinsèques et extrinsèques, définissant la qualité de la peau au cours du temps.
+
+1.  *L'Exposome (Facteurs externes) :* Il inclut l'exposition solaire (UV) @krutmann_skin_2017, la pollution, ainsi que les habitudes cosmétiques (nettoyage, hydratation, maquillage) @lee_different_2019.
+2.  *Facteurs internes :* L'âge, le profil hormonal et les facteurs neurologiques (stress, anxiété) modulent les capacités régénératives et l'activité des glandes annexes @oranges_skin_2015.
+
+L'accumulation de ces contraintes engendre un stress oxydatif, principalement médié par les espèces réactives de l'oxygène (@ROS), dont la production est exacerbée par les UV @rinnerthaler_oxidative_2015. Ces @ROS dégradent les lipides et protéines cellulaires @bonta_process_2013, entraînant une sénescence et une altération de la structure cutanée (le _matreotype_). Ce vieillissement, ou _chronological aging_ @shin_skin_2023, se traduit cliniquement par une peau plus fine @kazanci_analyses_2017, moins élastique @benoit_proteome-centric_2023 et plus vulnérable aux infections @ho_faces_2021.
+
+#pagebreak(weak: true)
 
 
 == Vieillissement intrinsèque
@@ -65,6 +75,14 @@ caption: [Exposomes agissant sur la peau]
 
 ==== Rayonnements ultraviolets
 Les rayonnements UV, notamment les UVB (280–320 nm) et les UVA (320–400 nm), initient une cascade de dommages moléculaires. Les UVB, plus énergétiques, sont absorbés par l'épiderme où ils provoquent des lésions directes de l'ADN, telles que la formation de mutations cellulaires. Les UVA, qui pénètrent jusqu'au derme profond, agissent principalement de manière indirecte en générant des @ROS. Cette production massive de radicaux libres submerge les défenses antioxydantes endogènes et active des voies de signalisation pro-inflammatoires et dégradatives. L'activation de facteurs de transcription comme AP-1 (Activator Protein-1) et NF-κB (Nuclear Factor-kappa B) via la cascade des kinases p38 MAPK (Mitogen-Activated Protein Kinase) conduit à une surexpression des @MMP:pl, notamment la collagénase (MMP-1), les gélatinases (MMP-9) et la stromélysine (MMP-3). Ces enzymes sont responsables de la fragmentation du collagène de type I et III et de la dégradation de la matrice extracellulaire @cadet_solar_2015 @kim_uvb-mediated_2022 @watson_damage_2014.
+
+#figure(
+  caption: [Coupe de peau humaine avec élastose solaire @park_english_2016],
+  image(
+    "/img/elastosis.jpg",
+    width: 60%
+  )
+)
 
 ==== Habitudes de vie et autres facteurs
 Les habitudes de vie modulent également ce vieillissement. Le tabagisme exerce une ischémie chronique par la vasoconstriction induite par la nicotine, inhibe la prolifération des fibroblastes et augmente l'activité des MMP @helfrich_effect_2007. Il est aussi associé à une réduction de la vascularisation cutanée, à une altération de la réparation tissulaire, et à une dégradation accélérée du collagène @puri_effects_2017.
@@ -133,7 +151,7 @@ Les altérations observées au cours du vieillissement cutané résultent en gra
   ),
 )
 
-#pagebreak(weak: true)
+// #pagebreak(weak: true)
 
 === MAPK : ERK, JNK, p38
 
@@ -174,7 +192,7 @@ Ces voies régulatrices du métabolisme et de la longévité sont altérées ave
 
 Le vieillissement cutané s’accompagne d’une altération progressive de la fonction barrière, affectant à la fois la structure de la couche cornée, la composition lipidique intercellulaire et l’équilibre du microbiote cutané.
 
-Sur le plan histologique, on observe une *amincissement de la couche cornée*, une *désorganisation du ciment lipidique* (céramides, cholestérol, acides gras libres), et une *baisse de la cohésion des cornéocytes*. Ces modifications entraînent une augmentation de la @TEWL et une diminution de l’hydratation de surface.
+Sur le plan histologique, on observe un *amincissement de la couche cornée*, une *désorganisation du ciment lipidique* (céramides, cholestérol, acides gras libres), et une *baisse de la cohésion des cornéocytes*. Ces modifications entraînent une augmentation de la @TEWL et une diminution de l’hydratation de surface.
 
 La production de filaggrine et d’involucrine — protéines majeures de la différenciation kératinocytaire — est réduite, compromettant l'intégrité de la barrière mécanique. Par ailleurs, le pH cutané tend à s’élever, diminuant l’activité des enzymes lipidiques essentielles et favorisant la prolifération de pathogènes opportunistes @bay_aging_2023.
 

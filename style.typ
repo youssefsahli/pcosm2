@@ -94,13 +94,14 @@
   }
 
   show <box>: b => {
-    rect(
-        radius: 5pt,
-        inset: 1em,
-        fill: gray.transparentize(94%).lighten(50%),
-        stroke: gray.transparentize(90%).lighten(60%),
-        b
-      )
+    // rect(
+    //     radius: 5pt,
+    //     inset: 1em,
+    //     fill: gray.transparentize(94%).lighten(50%),
+    //     stroke: gray.transparentize(90%).lighten(60%),
+    //     b
+    //   )
+    b
   }
 
   show <remove>: r => none
