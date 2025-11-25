@@ -57,7 +57,7 @@
   v(3em)
   align(center)[  
   Intérêt de certains principes actifs végétaux en dermo-cosmétologie:
-  _focus sur le gel d'aloé vera, le bisabolol, le bakuchiol, Centella asiatica, et Nigella sativa _
+  _focus sur le gel d'aloé vera, le bisabolol, le bakuchiol, le madécassoside, et la thymoquinone _
   ]  
   v(2em)
 }

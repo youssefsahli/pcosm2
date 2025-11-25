@@ -68,7 +68,7 @@ Bien que généralement bien toléré, des réactions érythémateuses peuvent s
 // SOURCES ? TODO
 Contrairement au rétinol, le bakuchiol ne présente pas de contre-indication connue chez la femme enceinte ou allaitante, ce qui justifie son intégration dans des gammes cosmétiques maternité. Il est particulièrement indiqué dès 25–30 ans pour une stratégie préventive du vieillissement cutané. L’usage chez l’enfant n’est pas justifié et doit être évité en l’absence de données cliniques suffisantes.
 
-== Centella asiatica (Extraits des feuilles et tiges) <centella>
+== Extraits des feuilles et tiges de Centella asiatica <centella>
 
 Centella asiatica (L.) Urb., appelée « gotu kola » ou « herbe du tigre », est une petite plante herbacée vivace de la famille des Apiaceae, native des zones marécageuses d’Asie du Sud‑Est et aujourd’hui cultivée dans la plupart des régions tropicales. 
 // TODO: MADECASSOL
@@ -161,9 +161,9 @@ Bien que très bien toléré, de *rares cas d’hypersensibilité croisée* ont 
 
 L’α-Bisabolol est *autorisable dès la naissance* en usage externe, sous réserve d’une formule douce et exempte d’irritants. Il est également *sûr chez la femme enceinte* et peut être intégré dans les soins de dermatites légères chez les sujets immunodéprimés. Son excellent *profil de tolérance cutanée* en fait un actif clef dans les soins dermo-pédiatriques et post-actes esthétiques @andersen_final_1999.
 
-== Nigella sativa (huile) <nigella>
+== L'huile de Nigella sativa <nigella>
 
-Nigella sativa, plus communément connue sous le nom de cumin noir, est une plante de la famille des Ranunculaceae dont les graines sont utilisées depuis l'Antiquité dans les médecines traditionnelles du Moyen-Orient et de l'Asie du Sud. L'huile extraite des graines — riche en acides gras insaturés (acide linoléique, oléique) — contient aussi un composé phare, la *thymoquinone*, reconnu pour ses effets antioxydants et anti-inflammatoires puissants. Elle est extraite à froid, afin de préserver l’intégrité des composés liposolubles et d’éviter leur oxydation thermique @yimer_nigella_2019.
+Nigella sativa, plus communément connue sous le nom de _cumin noir_, est une plante de la famille des _Ranunculaceae_ dont les graines sont utilisées depuis l'Antiquité dans les médecines traditionnelles du Moyen-Orient et de l'Asie du Sud. L'huile extraite des graines — riche en acides gras insaturés (acide linoléique, oléique) — contient aussi un composé phare, la *thymoquinone*, reconnu pour ses effets antioxydants et anti-inflammatoires puissants. Elle est extraite à froid, afin de préserver l’intégrité des composés liposolubles et d’éviter leur oxydation thermique @yimer_nigella_2019.
 
 #figure(
   caption: [Wilhelm, G.T., Unterhaltungen aus der Naturgeschichte des Pflanzenreichs (1792-1828)],
@@ -229,9 +229,23 @@ Du fait de sa teneur en composés volatils oxydables, l’huile de nigelle peut 
 
 L’usage *chez le nourrisson est déconseillé*, même en application locale. Chez la *femme enceinte*, son usage per os est formellement proscrite, mais une *application locale ciblée et modérée* reste envisageable avec prudence (formules diluées, usage localisé) @laadraoui_effect_2025. Chez les patients atopiques, une *tolérance cutanée variable* impose une prudence initiale, avec préférence pour des formules testées sous contrôle dermatologique.
 
-== Aloe Vera <aloevera>
+== Gel d'Aloe Vera <aloevera>
 
 *Aloe vera* (syn. *Aloe barbadensis Miller*) est une plante succulente de la famille des Asphodelaceae, largement cultivée dans les régions arides et semi-arides pour son gel mucilagineux à usage médicinal et cosmétique. Elle possède des feuilles épaisses, lancéolées, bordées d'épines molles, contenant un parenchyme central translucide — le "gel" — et une sève périphérique riche en anthraquinones appelée "latex" @grindlay_aloe_1986.
+
+#figure(
+  caption: [
+    *Aloé vera*
+
+    
+    _Salm-Reifferscheidt-Dyck [Salm-Dyck], J.M.F.A.H.I., Monographia generum Aloes et Mesembryanthemi (1849-1863)_
+  ],
+  image(
+    "../img/aloe2.jpg",
+    height: 50%
+  ),
+)
+
 
 Il convient de distinguer strictement le gel (parenchyme interne) du latex (sève subcorticale), ce dernier étant riche en aloïne — anthracénoside purgatif — et généralement exclu des préparations cosmétiques par des procédés de purification spécifiques .
 

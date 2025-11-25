@@ -63,7 +63,7 @@ En réponse à la surexploitation, des filières de culture durables sont apparu
 
 == α-Bisabolol
 
-=== Sources
+=== Candeia erythropappa
 L'α-bisabolol provient de trois différents processus: une extraction de plante (origine naturelle), une synthèse à base de précurseurs pétro-chimiques, ou une biofermentation par l'utilisation de souches microbiologiques (Saccharomyces cerevisiae). La synthèse chimique à partir de farnesol, quant à elle, produit un mélange racémique moins actif @jiang_engineering_2023. la bio-fermentation, méthode encore nouvelle, reste une méthode marginale prometteuse @son_enantioselective_2014, mais avec ses inconvénients en terme d'écologie (voir @biofermentation-bisobolol).
 
 L'industrie privilégie la source naturelle, par exploitation du Candeia, aussi appelé Vanillomopsis erythropappa @tai_biosynthesis_2023.
@@ -115,7 +115,7 @@ Une production menée en agriculture biologique garantie l'absence de pesticides
 
 == Bakuchiol
 
-=== Culture
+=== Psoralea corylifolium
 le Bakuchiol (voir @bakuchiol) est une molécule contenue dans de nombreuses plantes #[On retrouvera _Prosopis glandulosa, Otholobium pubescens, Pimelea drupacea, Ulmus davidiana, Piper longum, Aerva sanguinolenta, Fructus psoraleae, Psoralidium tenuiflorum, Bridelia retusa, Elaeagnus bockii, Spiraea formosana, et Nepeta angustifolia_ @adarsh_krishna_bakuchiol_2022] dont Psoralea corylifolium L., plante native d'Amérique du sud, mais retrouvée aujourd'hui dans presque tous les continents -- Inde, Chine, et plus rarement au sud de l'Afrique.
 
 === Procédé d'Extraction

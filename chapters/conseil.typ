@@ -39,9 +39,9 @@
 
 Les peaux sèches présentent une production sébacée insuffisante et une barrière cutanée altérée @fluhr_global_2024; il en résulte une augmentation de la @TEWL et une desquamation accrue @yonezawa_relationship_2023. Le conseil s’oriente vers des actifs humectants, relipidants  ou filmogènes.
 
-- *Aloe vera* : ses polysaccharides (notamment l’acémannane) exercent une action hygroscopique et filmogène, réduisant la @TEWL. Il convient de recommander des gels purs stabilisés (>95 %) ou des émulsions hydratantes enrichies.
+- *Les polysacharrides d'Aloe vera* : ses polysaccharides (notamment l’acémannane) exercent une action hygroscopique et filmogène, réduisant la @TEWL. Il convient de recommander des gels purs stabilisés (>95 %) ou des émulsions hydratantes enrichies.
 
-- *Centella asiatica* : ses triterpènes (madecassoside, acide asiatique) stimulent la synthèse de collagène et renforcent l'intégrité de la jonction dermo-épidermique. Préférer des crèmes riches à base de TECA.
+- *Les triterpènes de Centella asiatica* : ces triterpènes (madecassoside, acide asiatique) stimulent la synthèse de collagène et renforcent l'intégrité de la jonction dermo-épidermique. Préférer des crèmes riches à base de TECA.
 
 - *α-Bisabolol* : par son action apaisante et anti-inflammatoire, il limite l’irritabilité des peaux sèches réactives. On le retrouve dans des laits corporels ou crèmes émollientes adaptées aux peaux atopiques.
 
@@ -53,7 +53,7 @@ Ces peaux sont marquées par une hyperséborrhée, une prolifération bactérien
 
 - *Bakuchiol* : actif « rétinol-like », il régule la différenciation kératinocytaire et réduit l’activité de *C. acnes* tout en inhibant @VoieNFkB. À recommander sous forme de sérums ou crèmes légères, à 0,5–1 %.
 
-- *Nigella sativa* : l’huile contient de la thymoquinone, aux effets anti-inflammatoires et antibactériens. Appliquer en local ou dans des soins de nuit spécifiques au cuir chevelu ou à l'acné corporelle. Privilégier des formules non grasses ou combinées à des excipients séborégulateurs.
+- *La thymoquinone extraite de l'huide de Nigella sativa* : Effets anti-inflammatoires et antibactériens. Appliquer en local ou dans des soins de nuit spécifiques au cuir chevelu ou à l'acné corporelle. Privilégier des formules non grasses ou combinées à des excipients séborégulateurs.
 
 
 
@@ -63,9 +63,9 @@ Caractérisées par une hyperexcitabilité neurosensorielle et une fragilité de
 
 - *α-Bisabolol* : son action inhibitrice sur les médiateurs inflammatoires (@TNF-α, @IL-1, @COX-2) en fait un apaisant de référence, y compris post-acte ou en dermatite atopique.
 
-- *Centella asiatica* : elle réduit les rougeurs et renforce la tolérance cutanée. Préférer les formulations sans parfum et sans alcool.
+- *Les triterpènes de Centella asiatica* : elle réduit les rougeurs et renforce la tolérance cutanée. Préférer les formulations sans parfum et sans alcool.
 
-- *Aloe vera* : l’effet rafraîchissant du gel, associé à son innocuité, le rend pertinent pour calmer les sensations d’échauffement ou de tiraillement.
+- *Les polysacharrides d'Aloe vera* : l’effet rafraîchissant du gel, associé à son innocuité, le rend pertinent pour calmer les sensations d’échauffement ou de tiraillement.
 
 === Peaux matures ou photo-vieillies
 
@@ -73,7 +73,7 @@ Elles présentent une perte d’élasticité, des rides, une diminution de l’a
 
 - *Bakuchiol* : en activant les @RAR et @RXR sans les effets irritants des rétinoïdes, il améliore le grain de peau et la densité dermique. À intégrer dans les routines nocturnes.
 
-- *Centella asiatica* : la stimulation de la synthèse de collagène de type I et III, associée à son action anti-MMP, en fait un composant clé des soins anti-âge.
+- *Les triterpènes de Centella asiatica* : la stimulation de la synthèse de collagène de type I et III, associée à son action anti-MMP, en fait un composant clé des soins anti-âge.
 
 === Peaux déhydratées
 
@@ -112,7 +112,7 @@ La peau déshydratée est une condition transitoire caractérisée par un manque
 
 La réparation cutanée nécessite des actifs stimulant la prolifération cellulaire, la synthèse de collagène et l’angiogenèse, tout en limitant l’inflammation.
 
-- *Centella asiatica* : ses triterpènes (asiaticoside, acide madecassique) activent TGF-β1 et les fibroblastes, favorisant une cicatrisation dermique de qualité @park_pharmacological_2021.
+- *Les triterpènes de Centella asiatica* : ses triterpènes (asiaticoside, acide madecassique) activent TGF-β1 et les fibroblastes, favorisant une cicatrisation dermique de qualité @park_pharmacological_2021.
 
 - *Aloe vera* : l’acémannane stimule la migration kératinocytaire et la synthèse matricielle ; à recommander sous forme de gels purs pour plaies non infectées ou brûlures légères.
 
@@ -122,7 +122,7 @@ Les états inflammatoires mineurs (érythèmes, irritations, coups de soleil) n�
 
 - *α-Bisabolol* : inhibiteur de @COX-2, @IL-1, @IL-6, @VoieNFkB ; recommandé pour les soins après-soleil, rasages ou épilations.
 
-- *Centella asiatica* : action anti-rougeurs via modulation de l’@IL-6, idéale en association avec des agents filmogènes.
+- *Les triterpènes de Centella asiatica* : action anti-rougeurs via modulation de l’@IL-6, idéale en association avec des agents filmogènes.
 
 === Eczéma ou dermatite atopique
 

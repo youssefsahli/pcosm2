@@ -28,7 +28,7 @@ Les terpénoïdes sont la classe la plus vaste et diverse des métabolites secon
 On retrouvera dans cette thèse:
 
 - Le *bisabolol*, alcool sesquiterpénique
-- *Centella asiatica*, qui contient des saponosides triterpéniques (asiaticoside, madécassoside notamment)
+- *les madécassosides de Centella asiatica*, qui contiennent des saponosides triterpéniques (asiaticoside, madécassoside notamment)
 - Le *bakuchiol*, un méroterpène à la structure plus complexe. Il est reconnu comme un analogue fonctionnel du rétinol
 - La *thymoquinone*, un monoterpène anti-oxydant et anti-inflammatoire
 
