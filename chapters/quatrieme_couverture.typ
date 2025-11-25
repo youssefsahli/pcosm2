@@ -48,20 +48,26 @@
     *Mots-clés :*
     #v(0.8em)
     
-    // Utilisation de #grid pour forcer l'alignement en lignes et colonnes
     #grid(
-      columns: (1fr, 1fr, 1fr), // 3 colonnes de largeur égale
-      row-gutter: 0.8em,        // Espace vertical entre les lignes
-      column-gutter: 0.5em,     // Espace horizontal entre les colonnes
+      columns: (1fr, 1fr, 1fr), 
+      row-gutter: 0.8em,        
+      column-gutter: 0.5em,     
       
-      // Nous ajoutons manuellement le "bullet" (•) pour simuler une liste en grille
       [• Dermo-cosmétique],
       [• Phytothérapie],
       [• Conseil officinal],
       [• ACROPOLE],
       [• Actifs végétaux],
       [• Tolérance cutanée],
-      [• Dermatologie]
+      [• Dermatologie],
+      [• Pharmacologie],
+      [• Sécurité d'emploi],
+      [• _Centella asiatica_],
+      [• Bakuchiol],
+      [• _Aloe vera_],
+      [• _Nigella sativa_],
+      [• α-Bisabolol],
+      [• Formulation]
     )
   ]
 )
